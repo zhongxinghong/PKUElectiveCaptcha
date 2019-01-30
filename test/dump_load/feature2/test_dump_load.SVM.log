@@ -1,0 +1,244 @@
+[log] Function 'test_dump_ext' Start
+Dump model to SVM.model.3.z, Compress = 3
+Done. Cost 77.775002 ms. Size of SVM.model.3.z = 1345.864258 Kb
+Dump model to SVM.model.3.gz, Compress = 3
+Done. Cost 84.924459 ms. Size of SVM.model.3.gz = 1345.875977 Kb
+Dump model to SVM.model.3.bz2, Compress = 3
+Done. Cost 346.463680 ms. Size of SVM.model.3.bz2 = 1250.514648 Kb
+Dump model to SVM.model.3.xz, Compress = 3
+Done. Cost 337.842703 ms. Size of SVM.model.3.xz = 638.109375 Kb
+Dump model to SVM.model.3.lzma, Compress = 3
+Done. Cost 334.127426 ms. Size of SVM.model.3.lzma = 637.973633 Kb
+[log] Function 'test_dump_ext' Done. Cost 1.181488 s
+[log] Function 'test_load_ext' Start
+Load model from SVM.model.3.z, Compress = 3
+Done. Cost 18.703938 ms. Size of SVM.model.3.z = 1345.864258 Kb
+Load model from SVM.model.3.gz, Compress = 3
+Done. Cost 20.849228 ms. Size of SVM.model.3.gz = 1345.875977 Kb
+Load model from SVM.model.3.bz2, Compress = 3
+Done. Cost 138.567209 ms. Size of SVM.model.3.bz2 = 1250.514648 Kb
+Load model from SVM.model.3.xz, Compress = 3
+Done. Cost 65.953493 ms. Size of SVM.model.3.xz = 638.109375 Kb
+Load model from SVM.model.3.lzma, Compress = 3
+Done. Cost 61.745644 ms. Size of SVM.model.3.lzma = 637.973633 Kb
+[log] Function 'test_load_ext' Done. Cost 307.401419 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to SVM.model.0.z, Compress = 0
+Done. Cost 77.587843 ms. Size of SVM.model.0.z = 1345.864258 Kb
+Dump model to SVM.model.1.z, Compress = 1
+Done. Cost 68.979263 ms. Size of SVM.model.1.z = 1411.667969 Kb
+Dump model to SVM.model.2.z, Compress = 2
+Done. Cost 70.241451 ms. Size of SVM.model.2.z = 1378.212891 Kb
+Dump model to SVM.model.3.z, Compress = 3
+Done. Cost 80.916882 ms. Size of SVM.model.3.z = 1345.864258 Kb
+Dump model to SVM.model.4.z, Compress = 4
+Done. Cost 87.621927 ms. Size of SVM.model.4.z = 1335.299805 Kb
+Dump model to SVM.model.5.z, Compress = 5
+Done. Cost 97.143173 ms. Size of SVM.model.5.z = 1319.004883 Kb
+Dump model to SVM.model.6.z, Compress = 6
+Done. Cost 112.319231 ms. Size of SVM.model.6.z = 1310.181641 Kb
+Dump model to SVM.model.7.z, Compress = 7
+Done. Cost 134.208441 ms. Size of SVM.model.7.z = 1305.339844 Kb
+Dump model to SVM.model.8.z, Compress = 8
+Done. Cost 441.810369 ms. Size of SVM.model.8.z = 1297.384766 Kb
+Dump model to SVM.model.9.z, Compress = 9
+Done. Cost 644.423485 ms. Size of SVM.model.9.z = 1294.576172 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 1.815771 s
+[log] Function 'test_load_compress_level' Start
+Load model from SVM.model.0.z, Compress = 0
+Done. Cost 20.145416 ms. Size of SVM.model.0.z = 1345.864258 Kb
+Load model from SVM.model.1.z, Compress = 1
+Done. Cost 19.602060 ms. Size of SVM.model.1.z = 1411.667969 Kb
+Load model from SVM.model.2.z, Compress = 2
+Done. Cost 19.198656 ms. Size of SVM.model.2.z = 1378.212891 Kb
+Load model from SVM.model.3.z, Compress = 3
+Done. Cost 18.800974 ms. Size of SVM.model.3.z = 1345.864258 Kb
+Load model from SVM.model.4.z, Compress = 4
+Done. Cost 20.736933 ms. Size of SVM.model.4.z = 1335.299805 Kb
+Load model from SVM.model.5.z, Compress = 5
+Done. Cost 20.666838 ms. Size of SVM.model.5.z = 1319.004883 Kb
+Load model from SVM.model.6.z, Compress = 6
+Done. Cost 18.910170 ms. Size of SVM.model.6.z = 1310.181641 Kb
+Load model from SVM.model.7.z, Compress = 7
+Done. Cost 20.798922 ms. Size of SVM.model.7.z = 1305.339844 Kb
+Load model from SVM.model.8.z, Compress = 8
+Done. Cost 18.963337 ms. Size of SVM.model.8.z = 1297.384766 Kb
+Load model from SVM.model.9.z, Compress = 9
+Done. Cost 20.307064 ms. Size of SVM.model.9.z = 1294.576172 Kb
+[log] Function 'test_load_compress_level' Done. Cost 202.566862 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to SVM.model.0.gz, Compress = 0
+Done. Cost 87.719679 ms. Size of SVM.model.0.gz = 1345.875977 Kb
+Dump model to SVM.model.1.gz, Compress = 1
+Done. Cost 73.312521 ms. Size of SVM.model.1.gz = 1411.679688 Kb
+Dump model to SVM.model.2.gz, Compress = 2
+Done. Cost 76.000690 ms. Size of SVM.model.2.gz = 1378.224609 Kb
+Dump model to SVM.model.3.gz, Compress = 3
+Done. Cost 82.204819 ms. Size of SVM.model.3.gz = 1345.875977 Kb
+Dump model to SVM.model.4.gz, Compress = 4
+Done. Cost 88.339806 ms. Size of SVM.model.4.gz = 1335.311523 Kb
+Dump model to SVM.model.5.gz, Compress = 5
+Done. Cost 98.851919 ms. Size of SVM.model.5.gz = 1319.016602 Kb
+Dump model to SVM.model.6.gz, Compress = 6
+Done. Cost 116.221428 ms. Size of SVM.model.6.gz = 1310.193359 Kb
+Dump model to SVM.model.7.gz, Compress = 7
+Done. Cost 150.890589 ms. Size of SVM.model.7.gz = 1305.351562 Kb
+Dump model to SVM.model.8.gz, Compress = 8
+Done. Cost 440.884113 ms. Size of SVM.model.8.gz = 1297.396484 Kb
+Dump model to SVM.model.9.gz, Compress = 9
+Done. Cost 648.719072 ms. Size of SVM.model.9.gz = 1294.587891 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 1.863653 s
+[log] Function 'test_load_compress_level' Start
+Load model from SVM.model.0.gz, Compress = 0
+Done. Cost 20.638943 ms. Size of SVM.model.0.gz = 1345.875977 Kb
+Load model from SVM.model.1.gz, Compress = 1
+Done. Cost 22.114754 ms. Size of SVM.model.1.gz = 1411.679688 Kb
+Load model from SVM.model.2.gz, Compress = 2
+Done. Cost 23.333311 ms. Size of SVM.model.2.gz = 1378.224609 Kb
+Load model from SVM.model.3.gz, Compress = 3
+Done. Cost 20.396471 ms. Size of SVM.model.3.gz = 1345.875977 Kb
+Load model from SVM.model.4.gz, Compress = 4
+Done. Cost 22.017002 ms. Size of SVM.model.4.gz = 1335.311523 Kb
+Load model from SVM.model.5.gz, Compress = 5
+Done. Cost 22.957563 ms. Size of SVM.model.5.gz = 1319.016602 Kb
+Load model from SVM.model.6.gz, Compress = 6
+Done. Cost 20.606279 ms. Size of SVM.model.6.gz = 1310.193359 Kb
+Load model from SVM.model.7.gz, Compress = 7
+Done. Cost 21.106720 ms. Size of SVM.model.7.gz = 1305.351562 Kb
+Load model from SVM.model.8.gz, Compress = 8
+Done. Cost 20.570993 ms. Size of SVM.model.8.gz = 1297.396484 Kb
+Load model from SVM.model.9.gz, Compress = 9
+Done. Cost 23.210526 ms. Size of SVM.model.9.gz = 1294.587891 Kb
+[log] Function 'test_load_compress_level' Done. Cost 220.992327 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to SVM.model.0.bz2, Compress = 0
+Done. Cost 335.299730 ms. Size of SVM.model.0.bz2 = 1250.514648 Kb
+Dump model to SVM.model.1.bz2, Compress = 1
+Done. Cost 320.915222 ms. Size of SVM.model.1.bz2 = 1253.187500 Kb
+Dump model to SVM.model.2.bz2, Compress = 2
+Done. Cost 319.943190 ms. Size of SVM.model.2.bz2 = 1250.091797 Kb
+Dump model to SVM.model.3.bz2, Compress = 3
+Done. Cost 347.896814 ms. Size of SVM.model.3.bz2 = 1250.514648 Kb
+Dump model to SVM.model.4.bz2, Compress = 4
+Done. Cost 344.777346 ms. Size of SVM.model.4.bz2 = 1250.983398 Kb
+Dump model to SVM.model.5.bz2, Compress = 5
+Done. Cost 360.573292 ms. Size of SVM.model.5.bz2 = 1251.207031 Kb
+Dump model to SVM.model.6.bz2, Compress = 6
+Done. Cost 365.474939 ms. Size of SVM.model.6.bz2 = 1253.240234 Kb
+Dump model to SVM.model.7.bz2, Compress = 7
+Done. Cost 364.575863 ms. Size of SVM.model.7.bz2 = 1252.495117 Kb
+Dump model to SVM.model.8.bz2, Compress = 8
+Done. Cost 372.587204 ms. Size of SVM.model.8.bz2 = 1253.587891 Kb
+Dump model to SVM.model.9.bz2, Compress = 9
+Done. Cost 377.146959 ms. Size of SVM.model.9.bz2 = 1254.561523 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 3.509872 s
+[log] Function 'test_load_compress_level' Start
+Load model from SVM.model.0.bz2, Compress = 0
+Done. Cost 136.508942 ms. Size of SVM.model.0.bz2 = 1250.514648 Kb
+Load model from SVM.model.1.bz2, Compress = 1
+Done. Cost 125.908852 ms. Size of SVM.model.1.bz2 = 1253.187500 Kb
+Load model from SVM.model.2.bz2, Compress = 2
+Done. Cost 143.130064 ms. Size of SVM.model.2.bz2 = 1250.091797 Kb
+Load model from SVM.model.3.bz2, Compress = 3
+Done. Cost 150.460482 ms. Size of SVM.model.3.bz2 = 1250.514648 Kb
+Load model from SVM.model.4.bz2, Compress = 4
+Done. Cost 161.787748 ms. Size of SVM.model.4.bz2 = 1250.983398 Kb
+Load model from SVM.model.5.bz2, Compress = 5
+Done. Cost 174.118280 ms. Size of SVM.model.5.bz2 = 1251.207031 Kb
+Load model from SVM.model.6.bz2, Compress = 6
+Done. Cost 183.485508 ms. Size of SVM.model.6.bz2 = 1253.240234 Kb
+Load model from SVM.model.7.bz2, Compress = 7
+Done. Cost 194.388866 ms. Size of SVM.model.7.bz2 = 1252.495117 Kb
+Load model from SVM.model.8.bz2, Compress = 8
+Done. Cost 207.718372 ms. Size of SVM.model.8.bz2 = 1253.587891 Kb
+Load model from SVM.model.9.bz2, Compress = 9
+Done. Cost 203.698635 ms. Size of SVM.model.9.bz2 = 1254.561523 Kb
+[log] Function 'test_load_compress_level' Done. Cost 1.685143 s
+[log] Function 'test_dump_compress_level' Start
+Dump model to SVM.model.0.xz, Compress = 0
+Done. Cost 320.133924 ms. Size of SVM.model.0.xz = 638.109375 Kb
+Dump model to SVM.model.1.xz, Compress = 1
+Done. Cost 448.075056 ms. Size of SVM.model.1.xz = 1240.648438 Kb
+Dump model to SVM.model.2.xz, Compress = 2
+Done. Cost 291.136265 ms. Size of SVM.model.2.xz = 640.886719 Kb
+Dump model to SVM.model.3.xz, Compress = 3
+Done. Cost 323.146105 ms. Size of SVM.model.3.xz = 638.109375 Kb
+Dump model to SVM.model.4.xz, Compress = 4
+Done. Cost 710.384846 ms. Size of SVM.model.4.xz = 647.054688 Kb
+Dump model to SVM.model.5.xz, Compress = 5
+Done. Cost 1032.487392 ms. Size of SVM.model.5.xz = 637.453125 Kb
+Dump model to SVM.model.6.xz, Compress = 6
+Done. Cost 1464.929342 ms. Size of SVM.model.6.xz = 622.757812 Kb
+Dump model to SVM.model.7.xz, Compress = 7
+Done. Cost 1443.223000 ms. Size of SVM.model.7.xz = 622.757812 Kb
+Dump model to SVM.model.8.xz, Compress = 8
+Done. Cost 1498.252392 ms. Size of SVM.model.8.xz = 622.757812 Kb
+Dump model to SVM.model.9.xz, Compress = 9
+Done. Cost 1496.989727 ms. Size of SVM.model.9.xz = 622.757812 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 9.029250 s
+[log] Function 'test_load_compress_level' Start
+Load model from SVM.model.0.xz, Compress = 0
+Done. Cost 62.164068 ms. Size of SVM.model.0.xz = 638.109375 Kb
+Load model from SVM.model.1.xz, Compress = 1
+Done. Cost 116.884232 ms. Size of SVM.model.1.xz = 1240.648438 Kb
+Load model from SVM.model.2.xz, Compress = 2
+Done. Cost 64.340830 ms. Size of SVM.model.2.xz = 640.886719 Kb
+Load model from SVM.model.3.xz, Compress = 3
+Done. Cost 67.375422 ms. Size of SVM.model.3.xz = 638.109375 Kb
+Load model from SVM.model.4.xz, Compress = 4
+Done. Cost 67.018986 ms. Size of SVM.model.4.xz = 647.054688 Kb
+Load model from SVM.model.5.xz, Compress = 5
+Done. Cost 64.933062 ms. Size of SVM.model.5.xz = 637.453125 Kb
+Load model from SVM.model.6.xz, Compress = 6
+Done. Cost 63.148499 ms. Size of SVM.model.6.xz = 622.757812 Kb
+Load model from SVM.model.7.xz, Compress = 7
+Done. Cost 64.220667 ms. Size of SVM.model.7.xz = 622.757812 Kb
+Load model from SVM.model.8.xz, Compress = 8
+Done. Cost 65.179110 ms. Size of SVM.model.8.xz = 622.757812 Kb
+Load model from SVM.model.9.xz, Compress = 9
+Done. Cost 65.651178 ms. Size of SVM.model.9.xz = 622.757812 Kb
+[log] Function 'test_load_compress_level' Done. Cost 703.945398 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to SVM.model.0.lzma, Compress = 0
+Done. Cost 316.350937 ms. Size of SVM.model.0.lzma = 637.973633 Kb
+Dump model to SVM.model.1.lzma, Compress = 1
+Done. Cost 453.636885 ms. Size of SVM.model.1.lzma = 1240.423828 Kb
+Dump model to SVM.model.2.lzma, Compress = 2
+Done. Cost 278.511524 ms. Size of SVM.model.2.lzma = 640.751953 Kb
+Dump model to SVM.model.3.lzma, Compress = 3
+Done. Cost 318.090200 ms. Size of SVM.model.3.lzma = 637.973633 Kb
+Dump model to SVM.model.4.lzma, Compress = 4
+Done. Cost 701.291561 ms. Size of SVM.model.4.lzma = 646.919922 Kb
+Dump model to SVM.model.5.lzma, Compress = 5
+Done. Cost 1020.511389 ms. Size of SVM.model.5.lzma = 637.319336 Kb
+Dump model to SVM.model.6.lzma, Compress = 6
+Done. Cost 1474.808216 ms. Size of SVM.model.6.lzma = 622.623047 Kb
+Dump model to SVM.model.7.lzma, Compress = 7
+Done. Cost 1439.802170 ms. Size of SVM.model.7.lzma = 622.623047 Kb
+Dump model to SVM.model.8.lzma, Compress = 8
+Done. Cost 1541.827679 ms. Size of SVM.model.8.lzma = 622.623047 Kb
+Dump model to SVM.model.9.lzma, Compress = 9
+Done. Cost 1485.890627 ms. Size of SVM.model.9.lzma = 622.623047 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 9.031240 s
+[log] Function 'test_load_compress_level' Start
+Load model from SVM.model.0.lzma, Compress = 0
+Done. Cost 65.083981 ms. Size of SVM.model.0.lzma = 637.973633 Kb
+Load model from SVM.model.1.lzma, Compress = 1
+Done. Cost 118.511200 ms. Size of SVM.model.1.lzma = 1240.423828 Kb
+Load model from SVM.model.2.lzma, Compress = 2
+Done. Cost 66.415071 ms. Size of SVM.model.2.lzma = 640.751953 Kb
+Load model from SVM.model.3.lzma, Compress = 3
+Done. Cost 66.496372 ms. Size of SVM.model.3.lzma = 637.973633 Kb
+Load model from SVM.model.4.lzma, Compress = 4
+Done. Cost 65.335751 ms. Size of SVM.model.4.lzma = 646.919922 Kb
+Load model from SVM.model.5.lzma, Compress = 5
+Done. Cost 63.618660 ms. Size of SVM.model.5.lzma = 637.319336 Kb
+Load model from SVM.model.6.lzma, Compress = 6
+Done. Cost 61.692238 ms. Size of SVM.model.6.lzma = 622.623047 Kb
+Load model from SVM.model.7.lzma, Compress = 7
+Done. Cost 67.146301 ms. Size of SVM.model.7.lzma = 622.623047 Kb
+Load model from SVM.model.8.lzma, Compress = 8
+Done. Cost 65.636396 ms. Size of SVM.model.8.lzma = 622.623047 Kb
+Load model from SVM.model.9.lzma, Compress = 9
+Done. Cost 70.143223 ms. Size of SVM.model.9.lzma = 622.623047 Kb
+[log] Function 'test_load_compress_level' Done. Cost 713.119030 ms

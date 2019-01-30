@@ -1,0 +1,244 @@
+[log] Function 'test_dump_ext' Start
+Dump model to RandomForest.model.3.z, Compress = 3
+Done. Cost 69.672823 ms. Size of RandomForest.model.3.z = 275.062500 Kb
+Dump model to RandomForest.model.3.gz, Compress = 3
+Done. Cost 73.548317 ms. Size of RandomForest.model.3.gz = 275.074219 Kb
+Dump model to RandomForest.model.3.bz2, Compress = 3
+Done. Cost 156.293154 ms. Size of RandomForest.model.3.bz2 = 134.712891 Kb
+Dump model to RandomForest.model.3.xz, Compress = 3
+Done. Cost 253.324032 ms. Size of RandomForest.model.3.xz = 158.558594 Kb
+Dump model to RandomForest.model.3.lzma, Compress = 3
+Done. Cost 252.783298 ms. Size of RandomForest.model.3.lzma = 158.490234 Kb
+[log] Function 'test_dump_ext' Done. Cost 805.994987 ms
+[log] Function 'test_load_ext' Start
+Load model from RandomForest.model.3.z, Compress = 3
+Done. Cost 35.611153 ms. Size of RandomForest.model.3.z = 275.062500 Kb
+Load model from RandomForest.model.3.gz, Compress = 3
+Done. Cost 31.164408 ms. Size of RandomForest.model.3.gz = 275.074219 Kb
+Load model from RandomForest.model.3.bz2, Compress = 3
+Done. Cost 76.448917 ms. Size of RandomForest.model.3.bz2 = 134.712891 Kb
+Load model from RandomForest.model.3.xz, Compress = 3
+Done. Cost 45.178175 ms. Size of RandomForest.model.3.xz = 158.558594 Kb
+Load model from RandomForest.model.3.lzma, Compress = 3
+Done. Cost 33.025980 ms. Size of RandomForest.model.3.lzma = 158.490234 Kb
+[log] Function 'test_load_ext' Done. Cost 222.866297 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to RandomForest.model.0.z, Compress = 0
+Done. Cost 46.205044 ms. Size of RandomForest.model.0.z = 275.062500 Kb
+Dump model to RandomForest.model.1.z, Compress = 1
+Done. Cost 46.323776 ms. Size of RandomForest.model.1.z = 293.416992 Kb
+Dump model to RandomForest.model.2.z, Compress = 2
+Done. Cost 46.374321 ms. Size of RandomForest.model.2.z = 284.028320 Kb
+Dump model to RandomForest.model.3.z, Compress = 3
+Done. Cost 48.058271 ms. Size of RandomForest.model.3.z = 275.062500 Kb
+Dump model to RandomForest.model.4.z, Compress = 4
+Done. Cost 69.192886 ms. Size of RandomForest.model.4.z = 251.065430 Kb
+Dump model to RandomForest.model.5.z, Compress = 5
+Done. Cost 76.154947 ms. Size of RandomForest.model.5.z = 243.605469 Kb
+Dump model to RandomForest.model.6.z, Compress = 6
+Done. Cost 98.953485 ms. Size of RandomForest.model.6.z = 236.871094 Kb
+Dump model to RandomForest.model.7.z, Compress = 7
+Done. Cost 111.280918 ms. Size of RandomForest.model.7.z = 233.832031 Kb
+Dump model to RandomForest.model.8.z, Compress = 8
+Done. Cost 229.791164 ms. Size of RandomForest.model.8.z = 213.871094 Kb
+Dump model to RandomForest.model.9.z, Compress = 9
+Done. Cost 689.096689 ms. Size of RandomForest.model.9.z = 208.173828 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 1.461921 s
+[log] Function 'test_load_compress_level' Start
+Load model from RandomForest.model.0.z, Compress = 0
+Done. Cost 23.634672 ms. Size of RandomForest.model.0.z = 275.062500 Kb
+Load model from RandomForest.model.1.z, Compress = 1
+Done. Cost 23.692846 ms. Size of RandomForest.model.1.z = 293.416992 Kb
+Load model from RandomForest.model.2.z, Compress = 2
+Done. Cost 23.321629 ms. Size of RandomForest.model.2.z = 284.028320 Kb
+Load model from RandomForest.model.3.z, Compress = 3
+Done. Cost 23.141861 ms. Size of RandomForest.model.3.z = 275.062500 Kb
+Load model from RandomForest.model.4.z, Compress = 4
+Done. Cost 29.200315 ms. Size of RandomForest.model.4.z = 251.065430 Kb
+Load model from RandomForest.model.5.z, Compress = 5
+Done. Cost 28.186560 ms. Size of RandomForest.model.5.z = 243.605469 Kb
+Load model from RandomForest.model.6.z, Compress = 6
+Done. Cost 26.247978 ms. Size of RandomForest.model.6.z = 236.871094 Kb
+Load model from RandomForest.model.7.z, Compress = 7
+Done. Cost 26.072502 ms. Size of RandomForest.model.7.z = 233.832031 Kb
+Load model from RandomForest.model.8.z, Compress = 8
+Done. Cost 26.647329 ms. Size of RandomForest.model.8.z = 213.871094 Kb
+Load model from RandomForest.model.9.z, Compress = 9
+Done. Cost 25.948763 ms. Size of RandomForest.model.9.z = 208.173828 Kb
+[log] Function 'test_load_compress_level' Done. Cost 258.226871 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to RandomForest.model.0.gz, Compress = 0
+Done. Cost 50.292492 ms. Size of RandomForest.model.0.gz = 275.074219 Kb
+Dump model to RandomForest.model.1.gz, Compress = 1
+Done. Cost 48.980474 ms. Size of RandomForest.model.1.gz = 293.428711 Kb
+Dump model to RandomForest.model.2.gz, Compress = 2
+Done. Cost 51.570415 ms. Size of RandomForest.model.2.gz = 284.040039 Kb
+Dump model to RandomForest.model.3.gz, Compress = 3
+Done. Cost 52.557230 ms. Size of RandomForest.model.3.gz = 275.074219 Kb
+Dump model to RandomForest.model.4.gz, Compress = 4
+Done. Cost 75.617313 ms. Size of RandomForest.model.4.gz = 251.077148 Kb
+Dump model to RandomForest.model.5.gz, Compress = 5
+Done. Cost 78.902006 ms. Size of RandomForest.model.5.gz = 243.617188 Kb
+Dump model to RandomForest.model.6.gz, Compress = 6
+Done. Cost 105.051756 ms. Size of RandomForest.model.6.gz = 236.882812 Kb
+Dump model to RandomForest.model.7.gz, Compress = 7
+Done. Cost 119.559765 ms. Size of RandomForest.model.7.gz = 233.843750 Kb
+Dump model to RandomForest.model.8.gz, Compress = 8
+Done. Cost 233.007193 ms. Size of RandomForest.model.8.gz = 213.882812 Kb
+Dump model to RandomForest.model.9.gz, Compress = 9
+Done. Cost 695.503235 ms. Size of RandomForest.model.9.gz = 208.185547 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 1.511501 s
+[log] Function 'test_load_compress_level' Start
+Load model from RandomForest.model.0.gz, Compress = 0
+Done. Cost 27.215719 ms. Size of RandomForest.model.0.gz = 275.074219 Kb
+Load model from RandomForest.model.1.gz, Compress = 1
+Done. Cost 27.342081 ms. Size of RandomForest.model.1.gz = 293.428711 Kb
+Load model from RandomForest.model.2.gz, Compress = 2
+Done. Cost 26.953220 ms. Size of RandomForest.model.2.gz = 284.040039 Kb
+Load model from RandomForest.model.3.gz, Compress = 3
+Done. Cost 27.428150 ms. Size of RandomForest.model.3.gz = 275.074219 Kb
+Load model from RandomForest.model.4.gz, Compress = 4
+Done. Cost 32.211304 ms. Size of RandomForest.model.4.gz = 251.077148 Kb
+Load model from RandomForest.model.5.gz, Compress = 5
+Done. Cost 31.231165 ms. Size of RandomForest.model.5.gz = 243.617188 Kb
+Load model from RandomForest.model.6.gz, Compress = 6
+Done. Cost 30.015230 ms. Size of RandomForest.model.6.gz = 236.882812 Kb
+Load model from RandomForest.model.7.gz, Compress = 7
+Done. Cost 30.853748 ms. Size of RandomForest.model.7.gz = 233.843750 Kb
+Load model from RandomForest.model.8.gz, Compress = 8
+Done. Cost 29.025316 ms. Size of RandomForest.model.8.gz = 213.882812 Kb
+Load model from RandomForest.model.9.gz, Compress = 9
+Done. Cost 29.141188 ms. Size of RandomForest.model.9.gz = 208.185547 Kb
+[log] Function 'test_load_compress_level' Done. Cost 293.496847 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to RandomForest.model.0.bz2, Compress = 0
+Done. Cost 107.057095 ms. Size of RandomForest.model.0.bz2 = 134.712891 Kb
+Dump model to RandomForest.model.1.bz2, Compress = 1
+Done. Cost 108.769655 ms. Size of RandomForest.model.1.bz2 = 149.921875 Kb
+Dump model to RandomForest.model.2.bz2, Compress = 2
+Done. Cost 107.546329 ms. Size of RandomForest.model.2.bz2 = 139.686523 Kb
+Dump model to RandomForest.model.3.bz2, Compress = 3
+Done. Cost 105.937481 ms. Size of RandomForest.model.3.bz2 = 134.712891 Kb
+Dump model to RandomForest.model.4.bz2, Compress = 4
+Done. Cost 108.228683 ms. Size of RandomForest.model.4.bz2 = 129.208008 Kb
+Dump model to RandomForest.model.5.bz2, Compress = 5
+Done. Cost 107.036114 ms. Size of RandomForest.model.5.bz2 = 128.541992 Kb
+Dump model to RandomForest.model.6.bz2, Compress = 6
+Done. Cost 110.486031 ms. Size of RandomForest.model.6.bz2 = 126.366211 Kb
+Dump model to RandomForest.model.7.bz2, Compress = 7
+Done. Cost 116.504192 ms. Size of RandomForest.model.7.bz2 = 121.280273 Kb
+Dump model to RandomForest.model.8.bz2, Compress = 8
+Done. Cost 115.617514 ms. Size of RandomForest.model.8.bz2 = 119.913086 Kb
+Dump model to RandomForest.model.9.bz2, Compress = 9
+Done. Cost 113.728046 ms. Size of RandomForest.model.9.bz2 = 119.913086 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 1.101431 s
+[log] Function 'test_load_compress_level' Start
+Load model from RandomForest.model.0.bz2, Compress = 0
+Done. Cost 62.008619 ms. Size of RandomForest.model.0.bz2 = 134.712891 Kb
+Load model from RandomForest.model.1.bz2, Compress = 1
+Done. Cost 52.887201 ms. Size of RandomForest.model.1.bz2 = 149.921875 Kb
+Load model from RandomForest.model.2.bz2, Compress = 2
+Done. Cost 57.587624 ms. Size of RandomForest.model.2.bz2 = 139.686523 Kb
+Load model from RandomForest.model.3.bz2, Compress = 3
+Done. Cost 62.969685 ms. Size of RandomForest.model.3.bz2 = 134.712891 Kb
+Load model from RandomForest.model.4.bz2, Compress = 4
+Done. Cost 64.902782 ms. Size of RandomForest.model.4.bz2 = 129.208008 Kb
+Load model from RandomForest.model.5.bz2, Compress = 5
+Done. Cost 68.154097 ms. Size of RandomForest.model.5.bz2 = 128.541992 Kb
+Load model from RandomForest.model.6.bz2, Compress = 6
+Done. Cost 67.029953 ms. Size of RandomForest.model.6.bz2 = 126.366211 Kb
+Load model from RandomForest.model.7.bz2, Compress = 7
+Done. Cost 76.047182 ms. Size of RandomForest.model.7.bz2 = 121.280273 Kb
+Load model from RandomForest.model.8.bz2, Compress = 8
+Done. Cost 73.823214 ms. Size of RandomForest.model.8.bz2 = 119.913086 Kb
+Load model from RandomForest.model.9.bz2, Compress = 9
+Done. Cost 77.357531 ms. Size of RandomForest.model.9.bz2 = 119.913086 Kb
+[log] Function 'test_load_compress_level' Done. Cost 664.769411 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to RandomForest.model.0.xz, Compress = 0
+Done. Cost 159.673214 ms. Size of RandomForest.model.0.xz = 158.558594 Kb
+Dump model to RandomForest.model.1.xz, Compress = 1
+Done. Cost 120.158911 ms. Size of RandomForest.model.1.xz = 168.968750 Kb
+Dump model to RandomForest.model.2.xz, Compress = 2
+Done. Cost 141.834497 ms. Size of RandomForest.model.2.xz = 159.750000 Kb
+Dump model to RandomForest.model.3.xz, Compress = 3
+Done. Cost 155.726671 ms. Size of RandomForest.model.3.xz = 158.558594 Kb
+Dump model to RandomForest.model.4.xz, Compress = 4
+Done. Cost 348.255396 ms. Size of RandomForest.model.4.xz = 166.917969 Kb
+Dump model to RandomForest.model.5.xz, Compress = 5
+Done. Cost 561.747789 ms. Size of RandomForest.model.5.xz = 158.582031 Kb
+Dump model to RandomForest.model.6.xz, Compress = 6
+Done. Cost 961.678267 ms. Size of RandomForest.model.6.xz = 153.640625 Kb
+Dump model to RandomForest.model.7.xz, Compress = 7
+Done. Cost 966.529131 ms. Size of RandomForest.model.7.xz = 153.640625 Kb
+Dump model to RandomForest.model.8.xz, Compress = 8
+Done. Cost 1027.982712 ms. Size of RandomForest.model.8.xz = 153.640625 Kb
+Dump model to RandomForest.model.9.xz, Compress = 9
+Done. Cost 1705.176592 ms. Size of RandomForest.model.9.xz = 153.640625 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 6.149348 s
+[log] Function 'test_load_compress_level' Start
+Load model from RandomForest.model.0.xz, Compress = 0
+Done. Cost 61.779499 ms. Size of RandomForest.model.0.xz = 158.558594 Kb
+Load model from RandomForest.model.1.xz, Compress = 1
+Done. Cost 58.284283 ms. Size of RandomForest.model.1.xz = 168.968750 Kb
+Load model from RandomForest.model.2.xz, Compress = 2
+Done. Cost 73.300362 ms. Size of RandomForest.model.2.xz = 159.750000 Kb
+Load model from RandomForest.model.3.xz, Compress = 3
+Done. Cost 66.241026 ms. Size of RandomForest.model.3.xz = 158.558594 Kb
+Load model from RandomForest.model.4.xz, Compress = 4
+Done. Cost 85.347652 ms. Size of RandomForest.model.4.xz = 166.917969 Kb
+Load model from RandomForest.model.5.xz, Compress = 5
+Done. Cost 67.937374 ms. Size of RandomForest.model.5.xz = 158.582031 Kb
+Load model from RandomForest.model.6.xz, Compress = 6
+Done. Cost 66.399813 ms. Size of RandomForest.model.6.xz = 153.640625 Kb
+Load model from RandomForest.model.7.xz, Compress = 7
+Done. Cost 52.969933 ms. Size of RandomForest.model.7.xz = 153.640625 Kb
+Load model from RandomForest.model.8.xz, Compress = 8
+Done. Cost 126.861095 ms. Size of RandomForest.model.8.xz = 153.640625 Kb
+Load model from RandomForest.model.9.xz, Compress = 9
+Done. Cost 67.658424 ms. Size of RandomForest.model.9.xz = 153.640625 Kb
+[log] Function 'test_load_compress_level' Done. Cost 731.759071 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to RandomForest.model.0.lzma, Compress = 0
+Done. Cost 375.438929 ms. Size of RandomForest.model.0.lzma = 158.490234 Kb
+Dump model to RandomForest.model.1.lzma, Compress = 1
+Done. Cost 364.041328 ms. Size of RandomForest.model.1.lzma = 168.900391 Kb
+Dump model to RandomForest.model.2.lzma, Compress = 2
+Done. Cost 479.431629 ms. Size of RandomForest.model.2.lzma = 159.681641 Kb
+Dump model to RandomForest.model.3.lzma, Compress = 3
+Done. Cost 330.188036 ms. Size of RandomForest.model.3.lzma = 158.490234 Kb
+Dump model to RandomForest.model.4.lzma, Compress = 4
+Done. Cost 397.281647 ms. Size of RandomForest.model.4.lzma = 166.851562 Kb
+Dump model to RandomForest.model.5.lzma, Compress = 5
+Done. Cost 562.388659 ms. Size of RandomForest.model.5.lzma = 158.514648 Kb
+Dump model to RandomForest.model.6.lzma, Compress = 6
+Done. Cost 1085.997581 ms. Size of RandomForest.model.6.lzma = 153.573242 Kb
+Dump model to RandomForest.model.7.lzma, Compress = 7
+Done. Cost 1234.223127 ms. Size of RandomForest.model.7.lzma = 153.573242 Kb
+Dump model to RandomForest.model.8.lzma, Compress = 8
+Done. Cost 1218.106270 ms. Size of RandomForest.model.8.lzma = 153.573242 Kb
+Dump model to RandomForest.model.9.lzma, Compress = 9
+Done. Cost 1230.256796 ms. Size of RandomForest.model.9.lzma = 153.573242 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 7.277993 s
+[log] Function 'test_load_compress_level' Start
+Load model from RandomForest.model.0.lzma, Compress = 0
+Done. Cost 39.641380 ms. Size of RandomForest.model.0.lzma = 158.490234 Kb
+Load model from RandomForest.model.1.lzma, Compress = 1
+Done. Cost 32.054424 ms. Size of RandomForest.model.1.lzma = 168.900391 Kb
+Load model from RandomForest.model.2.lzma, Compress = 2
+Done. Cost 37.169218 ms. Size of RandomForest.model.2.lzma = 159.681641 Kb
+Load model from RandomForest.model.3.lzma, Compress = 3
+Done. Cost 40.528059 ms. Size of RandomForest.model.3.lzma = 158.490234 Kb
+Load model from RandomForest.model.4.lzma, Compress = 4
+Done. Cost 40.620327 ms. Size of RandomForest.model.4.lzma = 166.851562 Kb
+Load model from RandomForest.model.5.lzma, Compress = 5
+Done. Cost 38.295269 ms. Size of RandomForest.model.5.lzma = 158.514648 Kb
+Load model from RandomForest.model.6.lzma, Compress = 6
+Done. Cost 41.754246 ms. Size of RandomForest.model.6.lzma = 153.573242 Kb
+Load model from RandomForest.model.7.lzma, Compress = 7
+Done. Cost 40.288210 ms. Size of RandomForest.model.7.lzma = 153.573242 Kb
+Load model from RandomForest.model.8.lzma, Compress = 8
+Done. Cost 44.702530 ms. Size of RandomForest.model.8.lzma = 153.573242 Kb
+Load model from RandomForest.model.9.lzma, Compress = 9
+Done. Cost 37.007093 ms. Size of RandomForest.model.9.lzma = 153.573242 Kb
+[log] Function 'test_load_compress_level' Done. Cost 394.381285 ms

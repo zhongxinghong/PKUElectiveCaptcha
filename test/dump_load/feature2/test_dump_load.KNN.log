@@ -1,0 +1,244 @@
+[log] Function 'test_dump_ext' Start
+Dump model to KNN.model.3.z, Compress = 3
+Done. Cost 90.902805 ms. Size of KNN.model.3.z = 593.979492 Kb
+Dump model to KNN.model.3.gz, Compress = 3
+Done. Cost 105.084896 ms. Size of KNN.model.3.gz = 593.991211 Kb
+Dump model to KNN.model.3.bz2, Compress = 3
+Done. Cost 640.515804 ms. Size of KNN.model.3.bz2 = 235.018555 Kb
+Dump model to KNN.model.3.xz, Compress = 3
+Done. Cost 313.192606 ms. Size of KNN.model.3.xz = 307.789062 Kb
+Dump model to KNN.model.3.lzma, Compress = 3
+Done. Cost 312.752724 ms. Size of KNN.model.3.lzma = 307.690430 Kb
+[log] Function 'test_dump_ext' Done. Cost 1.462744 s
+[log] Function 'test_load_ext' Start
+Load model from KNN.model.3.z, Compress = 3
+Done. Cost 37.219524 ms. Size of KNN.model.3.z = 593.979492 Kb
+Load model from KNN.model.3.gz, Compress = 3
+Done. Cost 43.606281 ms. Size of KNN.model.3.gz = 593.991211 Kb
+Load model from KNN.model.3.bz2, Compress = 3
+Done. Cost 149.747372 ms. Size of KNN.model.3.bz2 = 235.018555 Kb
+Load model from KNN.model.3.xz, Compress = 3
+Done. Cost 57.448149 ms. Size of KNN.model.3.xz = 307.789062 Kb
+Load model from KNN.model.3.lzma, Compress = 3
+Done. Cost 59.878588 ms. Size of KNN.model.3.lzma = 307.690430 Kb
+[log] Function 'test_load_ext' Done. Cost 349.399328 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to KNN.model.0.z, Compress = 0
+Done. Cost 88.834524 ms. Size of KNN.model.0.z = 593.979492 Kb
+Dump model to KNN.model.1.z, Compress = 1
+Done. Cost 94.838142 ms. Size of KNN.model.1.z = 926.428711 Kb
+Dump model to KNN.model.2.z, Compress = 2
+Done. Cost 87.163448 ms. Size of KNN.model.2.z = 738.577148 Kb
+Dump model to KNN.model.3.z, Compress = 3
+Done. Cost 90.792179 ms. Size of KNN.model.3.z = 593.979492 Kb
+Dump model to KNN.model.4.z, Compress = 4
+Done. Cost 117.739916 ms. Size of KNN.model.4.z = 623.690430 Kb
+Dump model to KNN.model.5.z, Compress = 5
+Done. Cost 137.323380 ms. Size of KNN.model.5.z = 537.026367 Kb
+Dump model to KNN.model.6.z, Compress = 6
+Done. Cost 212.703943 ms. Size of KNN.model.6.z = 452.715820 Kb
+Dump model to KNN.model.7.z, Compress = 7
+Done. Cost 280.593395 ms. Size of KNN.model.7.z = 434.459961 Kb
+Dump model to KNN.model.8.z, Compress = 8
+Done. Cost 599.521160 ms. Size of KNN.model.8.z = 410.289062 Kb
+Dump model to KNN.model.9.z, Compress = 9
+Done. Cost 1387.810707 ms. Size of KNN.model.9.z = 396.002930 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 3.097803 s
+[log] Function 'test_load_compress_level' Start
+Load model from KNN.model.0.z, Compress = 0
+Done. Cost 36.083698 ms. Size of KNN.model.0.z = 593.979492 Kb
+Load model from KNN.model.1.z, Compress = 1
+Done. Cost 43.095112 ms. Size of KNN.model.1.z = 926.428711 Kb
+Load model from KNN.model.2.z, Compress = 2
+Done. Cost 40.302753 ms. Size of KNN.model.2.z = 738.577148 Kb
+Load model from KNN.model.3.z, Compress = 3
+Done. Cost 33.936262 ms. Size of KNN.model.3.z = 593.979492 Kb
+Load model from KNN.model.4.z, Compress = 4
+Done. Cost 38.923264 ms. Size of KNN.model.4.z = 623.690430 Kb
+Load model from KNN.model.5.z, Compress = 5
+Done. Cost 37.304401 ms. Size of KNN.model.5.z = 537.026367 Kb
+Load model from KNN.model.6.z, Compress = 6
+Done. Cost 34.909487 ms. Size of KNN.model.6.z = 452.715820 Kb
+Load model from KNN.model.7.z, Compress = 7
+Done. Cost 33.857346 ms. Size of KNN.model.7.z = 434.459961 Kb
+Load model from KNN.model.8.z, Compress = 8
+Done. Cost 33.400536 ms. Size of KNN.model.8.z = 410.289062 Kb
+Load model from KNN.model.9.z, Compress = 9
+Done. Cost 37.180424 ms. Size of KNN.model.9.z = 396.002930 Kb
+[log] Function 'test_load_compress_level' Done. Cost 372.040510 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to KNN.model.0.gz, Compress = 0
+Done. Cost 92.079401 ms. Size of KNN.model.0.gz = 593.991211 Kb
+Dump model to KNN.model.1.gz, Compress = 1
+Done. Cost 97.517967 ms. Size of KNN.model.1.gz = 926.440430 Kb
+Dump model to KNN.model.2.gz, Compress = 2
+Done. Cost 89.694977 ms. Size of KNN.model.2.gz = 738.588867 Kb
+Dump model to KNN.model.3.gz, Compress = 3
+Done. Cost 96.973658 ms. Size of KNN.model.3.gz = 593.991211 Kb
+Dump model to KNN.model.4.gz, Compress = 4
+Done. Cost 130.699396 ms. Size of KNN.model.4.gz = 623.702148 Kb
+Dump model to KNN.model.5.gz, Compress = 5
+Done. Cost 145.455599 ms. Size of KNN.model.5.gz = 537.038086 Kb
+Dump model to KNN.model.6.gz, Compress = 6
+Done. Cost 218.388081 ms. Size of KNN.model.6.gz = 452.727539 Kb
+Dump model to KNN.model.7.gz, Compress = 7
+Done. Cost 291.308165 ms. Size of KNN.model.7.gz = 434.471680 Kb
+Dump model to KNN.model.8.gz, Compress = 8
+Done. Cost 602.733612 ms. Size of KNN.model.8.gz = 410.300781 Kb
+Dump model to KNN.model.9.gz, Compress = 9
+Done. Cost 1409.852028 ms. Size of KNN.model.9.gz = 396.014648 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 3.175282 s
+[log] Function 'test_load_compress_level' Start
+Load model from KNN.model.0.gz, Compress = 0
+Done. Cost 41.471243 ms. Size of KNN.model.0.gz = 593.991211 Kb
+Load model from KNN.model.1.gz, Compress = 1
+Done. Cost 47.395229 ms. Size of KNN.model.1.gz = 926.440430 Kb
+Load model from KNN.model.2.gz, Compress = 2
+Done. Cost 46.913147 ms. Size of KNN.model.2.gz = 738.588867 Kb
+Load model from KNN.model.3.gz, Compress = 3
+Done. Cost 40.982485 ms. Size of KNN.model.3.gz = 593.991211 Kb
+Load model from KNN.model.4.gz, Compress = 4
+Done. Cost 45.718908 ms. Size of KNN.model.4.gz = 623.702148 Kb
+Load model from KNN.model.5.gz, Compress = 5
+Done. Cost 44.166088 ms. Size of KNN.model.5.gz = 537.038086 Kb
+Load model from KNN.model.6.gz, Compress = 6
+Done. Cost 41.651487 ms. Size of KNN.model.6.gz = 452.727539 Kb
+Load model from KNN.model.7.gz, Compress = 7
+Done. Cost 40.564060 ms. Size of KNN.model.7.gz = 434.471680 Kb
+Load model from KNN.model.8.gz, Compress = 8
+Done. Cost 45.276165 ms. Size of KNN.model.8.gz = 410.300781 Kb
+Load model from KNN.model.9.gz, Compress = 9
+Done. Cost 39.211035 ms. Size of KNN.model.9.gz = 396.014648 Kb
+[log] Function 'test_load_compress_level' Done. Cost 436.044216 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to KNN.model.0.bz2, Compress = 0
+Done. Cost 623.465776 ms. Size of KNN.model.0.bz2 = 235.018555 Kb
+Dump model to KNN.model.1.bz2, Compress = 1
+Done. Cost 523.186684 ms. Size of KNN.model.1.bz2 = 231.629883 Kb
+Dump model to KNN.model.2.bz2, Compress = 2
+Done. Cost 593.605280 ms. Size of KNN.model.2.bz2 = 231.860352 Kb
+Dump model to KNN.model.3.bz2, Compress = 3
+Done. Cost 643.862247 ms. Size of KNN.model.3.bz2 = 235.018555 Kb
+Dump model to KNN.model.4.bz2, Compress = 4
+Done. Cost 690.389872 ms. Size of KNN.model.4.bz2 = 235.626953 Kb
+Dump model to KNN.model.5.bz2, Compress = 5
+Done. Cost 684.425831 ms. Size of KNN.model.5.bz2 = 238.501953 Kb
+Dump model to KNN.model.6.bz2, Compress = 6
+Done. Cost 803.295612 ms. Size of KNN.model.6.bz2 = 239.246094 Kb
+Dump model to KNN.model.7.bz2, Compress = 7
+Done. Cost 822.362661 ms. Size of KNN.model.7.bz2 = 241.252930 Kb
+Dump model to KNN.model.8.bz2, Compress = 8
+Done. Cost 696.404934 ms. Size of KNN.model.8.bz2 = 241.210938 Kb
+Dump model to KNN.model.9.bz2, Compress = 9
+Done. Cost 744.305134 ms. Size of KNN.model.9.bz2 = 242.573242 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 6.825812 s
+[log] Function 'test_load_compress_level' Start
+Load model from KNN.model.0.bz2, Compress = 0
+Done. Cost 149.524450 ms. Size of KNN.model.0.bz2 = 235.018555 Kb
+Load model from KNN.model.1.bz2, Compress = 1
+Done. Cost 124.142885 ms. Size of KNN.model.1.bz2 = 231.629883 Kb
+Load model from KNN.model.2.bz2, Compress = 2
+Done. Cost 138.013124 ms. Size of KNN.model.2.bz2 = 231.860352 Kb
+Load model from KNN.model.3.bz2, Compress = 3
+Done. Cost 149.657488 ms. Size of KNN.model.3.bz2 = 235.018555 Kb
+Load model from KNN.model.4.bz2, Compress = 4
+Done. Cost 170.441151 ms. Size of KNN.model.4.bz2 = 235.626953 Kb
+Load model from KNN.model.5.bz2, Compress = 5
+Done. Cost 162.486076 ms. Size of KNN.model.5.bz2 = 238.501953 Kb
+Load model from KNN.model.6.bz2, Compress = 6
+Done. Cost 170.908928 ms. Size of KNN.model.6.bz2 = 239.246094 Kb
+Load model from KNN.model.7.bz2, Compress = 7
+Done. Cost 182.749748 ms. Size of KNN.model.7.bz2 = 241.252930 Kb
+Load model from KNN.model.8.bz2, Compress = 8
+Done. Cost 190.589190 ms. Size of KNN.model.8.bz2 = 241.210938 Kb
+Load model from KNN.model.9.bz2, Compress = 9
+Done. Cost 184.671164 ms. Size of KNN.model.9.bz2 = 242.573242 Kb
+[log] Function 'test_load_compress_level' Done. Cost 1.625232 s
+[log] Function 'test_dump_compress_level' Start
+Dump model to KNN.model.0.xz, Compress = 0
+Done. Cost 305.622578 ms. Size of KNN.model.0.xz = 307.789062 Kb
+Dump model to KNN.model.1.xz, Compress = 1
+Done. Cost 235.256910 ms. Size of KNN.model.1.xz = 330.156250 Kb
+Dump model to KNN.model.2.xz, Compress = 2
+Done. Cost 274.853468 ms. Size of KNN.model.2.xz = 315.851562 Kb
+Dump model to KNN.model.3.xz, Compress = 3
+Done. Cost 312.177658 ms. Size of KNN.model.3.xz = 307.789062 Kb
+Dump model to KNN.model.4.xz, Compress = 4
+Done. Cost 950.224161 ms. Size of KNN.model.4.xz = 370.628906 Kb
+Dump model to KNN.model.5.xz, Compress = 5
+Done. Cost 1656.663179 ms. Size of KNN.model.5.xz = 326.273438 Kb
+Dump model to KNN.model.6.xz, Compress = 6
+Done. Cost 3755.563259 ms. Size of KNN.model.6.xz = 298.097656 Kb
+Dump model to KNN.model.7.xz, Compress = 7
+Done. Cost 3607.324600 ms. Size of KNN.model.7.xz = 298.097656 Kb
+Dump model to KNN.model.8.xz, Compress = 8
+Done. Cost 3694.441557 ms. Size of KNN.model.8.xz = 298.097656 Kb
+Dump model to KNN.model.9.xz, Compress = 9
+Done. Cost 3889.292002 ms. Size of KNN.model.9.xz = 298.097656 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 18.682042 s
+[log] Function 'test_load_compress_level' Start
+Load model from KNN.model.0.xz, Compress = 0
+Done. Cost 72.057247 ms. Size of KNN.model.0.xz = 307.789062 Kb
+Load model from KNN.model.1.xz, Compress = 1
+Done. Cost 76.908827 ms. Size of KNN.model.1.xz = 330.156250 Kb
+Load model from KNN.model.2.xz, Compress = 2
+Done. Cost 59.775829 ms. Size of KNN.model.2.xz = 315.851562 Kb
+Load model from KNN.model.3.xz, Compress = 3
+Done. Cost 64.359665 ms. Size of KNN.model.3.xz = 307.789062 Kb
+Load model from KNN.model.4.xz, Compress = 4
+Done. Cost 70.631027 ms. Size of KNN.model.4.xz = 370.628906 Kb
+Load model from KNN.model.5.xz, Compress = 5
+Done. Cost 64.547539 ms. Size of KNN.model.5.xz = 326.273438 Kb
+Load model from KNN.model.6.xz, Compress = 6
+Done. Cost 63.701391 ms. Size of KNN.model.6.xz = 298.097656 Kb
+Load model from KNN.model.7.xz, Compress = 7
+Done. Cost 59.078217 ms. Size of KNN.model.7.xz = 298.097656 Kb
+Load model from KNN.model.8.xz, Compress = 8
+Done. Cost 58.190107 ms. Size of KNN.model.8.xz = 298.097656 Kb
+Load model from KNN.model.9.xz, Compress = 9
+Done. Cost 61.216116 ms. Size of KNN.model.9.xz = 298.097656 Kb
+[log] Function 'test_load_compress_level' Done. Cost 653.047323 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to KNN.model.0.lzma, Compress = 0
+Done. Cost 335.779905 ms. Size of KNN.model.0.lzma = 307.690430 Kb
+Dump model to KNN.model.1.lzma, Compress = 1
+Done. Cost 250.622749 ms. Size of KNN.model.1.lzma = 330.058594 Kb
+Dump model to KNN.model.2.lzma, Compress = 2
+Done. Cost 267.187119 ms. Size of KNN.model.2.lzma = 315.754883 Kb
+Dump model to KNN.model.3.lzma, Compress = 3
+Done. Cost 324.835300 ms. Size of KNN.model.3.lzma = 307.690430 Kb
+Dump model to KNN.model.4.lzma, Compress = 4
+Done. Cost 880.280972 ms. Size of KNN.model.4.lzma = 370.531250 Kb
+Dump model to KNN.model.5.lzma, Compress = 5
+Done. Cost 1591.653109 ms. Size of KNN.model.5.lzma = 326.188477 Kb
+Dump model to KNN.model.6.lzma, Compress = 6
+Done. Cost 3629.448414 ms. Size of KNN.model.6.lzma = 298.010742 Kb
+Dump model to KNN.model.7.lzma, Compress = 7
+Done. Cost 3832.274437 ms. Size of KNN.model.7.lzma = 298.012695 Kb
+Dump model to KNN.model.8.lzma, Compress = 8
+Done. Cost 3959.565401 ms. Size of KNN.model.8.lzma = 298.012695 Kb
+Dump model to KNN.model.9.lzma, Compress = 9
+Done. Cost 3878.219366 ms. Size of KNN.model.9.lzma = 298.012695 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 18.950513 s
+[log] Function 'test_load_compress_level' Start
+Load model from KNN.model.0.lzma, Compress = 0
+Done. Cost 67.116261 ms. Size of KNN.model.0.lzma = 307.690430 Kb
+Load model from KNN.model.1.lzma, Compress = 1
+Done. Cost 66.722155 ms. Size of KNN.model.1.lzma = 330.058594 Kb
+Load model from KNN.model.2.lzma, Compress = 2
+Done. Cost 59.968472 ms. Size of KNN.model.2.lzma = 315.754883 Kb
+Load model from KNN.model.3.lzma, Compress = 3
+Done. Cost 66.670895 ms. Size of KNN.model.3.lzma = 307.690430 Kb
+Load model from KNN.model.4.lzma, Compress = 4
+Done. Cost 61.902285 ms. Size of KNN.model.4.lzma = 370.531250 Kb
+Load model from KNN.model.5.lzma, Compress = 5
+Done. Cost 61.110735 ms. Size of KNN.model.5.lzma = 326.188477 Kb
+Load model from KNN.model.6.lzma, Compress = 6
+Done. Cost 57.989359 ms. Size of KNN.model.6.lzma = 298.010742 Kb
+Load model from KNN.model.7.lzma, Compress = 7
+Done. Cost 61.677456 ms. Size of KNN.model.7.lzma = 298.012695 Kb
+Load model from KNN.model.8.lzma, Compress = 8
+Done. Cost 58.794260 ms. Size of KNN.model.8.lzma = 298.012695 Kb
+Load model from KNN.model.9.lzma, Compress = 9
+Done. Cost 68.814516 ms. Size of KNN.model.9.lzma = 298.012695 Kb
+[log] Function 'test_load_compress_level' Done. Cost 633.778095 ms

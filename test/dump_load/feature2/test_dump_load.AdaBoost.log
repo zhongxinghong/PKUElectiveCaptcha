@@ -1,0 +1,244 @@
+[log] Function 'test_dump_ext' Start
+Dump model to AdaBoost.model.3.z, Compress = 3
+Done. Cost 32.114744 ms. Size of AdaBoost.model.3.z = 16.338867 Kb
+Dump model to AdaBoost.model.3.gz, Compress = 3
+Done. Cost 31.929255 ms. Size of AdaBoost.model.3.gz = 16.350586 Kb
+Dump model to AdaBoost.model.3.bz2, Compress = 3
+Done. Cost 42.532444 ms. Size of AdaBoost.model.3.bz2 = 17.974609 Kb
+Dump model to AdaBoost.model.3.xz, Compress = 3
+Done. Cost 47.975540 ms. Size of AdaBoost.model.3.xz = 11.820312 Kb
+Dump model to AdaBoost.model.3.lzma, Compress = 3
+Done. Cost 43.943644 ms. Size of AdaBoost.model.3.lzma = 11.781250 Kb
+[log] Function 'test_dump_ext' Done. Cost 198.818922 ms
+[log] Function 'test_load_ext' Start
+Load model from AdaBoost.model.3.z, Compress = 3
+Done. Cost 31.689167 ms. Size of AdaBoost.model.3.z = 16.338867 Kb
+Load model from AdaBoost.model.3.gz, Compress = 3
+Done. Cost 27.526855 ms. Size of AdaBoost.model.3.gz = 16.350586 Kb
+Load model from AdaBoost.model.3.bz2, Compress = 3
+Done. Cost 30.470610 ms. Size of AdaBoost.model.3.bz2 = 17.974609 Kb
+Load model from AdaBoost.model.3.xz, Compress = 3
+Done. Cost 27.535439 ms. Size of AdaBoost.model.3.xz = 11.820312 Kb
+Load model from AdaBoost.model.3.lzma, Compress = 3
+Done. Cost 29.602051 ms. Size of AdaBoost.model.3.lzma = 11.781250 Kb
+[log] Function 'test_load_ext' Done. Cost 148.100138 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to AdaBoost.model.0.z, Compress = 0
+Done. Cost 33.437729 ms. Size of AdaBoost.model.0.z = 16.338867 Kb
+Dump model to AdaBoost.model.1.z, Compress = 1
+Done. Cost 32.262802 ms. Size of AdaBoost.model.1.z = 17.877930 Kb
+Dump model to AdaBoost.model.2.z, Compress = 2
+Done. Cost 32.008648 ms. Size of AdaBoost.model.2.z = 17.516602 Kb
+Dump model to AdaBoost.model.3.z, Compress = 3
+Done. Cost 42.588949 ms. Size of AdaBoost.model.3.z = 16.338867 Kb
+Dump model to AdaBoost.model.4.z, Compress = 4
+Done. Cost 36.679745 ms. Size of AdaBoost.model.4.z = 17.056641 Kb
+Dump model to AdaBoost.model.5.z, Compress = 5
+Done. Cost 36.612034 ms. Size of AdaBoost.model.5.z = 15.836914 Kb
+Dump model to AdaBoost.model.6.z, Compress = 6
+Done. Cost 39.747953 ms. Size of AdaBoost.model.6.z = 15.550781 Kb
+Dump model to AdaBoost.model.7.z, Compress = 7
+Done. Cost 37.972450 ms. Size of AdaBoost.model.7.z = 15.551758 Kb
+Dump model to AdaBoost.model.8.z, Compress = 8
+Done. Cost 38.565874 ms. Size of AdaBoost.model.8.z = 15.462891 Kb
+Dump model to AdaBoost.model.9.z, Compress = 9
+Done. Cost 46.765327 ms. Size of AdaBoost.model.9.z = 15.432617 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 377.293587 ms
+[log] Function 'test_load_compress_level' Start
+Load model from AdaBoost.model.0.z, Compress = 0
+Done. Cost 27.079582 ms. Size of AdaBoost.model.0.z = 16.338867 Kb
+Load model from AdaBoost.model.1.z, Compress = 1
+Done. Cost 25.033474 ms. Size of AdaBoost.model.1.z = 17.877930 Kb
+Load model from AdaBoost.model.2.z, Compress = 2
+Done. Cost 26.999712 ms. Size of AdaBoost.model.2.z = 17.516602 Kb
+Load model from AdaBoost.model.3.z, Compress = 3
+Done. Cost 29.117584 ms. Size of AdaBoost.model.3.z = 16.338867 Kb
+Load model from AdaBoost.model.4.z, Compress = 4
+Done. Cost 24.977922 ms. Size of AdaBoost.model.4.z = 17.056641 Kb
+Load model from AdaBoost.model.5.z, Compress = 5
+Done. Cost 24.905682 ms. Size of AdaBoost.model.5.z = 15.836914 Kb
+Load model from AdaBoost.model.6.z, Compress = 6
+Done. Cost 26.333570 ms. Size of AdaBoost.model.6.z = 15.550781 Kb
+Load model from AdaBoost.model.7.z, Compress = 7
+Done. Cost 24.139643 ms. Size of AdaBoost.model.7.z = 15.551758 Kb
+Load model from AdaBoost.model.8.z, Compress = 8
+Done. Cost 28.356552 ms. Size of AdaBoost.model.8.z = 15.462891 Kb
+Load model from AdaBoost.model.9.z, Compress = 9
+Done. Cost 24.254799 ms. Size of AdaBoost.model.9.z = 15.432617 Kb
+[log] Function 'test_load_compress_level' Done. Cost 263.664246 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to AdaBoost.model.0.gz, Compress = 0
+Done. Cost 32.242060 ms. Size of AdaBoost.model.0.gz = 16.350586 Kb
+Dump model to AdaBoost.model.1.gz, Compress = 1
+Done. Cost 37.556887 ms. Size of AdaBoost.model.1.gz = 17.889648 Kb
+Dump model to AdaBoost.model.2.gz, Compress = 2
+Done. Cost 32.880068 ms. Size of AdaBoost.model.2.gz = 17.528320 Kb
+Dump model to AdaBoost.model.3.gz, Compress = 3
+Done. Cost 33.311367 ms. Size of AdaBoost.model.3.gz = 16.350586 Kb
+Dump model to AdaBoost.model.4.gz, Compress = 4
+Done. Cost 33.414841 ms. Size of AdaBoost.model.4.gz = 17.068359 Kb
+Dump model to AdaBoost.model.5.gz, Compress = 5
+Done. Cost 37.955284 ms. Size of AdaBoost.model.5.gz = 15.848633 Kb
+Dump model to AdaBoost.model.6.gz, Compress = 6
+Done. Cost 36.046743 ms. Size of AdaBoost.model.6.gz = 15.562500 Kb
+Dump model to AdaBoost.model.7.gz, Compress = 7
+Done. Cost 36.395073 ms. Size of AdaBoost.model.7.gz = 15.563477 Kb
+Dump model to AdaBoost.model.8.gz, Compress = 8
+Done. Cost 35.265446 ms. Size of AdaBoost.model.8.gz = 15.474609 Kb
+Dump model to AdaBoost.model.9.gz, Compress = 9
+Done. Cost 39.964914 ms. Size of AdaBoost.model.9.gz = 15.444336 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 355.637550 ms
+[log] Function 'test_load_compress_level' Start
+Load model from AdaBoost.model.0.gz, Compress = 0
+Done. Cost 25.322676 ms. Size of AdaBoost.model.0.gz = 16.350586 Kb
+Load model from AdaBoost.model.1.gz, Compress = 1
+Done. Cost 25.130272 ms. Size of AdaBoost.model.1.gz = 17.889648 Kb
+Load model from AdaBoost.model.2.gz, Compress = 2
+Done. Cost 26.254892 ms. Size of AdaBoost.model.2.gz = 17.528320 Kb
+Load model from AdaBoost.model.3.gz, Compress = 3
+Done. Cost 24.472952 ms. Size of AdaBoost.model.3.gz = 16.350586 Kb
+Load model from AdaBoost.model.4.gz, Compress = 4
+Done. Cost 25.827408 ms. Size of AdaBoost.model.4.gz = 17.068359 Kb
+Load model from AdaBoost.model.5.gz, Compress = 5
+Done. Cost 24.615049 ms. Size of AdaBoost.model.5.gz = 15.848633 Kb
+Load model from AdaBoost.model.6.gz, Compress = 6
+Done. Cost 25.873899 ms. Size of AdaBoost.model.6.gz = 15.562500 Kb
+Load model from AdaBoost.model.7.gz, Compress = 7
+Done. Cost 25.404692 ms. Size of AdaBoost.model.7.gz = 15.563477 Kb
+Load model from AdaBoost.model.8.gz, Compress = 8
+Done. Cost 25.794506 ms. Size of AdaBoost.model.8.gz = 15.474609 Kb
+Load model from AdaBoost.model.9.gz, Compress = 9
+Done. Cost 25.476933 ms. Size of AdaBoost.model.9.gz = 15.444336 Kb
+[log] Function 'test_load_compress_level' Done. Cost 256.556511 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to AdaBoost.model.0.bz2, Compress = 0
+Done. Cost 43.075085 ms. Size of AdaBoost.model.0.bz2 = 17.974609 Kb
+Dump model to AdaBoost.model.1.bz2, Compress = 1
+Done. Cost 42.858124 ms. Size of AdaBoost.model.1.bz2 = 17.974609 Kb
+Dump model to AdaBoost.model.2.bz2, Compress = 2
+Done. Cost 41.467905 ms. Size of AdaBoost.model.2.bz2 = 17.974609 Kb
+Dump model to AdaBoost.model.3.bz2, Compress = 3
+Done. Cost 49.554348 ms. Size of AdaBoost.model.3.bz2 = 17.974609 Kb
+Dump model to AdaBoost.model.4.bz2, Compress = 4
+Done. Cost 45.889378 ms. Size of AdaBoost.model.4.bz2 = 17.974609 Kb
+Dump model to AdaBoost.model.5.bz2, Compress = 5
+Done. Cost 44.757128 ms. Size of AdaBoost.model.5.bz2 = 17.974609 Kb
+Dump model to AdaBoost.model.6.bz2, Compress = 6
+Done. Cost 51.414251 ms. Size of AdaBoost.model.6.bz2 = 17.974609 Kb
+Dump model to AdaBoost.model.7.bz2, Compress = 7
+Done. Cost 44.726372 ms. Size of AdaBoost.model.7.bz2 = 17.974609 Kb
+Dump model to AdaBoost.model.8.bz2, Compress = 8
+Done. Cost 42.219639 ms. Size of AdaBoost.model.8.bz2 = 17.974609 Kb
+Dump model to AdaBoost.model.9.bz2, Compress = 9
+Done. Cost 48.547745 ms. Size of AdaBoost.model.9.bz2 = 17.974609 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 455.193043 ms
+[log] Function 'test_load_compress_level' Start
+Load model from AdaBoost.model.0.bz2, Compress = 0
+Done. Cost 27.435541 ms. Size of AdaBoost.model.0.bz2 = 17.974609 Kb
+Load model from AdaBoost.model.1.bz2, Compress = 1
+Done. Cost 27.890444 ms. Size of AdaBoost.model.1.bz2 = 17.974609 Kb
+Load model from AdaBoost.model.2.bz2, Compress = 2
+Done. Cost 28.156996 ms. Size of AdaBoost.model.2.bz2 = 17.974609 Kb
+Load model from AdaBoost.model.3.bz2, Compress = 3
+Done. Cost 25.952578 ms. Size of AdaBoost.model.3.bz2 = 17.974609 Kb
+Load model from AdaBoost.model.4.bz2, Compress = 4
+Done. Cost 28.428793 ms. Size of AdaBoost.model.4.bz2 = 17.974609 Kb
+Load model from AdaBoost.model.5.bz2, Compress = 5
+Done. Cost 28.589725 ms. Size of AdaBoost.model.5.bz2 = 17.974609 Kb
+Load model from AdaBoost.model.6.bz2, Compress = 6
+Done. Cost 27.218819 ms. Size of AdaBoost.model.6.bz2 = 17.974609 Kb
+Load model from AdaBoost.model.7.bz2, Compress = 7
+Done. Cost 30.300140 ms. Size of AdaBoost.model.7.bz2 = 17.974609 Kb
+Load model from AdaBoost.model.8.bz2, Compress = 8
+Done. Cost 26.712656 ms. Size of AdaBoost.model.8.bz2 = 17.974609 Kb
+Load model from AdaBoost.model.9.bz2, Compress = 9
+Done. Cost 27.284384 ms. Size of AdaBoost.model.9.bz2 = 17.974609 Kb
+[log] Function 'test_load_compress_level' Done. Cost 280.597210 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to AdaBoost.model.0.xz, Compress = 0
+Done. Cost 37.633181 ms. Size of AdaBoost.model.0.xz = 11.820312 Kb
+Dump model to AdaBoost.model.1.xz, Compress = 1
+Done. Cost 41.731834 ms. Size of AdaBoost.model.1.xz = 11.769531 Kb
+Dump model to AdaBoost.model.2.xz, Compress = 2
+Done. Cost 37.669420 ms. Size of AdaBoost.model.2.xz = 11.808594 Kb
+Dump model to AdaBoost.model.3.xz, Compress = 3
+Done. Cost 39.125204 ms. Size of AdaBoost.model.3.xz = 11.820312 Kb
+Dump model to AdaBoost.model.4.xz, Compress = 4
+Done. Cost 64.550877 ms. Size of AdaBoost.model.4.xz = 11.546875 Kb
+Dump model to AdaBoost.model.5.xz, Compress = 5
+Done. Cost 62.152624 ms. Size of AdaBoost.model.5.xz = 11.531250 Kb
+Dump model to AdaBoost.model.6.xz, Compress = 6
+Done. Cost 69.701195 ms. Size of AdaBoost.model.6.xz = 11.425781 Kb
+Dump model to AdaBoost.model.7.xz, Compress = 7
+Done. Cost 84.875822 ms. Size of AdaBoost.model.7.xz = 11.425781 Kb
+Dump model to AdaBoost.model.8.xz, Compress = 8
+Done. Cost 100.885153 ms. Size of AdaBoost.model.8.xz = 11.425781 Kb
+Dump model to AdaBoost.model.9.xz, Compress = 9
+Done. Cost 100.902319 ms. Size of AdaBoost.model.9.xz = 11.425781 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 639.894247 ms
+[log] Function 'test_load_compress_level' Start
+Load model from AdaBoost.model.0.xz, Compress = 0
+Done. Cost 27.613640 ms. Size of AdaBoost.model.0.xz = 11.820312 Kb
+Load model from AdaBoost.model.1.xz, Compress = 1
+Done. Cost 25.216103 ms. Size of AdaBoost.model.1.xz = 11.769531 Kb
+Load model from AdaBoost.model.2.xz, Compress = 2
+Done. Cost 25.400162 ms. Size of AdaBoost.model.2.xz = 11.808594 Kb
+Load model from AdaBoost.model.3.xz, Compress = 3
+Done. Cost 25.530100 ms. Size of AdaBoost.model.3.xz = 11.820312 Kb
+Load model from AdaBoost.model.4.xz, Compress = 4
+Done. Cost 25.082827 ms. Size of AdaBoost.model.4.xz = 11.546875 Kb
+Load model from AdaBoost.model.5.xz, Compress = 5
+Done. Cost 25.128603 ms. Size of AdaBoost.model.5.xz = 11.531250 Kb
+Load model from AdaBoost.model.6.xz, Compress = 6
+Done. Cost 25.039196 ms. Size of AdaBoost.model.6.xz = 11.425781 Kb
+Load model from AdaBoost.model.7.xz, Compress = 7
+Done. Cost 28.776169 ms. Size of AdaBoost.model.7.xz = 11.425781 Kb
+Load model from AdaBoost.model.8.xz, Compress = 8
+Done. Cost 27.485371 ms. Size of AdaBoost.model.8.xz = 11.425781 Kb
+Load model from AdaBoost.model.9.xz, Compress = 9
+Done. Cost 25.229692 ms. Size of AdaBoost.model.9.xz = 11.425781 Kb
+[log] Function 'test_load_compress_level' Done. Cost 263.094902 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to AdaBoost.model.0.lzma, Compress = 0
+Done. Cost 38.099289 ms. Size of AdaBoost.model.0.lzma = 11.781250 Kb
+Dump model to AdaBoost.model.1.lzma, Compress = 1
+Done. Cost 41.037321 ms. Size of AdaBoost.model.1.lzma = 11.734375 Kb
+Dump model to AdaBoost.model.2.lzma, Compress = 2
+Done. Cost 38.051844 ms. Size of AdaBoost.model.2.lzma = 11.772461 Kb
+Dump model to AdaBoost.model.3.lzma, Compress = 3
+Done. Cost 39.244175 ms. Size of AdaBoost.model.3.lzma = 11.781250 Kb
+Dump model to AdaBoost.model.4.lzma, Compress = 4
+Done. Cost 59.386253 ms. Size of AdaBoost.model.4.lzma = 11.510742 Kb
+Dump model to AdaBoost.model.5.lzma, Compress = 5
+Done. Cost 64.092159 ms. Size of AdaBoost.model.5.lzma = 11.493164 Kb
+Dump model to AdaBoost.model.6.lzma, Compress = 6
+Done. Cost 74.243307 ms. Size of AdaBoost.model.6.lzma = 11.386719 Kb
+Dump model to AdaBoost.model.7.lzma, Compress = 7
+Done. Cost 84.077835 ms. Size of AdaBoost.model.7.lzma = 11.386719 Kb
+Dump model to AdaBoost.model.8.lzma, Compress = 8
+Done. Cost 102.041960 ms. Size of AdaBoost.model.8.lzma = 11.386719 Kb
+Dump model to AdaBoost.model.9.lzma, Compress = 9
+Done. Cost 101.729870 ms. Size of AdaBoost.model.9.lzma = 11.386719 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 642.644405 ms
+[log] Function 'test_load_compress_level' Start
+Load model from AdaBoost.model.0.lzma, Compress = 0
+Done. Cost 28.089523 ms. Size of AdaBoost.model.0.lzma = 11.781250 Kb
+Load model from AdaBoost.model.1.lzma, Compress = 1
+Done. Cost 24.862289 ms. Size of AdaBoost.model.1.lzma = 11.734375 Kb
+Load model from AdaBoost.model.2.lzma, Compress = 2
+Done. Cost 25.040150 ms. Size of AdaBoost.model.2.lzma = 11.772461 Kb
+Load model from AdaBoost.model.3.lzma, Compress = 3
+Done. Cost 30.716181 ms. Size of AdaBoost.model.3.lzma = 11.781250 Kb
+Load model from AdaBoost.model.4.lzma, Compress = 4
+Done. Cost 25.753736 ms. Size of AdaBoost.model.4.lzma = 11.510742 Kb
+Load model from AdaBoost.model.5.lzma, Compress = 5
+Done. Cost 25.441170 ms. Size of AdaBoost.model.5.lzma = 11.493164 Kb
+Load model from AdaBoost.model.6.lzma, Compress = 6
+Done. Cost 26.531458 ms. Size of AdaBoost.model.6.lzma = 11.386719 Kb
+Load model from AdaBoost.model.7.lzma, Compress = 7
+Done. Cost 32.981873 ms. Size of AdaBoost.model.7.lzma = 11.386719 Kb
+Load model from AdaBoost.model.8.lzma, Compress = 8
+Done. Cost 25.829077 ms. Size of AdaBoost.model.8.lzma = 11.386719 Kb
+Load model from AdaBoost.model.9.lzma, Compress = 9
+Done. Cost 25.850534 ms. Size of AdaBoost.model.9.lzma = 11.386719 Kb
+[log] Function 'test_load_compress_level' Done. Cost 273.531437 ms

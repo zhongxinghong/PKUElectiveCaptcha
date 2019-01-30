@@ -1,0 +1,760 @@
+[
+    {
+        "fn": "test_dump_ext",
+        "logs": [
+            {
+                "file": "AdaBoost.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "32.114744 ms",
+                "size": "16.338867"
+            },
+            {
+                "file": "AdaBoost.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "31.929255 ms",
+                "size": "16.350586"
+            },
+            {
+                "file": "AdaBoost.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "42.532444 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "47.975540 ms",
+                "size": "11.820312"
+            }
+        ],
+        "cost": "198.818922 ms"
+    },
+    {
+        "fn": "test_load_ext",
+        "logs": [
+            {
+                "file": "AdaBoost.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "31.689167 ms",
+                "size": "16.338867"
+            },
+            {
+                "file": "AdaBoost.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "27.526855 ms",
+                "size": "16.350586"
+            },
+            {
+                "file": "AdaBoost.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "30.470610 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "27.535439 ms",
+                "size": "11.820312"
+            }
+        ],
+        "cost": "148.100138 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "AdaBoost.model.0.z",
+                "compress": "0",
+                "ext": ".z",
+                "cost": "33.437729 ms",
+                "size": "16.338867"
+            },
+            {
+                "file": "AdaBoost.model.1.z",
+                "compress": "1",
+                "ext": ".z",
+                "cost": "32.262802 ms",
+                "size": "17.877930"
+            },
+            {
+                "file": "AdaBoost.model.2.z",
+                "compress": "2",
+                "ext": ".z",
+                "cost": "32.008648 ms",
+                "size": "17.516602"
+            },
+            {
+                "file": "AdaBoost.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "42.588949 ms",
+                "size": "16.338867"
+            },
+            {
+                "file": "AdaBoost.model.4.z",
+                "compress": "4",
+                "ext": ".z",
+                "cost": "36.679745 ms",
+                "size": "17.056641"
+            },
+            {
+                "file": "AdaBoost.model.5.z",
+                "compress": "5",
+                "ext": ".z",
+                "cost": "36.612034 ms",
+                "size": "15.836914"
+            },
+            {
+                "file": "AdaBoost.model.6.z",
+                "compress": "6",
+                "ext": ".z",
+                "cost": "39.747953 ms",
+                "size": "15.550781"
+            },
+            {
+                "file": "AdaBoost.model.7.z",
+                "compress": "7",
+                "ext": ".z",
+                "cost": "37.972450 ms",
+                "size": "15.551758"
+            },
+            {
+                "file": "AdaBoost.model.8.z",
+                "compress": "8",
+                "ext": ".z",
+                "cost": "38.565874 ms",
+                "size": "15.462891"
+            }
+        ],
+        "cost": "377.293587 ms"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "AdaBoost.model.0.z",
+                "compress": "0",
+                "ext": ".z",
+                "cost": "27.079582 ms",
+                "size": "16.338867"
+            },
+            {
+                "file": "AdaBoost.model.1.z",
+                "compress": "1",
+                "ext": ".z",
+                "cost": "25.033474 ms",
+                "size": "17.877930"
+            },
+            {
+                "file": "AdaBoost.model.2.z",
+                "compress": "2",
+                "ext": ".z",
+                "cost": "26.999712 ms",
+                "size": "17.516602"
+            },
+            {
+                "file": "AdaBoost.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "29.117584 ms",
+                "size": "16.338867"
+            },
+            {
+                "file": "AdaBoost.model.4.z",
+                "compress": "4",
+                "ext": ".z",
+                "cost": "24.977922 ms",
+                "size": "17.056641"
+            },
+            {
+                "file": "AdaBoost.model.5.z",
+                "compress": "5",
+                "ext": ".z",
+                "cost": "24.905682 ms",
+                "size": "15.836914"
+            },
+            {
+                "file": "AdaBoost.model.6.z",
+                "compress": "6",
+                "ext": ".z",
+                "cost": "26.333570 ms",
+                "size": "15.550781"
+            },
+            {
+                "file": "AdaBoost.model.7.z",
+                "compress": "7",
+                "ext": ".z",
+                "cost": "24.139643 ms",
+                "size": "15.551758"
+            },
+            {
+                "file": "AdaBoost.model.8.z",
+                "compress": "8",
+                "ext": ".z",
+                "cost": "28.356552 ms",
+                "size": "15.462891"
+            }
+        ],
+        "cost": "263.664246 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "AdaBoost.model.0.gz",
+                "compress": "0",
+                "ext": ".gz",
+                "cost": "32.242060 ms",
+                "size": "16.350586"
+            },
+            {
+                "file": "AdaBoost.model.1.gz",
+                "compress": "1",
+                "ext": ".gz",
+                "cost": "37.556887 ms",
+                "size": "17.889648"
+            },
+            {
+                "file": "AdaBoost.model.2.gz",
+                "compress": "2",
+                "ext": ".gz",
+                "cost": "32.880068 ms",
+                "size": "17.528320"
+            },
+            {
+                "file": "AdaBoost.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "33.311367 ms",
+                "size": "16.350586"
+            },
+            {
+                "file": "AdaBoost.model.4.gz",
+                "compress": "4",
+                "ext": ".gz",
+                "cost": "33.414841 ms",
+                "size": "17.068359"
+            },
+            {
+                "file": "AdaBoost.model.5.gz",
+                "compress": "5",
+                "ext": ".gz",
+                "cost": "37.955284 ms",
+                "size": "15.848633"
+            },
+            {
+                "file": "AdaBoost.model.6.gz",
+                "compress": "6",
+                "ext": ".gz",
+                "cost": "36.046743 ms",
+                "size": "15.562500"
+            },
+            {
+                "file": "AdaBoost.model.7.gz",
+                "compress": "7",
+                "ext": ".gz",
+                "cost": "36.395073 ms",
+                "size": "15.563477"
+            },
+            {
+                "file": "AdaBoost.model.8.gz",
+                "compress": "8",
+                "ext": ".gz",
+                "cost": "35.265446 ms",
+                "size": "15.474609"
+            }
+        ],
+        "cost": "355.637550 ms"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "AdaBoost.model.0.gz",
+                "compress": "0",
+                "ext": ".gz",
+                "cost": "25.322676 ms",
+                "size": "16.350586"
+            },
+            {
+                "file": "AdaBoost.model.1.gz",
+                "compress": "1",
+                "ext": ".gz",
+                "cost": "25.130272 ms",
+                "size": "17.889648"
+            },
+            {
+                "file": "AdaBoost.model.2.gz",
+                "compress": "2",
+                "ext": ".gz",
+                "cost": "26.254892 ms",
+                "size": "17.528320"
+            },
+            {
+                "file": "AdaBoost.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "24.472952 ms",
+                "size": "16.350586"
+            },
+            {
+                "file": "AdaBoost.model.4.gz",
+                "compress": "4",
+                "ext": ".gz",
+                "cost": "25.827408 ms",
+                "size": "17.068359"
+            },
+            {
+                "file": "AdaBoost.model.5.gz",
+                "compress": "5",
+                "ext": ".gz",
+                "cost": "24.615049 ms",
+                "size": "15.848633"
+            },
+            {
+                "file": "AdaBoost.model.6.gz",
+                "compress": "6",
+                "ext": ".gz",
+                "cost": "25.873899 ms",
+                "size": "15.562500"
+            },
+            {
+                "file": "AdaBoost.model.7.gz",
+                "compress": "7",
+                "ext": ".gz",
+                "cost": "25.404692 ms",
+                "size": "15.563477"
+            },
+            {
+                "file": "AdaBoost.model.8.gz",
+                "compress": "8",
+                "ext": ".gz",
+                "cost": "25.794506 ms",
+                "size": "15.474609"
+            }
+        ],
+        "cost": "256.556511 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "AdaBoost.model.0.bz2",
+                "compress": "0",
+                "ext": ".bz2",
+                "cost": "43.075085 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.1.bz2",
+                "compress": "1",
+                "ext": ".bz2",
+                "cost": "42.858124 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.2.bz2",
+                "compress": "2",
+                "ext": ".bz2",
+                "cost": "41.467905 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "49.554348 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.4.bz2",
+                "compress": "4",
+                "ext": ".bz2",
+                "cost": "45.889378 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.5.bz2",
+                "compress": "5",
+                "ext": ".bz2",
+                "cost": "44.757128 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.6.bz2",
+                "compress": "6",
+                "ext": ".bz2",
+                "cost": "51.414251 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.7.bz2",
+                "compress": "7",
+                "ext": ".bz2",
+                "cost": "44.726372 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.8.bz2",
+                "compress": "8",
+                "ext": ".bz2",
+                "cost": "42.219639 ms",
+                "size": "17.974609"
+            }
+        ],
+        "cost": "455.193043 ms"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "AdaBoost.model.0.bz2",
+                "compress": "0",
+                "ext": ".bz2",
+                "cost": "27.435541 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.1.bz2",
+                "compress": "1",
+                "ext": ".bz2",
+                "cost": "27.890444 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.2.bz2",
+                "compress": "2",
+                "ext": ".bz2",
+                "cost": "28.156996 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "25.952578 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.4.bz2",
+                "compress": "4",
+                "ext": ".bz2",
+                "cost": "28.428793 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.5.bz2",
+                "compress": "5",
+                "ext": ".bz2",
+                "cost": "28.589725 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.6.bz2",
+                "compress": "6",
+                "ext": ".bz2",
+                "cost": "27.218819 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.7.bz2",
+                "compress": "7",
+                "ext": ".bz2",
+                "cost": "30.300140 ms",
+                "size": "17.974609"
+            },
+            {
+                "file": "AdaBoost.model.8.bz2",
+                "compress": "8",
+                "ext": ".bz2",
+                "cost": "26.712656 ms",
+                "size": "17.974609"
+            }
+        ],
+        "cost": "280.597210 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "AdaBoost.model.0.xz",
+                "compress": "0",
+                "ext": ".xz",
+                "cost": "37.633181 ms",
+                "size": "11.820312"
+            },
+            {
+                "file": "AdaBoost.model.1.xz",
+                "compress": "1",
+                "ext": ".xz",
+                "cost": "41.731834 ms",
+                "size": "11.769531"
+            },
+            {
+                "file": "AdaBoost.model.2.xz",
+                "compress": "2",
+                "ext": ".xz",
+                "cost": "37.669420 ms",
+                "size": "11.808594"
+            },
+            {
+                "file": "AdaBoost.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "39.125204 ms",
+                "size": "11.820312"
+            },
+            {
+                "file": "AdaBoost.model.4.xz",
+                "compress": "4",
+                "ext": ".xz",
+                "cost": "64.550877 ms",
+                "size": "11.546875"
+            },
+            {
+                "file": "AdaBoost.model.5.xz",
+                "compress": "5",
+                "ext": ".xz",
+                "cost": "62.152624 ms",
+                "size": "11.531250"
+            },
+            {
+                "file": "AdaBoost.model.6.xz",
+                "compress": "6",
+                "ext": ".xz",
+                "cost": "69.701195 ms",
+                "size": "11.425781"
+            },
+            {
+                "file": "AdaBoost.model.7.xz",
+                "compress": "7",
+                "ext": ".xz",
+                "cost": "84.875822 ms",
+                "size": "11.425781"
+            },
+            {
+                "file": "AdaBoost.model.8.xz",
+                "compress": "8",
+                "ext": ".xz",
+                "cost": "100.885153 ms",
+                "size": "11.425781"
+            }
+        ],
+        "cost": "639.894247 ms"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "AdaBoost.model.0.xz",
+                "compress": "0",
+                "ext": ".xz",
+                "cost": "27.613640 ms",
+                "size": "11.820312"
+            },
+            {
+                "file": "AdaBoost.model.1.xz",
+                "compress": "1",
+                "ext": ".xz",
+                "cost": "25.216103 ms",
+                "size": "11.769531"
+            },
+            {
+                "file": "AdaBoost.model.2.xz",
+                "compress": "2",
+                "ext": ".xz",
+                "cost": "25.400162 ms",
+                "size": "11.808594"
+            },
+            {
+                "file": "AdaBoost.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "25.530100 ms",
+                "size": "11.820312"
+            },
+            {
+                "file": "AdaBoost.model.4.xz",
+                "compress": "4",
+                "ext": ".xz",
+                "cost": "25.082827 ms",
+                "size": "11.546875"
+            },
+            {
+                "file": "AdaBoost.model.5.xz",
+                "compress": "5",
+                "ext": ".xz",
+                "cost": "25.128603 ms",
+                "size": "11.531250"
+            },
+            {
+                "file": "AdaBoost.model.6.xz",
+                "compress": "6",
+                "ext": ".xz",
+                "cost": "25.039196 ms",
+                "size": "11.425781"
+            },
+            {
+                "file": "AdaBoost.model.7.xz",
+                "compress": "7",
+                "ext": ".xz",
+                "cost": "28.776169 ms",
+                "size": "11.425781"
+            },
+            {
+                "file": "AdaBoost.model.8.xz",
+                "compress": "8",
+                "ext": ".xz",
+                "cost": "27.485371 ms",
+                "size": "11.425781"
+            }
+        ],
+        "cost": "263.094902 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "AdaBoost.model.0.lzma",
+                "compress": "0",
+                "ext": ".lzma",
+                "cost": "38.099289 ms",
+                "size": "11.781250"
+            },
+            {
+                "file": "AdaBoost.model.1.lzma",
+                "compress": "1",
+                "ext": ".lzma",
+                "cost": "41.037321 ms",
+                "size": "11.734375"
+            },
+            {
+                "file": "AdaBoost.model.2.lzma",
+                "compress": "2",
+                "ext": ".lzma",
+                "cost": "38.051844 ms",
+                "size": "11.772461"
+            },
+            {
+                "file": "AdaBoost.model.3.lzma",
+                "compress": "3",
+                "ext": ".lzma",
+                "cost": "39.244175 ms",
+                "size": "11.781250"
+            },
+            {
+                "file": "AdaBoost.model.4.lzma",
+                "compress": "4",
+                "ext": ".lzma",
+                "cost": "59.386253 ms",
+                "size": "11.510742"
+            },
+            {
+                "file": "AdaBoost.model.5.lzma",
+                "compress": "5",
+                "ext": ".lzma",
+                "cost": "64.092159 ms",
+                "size": "11.493164"
+            },
+            {
+                "file": "AdaBoost.model.6.lzma",
+                "compress": "6",
+                "ext": ".lzma",
+                "cost": "74.243307 ms",
+                "size": "11.386719"
+            },
+            {
+                "file": "AdaBoost.model.7.lzma",
+                "compress": "7",
+                "ext": ".lzma",
+                "cost": "84.077835 ms",
+                "size": "11.386719"
+            },
+            {
+                "file": "AdaBoost.model.8.lzma",
+                "compress": "8",
+                "ext": ".lzma",
+                "cost": "102.041960 ms",
+                "size": "11.386719"
+            }
+        ],
+        "cost": "642.644405 ms"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "AdaBoost.model.0.lzma",
+                "compress": "0",
+                "ext": ".lzma",
+                "cost": "28.089523 ms",
+                "size": "11.781250"
+            },
+            {
+                "file": "AdaBoost.model.1.lzma",
+                "compress": "1",
+                "ext": ".lzma",
+                "cost": "24.862289 ms",
+                "size": "11.734375"
+            },
+            {
+                "file": "AdaBoost.model.2.lzma",
+                "compress": "2",
+                "ext": ".lzma",
+                "cost": "25.040150 ms",
+                "size": "11.772461"
+            },
+            {
+                "file": "AdaBoost.model.3.lzma",
+                "compress": "3",
+                "ext": ".lzma",
+                "cost": "30.716181 ms",
+                "size": "11.781250"
+            },
+            {
+                "file": "AdaBoost.model.4.lzma",
+                "compress": "4",
+                "ext": ".lzma",
+                "cost": "25.753736 ms",
+                "size": "11.510742"
+            },
+            {
+                "file": "AdaBoost.model.5.lzma",
+                "compress": "5",
+                "ext": ".lzma",
+                "cost": "25.441170 ms",
+                "size": "11.493164"
+            },
+            {
+                "file": "AdaBoost.model.6.lzma",
+                "compress": "6",
+                "ext": ".lzma",
+                "cost": "26.531458 ms",
+                "size": "11.386719"
+            },
+            {
+                "file": "AdaBoost.model.7.lzma",
+                "compress": "7",
+                "ext": ".lzma",
+                "cost": "32.981873 ms",
+                "size": "11.386719"
+            },
+            {
+                "file": "AdaBoost.model.8.lzma",
+                "compress": "8",
+                "ext": ".lzma",
+                "cost": "25.829077 ms",
+                "size": "11.386719"
+            }
+        ],
+        "cost": "273.531437 ms"
+    }
+]

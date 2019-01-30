@@ -1,0 +1,244 @@
+[log] Function 'test_dump_ext' Start
+Dump model to DecisionTree.model.3.z, Compress = 3
+Done. Cost 6.959438 ms. Size of DecisionTree.model.3.z = 21.882812 Kb
+Dump model to DecisionTree.model.3.gz, Compress = 3
+Done. Cost 6.947517 ms. Size of DecisionTree.model.3.gz = 21.894531 Kb
+Dump model to DecisionTree.model.3.bz2, Compress = 3
+Done. Cost 15.018225 ms. Size of DecisionTree.model.3.bz2 = 12.653320 Kb
+Dump model to DecisionTree.model.3.xz, Compress = 3
+Done. Cost 21.916866 ms. Size of DecisionTree.model.3.xz = 13.261719 Kb
+Dump model to DecisionTree.model.3.lzma, Compress = 3
+Done. Cost 20.725250 ms. Size of DecisionTree.model.3.lzma = 13.223633 Kb
+[log] Function 'test_dump_ext' Done. Cost 71.855307 ms
+[log] Function 'test_load_ext' Start
+Load model from DecisionTree.model.3.z, Compress = 3
+Done. Cost 3.830910 ms. Size of DecisionTree.model.3.z = 21.882812 Kb
+Load model from DecisionTree.model.3.gz, Compress = 3
+Done. Cost 3.819704 ms. Size of DecisionTree.model.3.gz = 21.894531 Kb
+Load model from DecisionTree.model.3.bz2, Compress = 3
+Done. Cost 6.236553 ms. Size of DecisionTree.model.3.bz2 = 12.653320 Kb
+Load model from DecisionTree.model.3.xz, Compress = 3
+Done. Cost 4.963875 ms. Size of DecisionTree.model.3.xz = 13.261719 Kb
+Load model from DecisionTree.model.3.lzma, Compress = 3
+Done. Cost 4.617214 ms. Size of DecisionTree.model.3.lzma = 13.223633 Kb
+[log] Function 'test_load_ext' Done. Cost 24.303436 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to DecisionTree.model.0.z, Compress = 0
+Done. Cost 6.591320 ms. Size of DecisionTree.model.0.z = 21.882812 Kb
+Dump model to DecisionTree.model.1.z, Compress = 1
+Done. Cost 6.612778 ms. Size of DecisionTree.model.1.z = 23.240234 Kb
+Dump model to DecisionTree.model.2.z, Compress = 2
+Done. Cost 6.744862 ms. Size of DecisionTree.model.2.z = 22.560547 Kb
+Dump model to DecisionTree.model.3.z, Compress = 3
+Done. Cost 6.868362 ms. Size of DecisionTree.model.3.z = 21.882812 Kb
+Dump model to DecisionTree.model.4.z, Compress = 4
+Done. Cost 9.425163 ms. Size of DecisionTree.model.4.z = 20.080078 Kb
+Dump model to DecisionTree.model.5.z, Compress = 5
+Done. Cost 9.859562 ms. Size of DecisionTree.model.5.z = 19.158203 Kb
+Dump model to DecisionTree.model.6.z, Compress = 6
+Done. Cost 12.340784 ms. Size of DecisionTree.model.6.z = 18.582031 Kb
+Dump model to DecisionTree.model.7.z, Compress = 7
+Done. Cost 13.176203 ms. Size of DecisionTree.model.7.z = 18.289062 Kb
+Dump model to DecisionTree.model.8.z, Compress = 8
+Done. Cost 23.300886 ms. Size of DecisionTree.model.8.z = 16.777344 Kb
+Dump model to DecisionTree.model.9.z, Compress = 9
+Done. Cost 60.374975 ms. Size of DecisionTree.model.9.z = 16.371094 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 155.871391 ms
+[log] Function 'test_load_compress_level' Start
+Load model from DecisionTree.model.0.z, Compress = 0
+Done. Cost 3.511429 ms. Size of DecisionTree.model.0.z = 21.882812 Kb
+Load model from DecisionTree.model.1.z, Compress = 1
+Done. Cost 3.549576 ms. Size of DecisionTree.model.1.z = 23.240234 Kb
+Load model from DecisionTree.model.2.z, Compress = 2
+Done. Cost 3.640413 ms. Size of DecisionTree.model.2.z = 22.560547 Kb
+Load model from DecisionTree.model.3.z, Compress = 3
+Done. Cost 3.721952 ms. Size of DecisionTree.model.3.z = 21.882812 Kb
+Load model from DecisionTree.model.4.z, Compress = 4
+Done. Cost 3.764868 ms. Size of DecisionTree.model.4.z = 20.080078 Kb
+Load model from DecisionTree.model.5.z, Compress = 5
+Done. Cost 3.704786 ms. Size of DecisionTree.model.5.z = 19.158203 Kb
+Load model from DecisionTree.model.6.z, Compress = 6
+Done. Cost 3.620863 ms. Size of DecisionTree.model.6.z = 18.582031 Kb
+Load model from DecisionTree.model.7.z, Compress = 7
+Done. Cost 3.755093 ms. Size of DecisionTree.model.7.z = 18.289062 Kb
+Load model from DecisionTree.model.8.z, Compress = 8
+Done. Cost 3.667593 ms. Size of DecisionTree.model.8.z = 16.777344 Kb
+Load model from DecisionTree.model.9.z, Compress = 9
+Done. Cost 3.565311 ms. Size of DecisionTree.model.9.z = 16.371094 Kb
+[log] Function 'test_load_compress_level' Done. Cost 38.219929 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to DecisionTree.model.0.gz, Compress = 0
+Done. Cost 6.804705 ms. Size of DecisionTree.model.0.gz = 21.894531 Kb
+Dump model to DecisionTree.model.1.gz, Compress = 1
+Done. Cost 6.721497 ms. Size of DecisionTree.model.1.gz = 23.251953 Kb
+Dump model to DecisionTree.model.2.gz, Compress = 2
+Done. Cost 6.700993 ms. Size of DecisionTree.model.2.gz = 22.572266 Kb
+Dump model to DecisionTree.model.3.gz, Compress = 3
+Done. Cost 7.185459 ms. Size of DecisionTree.model.3.gz = 21.894531 Kb
+Dump model to DecisionTree.model.4.gz, Compress = 4
+Done. Cost 9.803057 ms. Size of DecisionTree.model.4.gz = 20.091797 Kb
+Dump model to DecisionTree.model.5.gz, Compress = 5
+Done. Cost 10.292292 ms. Size of DecisionTree.model.5.gz = 19.169922 Kb
+Dump model to DecisionTree.model.6.gz, Compress = 6
+Done. Cost 12.504578 ms. Size of DecisionTree.model.6.gz = 18.593750 Kb
+Dump model to DecisionTree.model.7.gz, Compress = 7
+Done. Cost 13.311148 ms. Size of DecisionTree.model.7.gz = 18.300781 Kb
+Dump model to DecisionTree.model.8.gz, Compress = 8
+Done. Cost 23.217678 ms. Size of DecisionTree.model.8.gz = 16.789062 Kb
+Dump model to DecisionTree.model.9.gz, Compress = 9
+Done. Cost 59.304237 ms. Size of DecisionTree.model.9.gz = 16.382812 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 156.385660 ms
+[log] Function 'test_load_compress_level' Start
+Load model from DecisionTree.model.0.gz, Compress = 0
+Done. Cost 3.737211 ms. Size of DecisionTree.model.0.gz = 21.894531 Kb
+Load model from DecisionTree.model.1.gz, Compress = 1
+Done. Cost 3.779650 ms. Size of DecisionTree.model.1.gz = 23.251953 Kb
+Load model from DecisionTree.model.2.gz, Compress = 2
+Done. Cost 3.799915 ms. Size of DecisionTree.model.2.gz = 22.572266 Kb
+Load model from DecisionTree.model.3.gz, Compress = 3
+Done. Cost 3.665447 ms. Size of DecisionTree.model.3.gz = 21.894531 Kb
+Load model from DecisionTree.model.4.gz, Compress = 4
+Done. Cost 3.818274 ms. Size of DecisionTree.model.4.gz = 20.091797 Kb
+Load model from DecisionTree.model.5.gz, Compress = 5
+Done. Cost 4.148722 ms. Size of DecisionTree.model.5.gz = 19.169922 Kb
+Load model from DecisionTree.model.6.gz, Compress = 6
+Done. Cost 3.957987 ms. Size of DecisionTree.model.6.gz = 18.593750 Kb
+Load model from DecisionTree.model.7.gz, Compress = 7
+Done. Cost 3.996372 ms. Size of DecisionTree.model.7.gz = 18.300781 Kb
+Load model from DecisionTree.model.8.gz, Compress = 8
+Done. Cost 3.745556 ms. Size of DecisionTree.model.8.gz = 16.789062 Kb
+Load model from DecisionTree.model.9.gz, Compress = 9
+Done. Cost 3.736019 ms. Size of DecisionTree.model.9.gz = 16.382812 Kb
+[log] Function 'test_load_compress_level' Done. Cost 40.259600 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to DecisionTree.model.0.bz2, Compress = 0
+Done. Cost 14.198780 ms. Size of DecisionTree.model.0.bz2 = 12.653320 Kb
+Dump model to DecisionTree.model.1.bz2, Compress = 1
+Done. Cost 14.364719 ms. Size of DecisionTree.model.1.bz2 = 12.653320 Kb
+Dump model to DecisionTree.model.2.bz2, Compress = 2
+Done. Cost 14.294386 ms. Size of DecisionTree.model.2.bz2 = 12.653320 Kb
+Dump model to DecisionTree.model.3.bz2, Compress = 3
+Done. Cost 14.398813 ms. Size of DecisionTree.model.3.bz2 = 12.653320 Kb
+Dump model to DecisionTree.model.4.bz2, Compress = 4
+Done. Cost 14.746428 ms. Size of DecisionTree.model.4.bz2 = 12.653320 Kb
+Dump model to DecisionTree.model.5.bz2, Compress = 5
+Done. Cost 14.710426 ms. Size of DecisionTree.model.5.bz2 = 12.653320 Kb
+Dump model to DecisionTree.model.6.bz2, Compress = 6
+Done. Cost 14.793158 ms. Size of DecisionTree.model.6.bz2 = 12.653320 Kb
+Dump model to DecisionTree.model.7.bz2, Compress = 7
+Done. Cost 14.714241 ms. Size of DecisionTree.model.7.bz2 = 12.653320 Kb
+Dump model to DecisionTree.model.8.bz2, Compress = 8
+Done. Cost 14.632702 ms. Size of DecisionTree.model.8.bz2 = 12.653320 Kb
+Dump model to DecisionTree.model.9.bz2, Compress = 9
+Done. Cost 14.425993 ms. Size of DecisionTree.model.9.bz2 = 12.653320 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 145.848036 ms
+[log] Function 'test_load_compress_level' Start
+Load model from DecisionTree.model.0.bz2, Compress = 0
+Done. Cost 6.361485 ms. Size of DecisionTree.model.0.bz2 = 12.653320 Kb
+Load model from DecisionTree.model.1.bz2, Compress = 1
+Done. Cost 6.181479 ms. Size of DecisionTree.model.1.bz2 = 12.653320 Kb
+Load model from DecisionTree.model.2.bz2, Compress = 2
+Done. Cost 6.192207 ms. Size of DecisionTree.model.2.bz2 = 12.653320 Kb
+Load model from DecisionTree.model.3.bz2, Compress = 3
+Done. Cost 6.285667 ms. Size of DecisionTree.model.3.bz2 = 12.653320 Kb
+Load model from DecisionTree.model.4.bz2, Compress = 4
+Done. Cost 6.129980 ms. Size of DecisionTree.model.4.bz2 = 12.653320 Kb
+Load model from DecisionTree.model.5.bz2, Compress = 5
+Done. Cost 6.430149 ms. Size of DecisionTree.model.5.bz2 = 12.653320 Kb
+Load model from DecisionTree.model.6.bz2, Compress = 6
+Done. Cost 6.117344 ms. Size of DecisionTree.model.6.bz2 = 12.653320 Kb
+Load model from DecisionTree.model.7.bz2, Compress = 7
+Done. Cost 6.247044 ms. Size of DecisionTree.model.7.bz2 = 12.653320 Kb
+Load model from DecisionTree.model.8.bz2, Compress = 8
+Done. Cost 6.371498 ms. Size of DecisionTree.model.8.bz2 = 12.653320 Kb
+Load model from DecisionTree.model.9.bz2, Compress = 9
+Done. Cost 6.426096 ms. Size of DecisionTree.model.9.bz2 = 12.653320 Kb
+[log] Function 'test_load_compress_level' Done. Cost 64.332724 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to DecisionTree.model.0.xz, Compress = 0
+Done. Cost 17.089605 ms. Size of DecisionTree.model.0.xz = 13.261719 Kb
+Dump model to DecisionTree.model.1.xz, Compress = 1
+Done. Cost 14.791012 ms. Size of DecisionTree.model.1.xz = 13.867188 Kb
+Dump model to DecisionTree.model.2.xz, Compress = 2
+Done. Cost 15.767336 ms. Size of DecisionTree.model.2.xz = 13.277344 Kb
+Dump model to DecisionTree.model.3.xz, Compress = 3
+Done. Cost 16.792774 ms. Size of DecisionTree.model.3.xz = 13.261719 Kb
+Dump model to DecisionTree.model.4.xz, Compress = 4
+Done. Cost 40.861368 ms. Size of DecisionTree.model.4.xz = 13.652344 Kb
+Dump model to DecisionTree.model.5.xz, Compress = 5
+Done. Cost 67.153215 ms. Size of DecisionTree.model.5.xz = 13.320312 Kb
+Dump model to DecisionTree.model.6.xz, Compress = 6
+Done. Cost 103.013515 ms. Size of DecisionTree.model.6.xz = 13.082031 Kb
+Dump model to DecisionTree.model.7.xz, Compress = 7
+Done. Cost 117.352486 ms. Size of DecisionTree.model.7.xz = 13.082031 Kb
+Dump model to DecisionTree.model.8.xz, Compress = 8
+Done. Cost 145.732880 ms. Size of DecisionTree.model.8.xz = 13.082031 Kb
+Dump model to DecisionTree.model.9.xz, Compress = 9
+Done. Cost 132.372856 ms. Size of DecisionTree.model.9.xz = 13.082031 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 671.579361 ms
+[log] Function 'test_load_compress_level' Start
+Load model from DecisionTree.model.0.xz, Compress = 0
+Done. Cost 4.519701 ms. Size of DecisionTree.model.0.xz = 13.261719 Kb
+Load model from DecisionTree.model.1.xz, Compress = 1
+Done. Cost 4.708767 ms. Size of DecisionTree.model.1.xz = 13.867188 Kb
+Load model from DecisionTree.model.2.xz, Compress = 2
+Done. Cost 4.587889 ms. Size of DecisionTree.model.2.xz = 13.277344 Kb
+Load model from DecisionTree.model.3.xz, Compress = 3
+Done. Cost 4.518032 ms. Size of DecisionTree.model.3.xz = 13.261719 Kb
+Load model from DecisionTree.model.4.xz, Compress = 4
+Done. Cost 4.974842 ms. Size of DecisionTree.model.4.xz = 13.652344 Kb
+Load model from DecisionTree.model.5.xz, Compress = 5
+Done. Cost 5.061388 ms. Size of DecisionTree.model.5.xz = 13.320312 Kb
+Load model from DecisionTree.model.6.xz, Compress = 6
+Done. Cost 4.517317 ms. Size of DecisionTree.model.6.xz = 13.082031 Kb
+Load model from DecisionTree.model.7.xz, Compress = 7
+Done. Cost 4.481554 ms. Size of DecisionTree.model.7.xz = 13.082031 Kb
+Load model from DecisionTree.model.8.xz, Compress = 8
+Done. Cost 5.348206 ms. Size of DecisionTree.model.8.xz = 13.082031 Kb
+Load model from DecisionTree.model.9.xz, Compress = 9
+Done. Cost 5.163431 ms. Size of DecisionTree.model.9.xz = 13.082031 Kb
+[log] Function 'test_load_compress_level' Done. Cost 49.998283 ms
+[log] Function 'test_dump_compress_level' Start
+Dump model to DecisionTree.model.0.lzma, Compress = 0
+Done. Cost 19.698620 ms. Size of DecisionTree.model.0.lzma = 13.223633 Kb
+Dump model to DecisionTree.model.1.lzma, Compress = 1
+Done. Cost 18.614769 ms. Size of DecisionTree.model.1.lzma = 13.831055 Kb
+Dump model to DecisionTree.model.2.lzma, Compress = 2
+Done. Cost 17.439604 ms. Size of DecisionTree.model.2.lzma = 13.239258 Kb
+Dump model to DecisionTree.model.3.lzma, Compress = 3
+Done. Cost 22.698879 ms. Size of DecisionTree.model.3.lzma = 13.223633 Kb
+Dump model to DecisionTree.model.4.lzma, Compress = 4
+Done. Cost 40.916920 ms. Size of DecisionTree.model.4.lzma = 13.615234 Kb
+Dump model to DecisionTree.model.5.lzma, Compress = 5
+Done. Cost 64.377546 ms. Size of DecisionTree.model.5.lzma = 13.282227 Kb
+Dump model to DecisionTree.model.6.lzma, Compress = 6
+Done. Cost 100.179195 ms. Size of DecisionTree.model.6.lzma = 13.043945 Kb
+Dump model to DecisionTree.model.7.lzma, Compress = 7
+Done. Cost 97.504377 ms. Size of DecisionTree.model.7.lzma = 13.043945 Kb
+Dump model to DecisionTree.model.8.lzma, Compress = 8
+Done. Cost 102.965355 ms. Size of DecisionTree.model.8.lzma = 13.043945 Kb
+Dump model to DecisionTree.model.9.lzma, Compress = 9
+Done. Cost 103.186131 ms. Size of DecisionTree.model.9.lzma = 13.043945 Kb
+[log] Function 'test_dump_compress_level' Done. Cost 588.156223 ms
+[log] Function 'test_load_compress_level' Start
+Load model from DecisionTree.model.0.lzma, Compress = 0
+Done. Cost 4.439116 ms. Size of DecisionTree.model.0.lzma = 13.223633 Kb
+Load model from DecisionTree.model.1.lzma, Compress = 1
+Done. Cost 3.578901 ms. Size of DecisionTree.model.1.lzma = 13.831055 Kb
+Load model from DecisionTree.model.2.lzma, Compress = 2
+Done. Cost 3.303528 ms. Size of DecisionTree.model.2.lzma = 13.239258 Kb
+Load model from DecisionTree.model.3.lzma, Compress = 3
+Done. Cost 3.571987 ms. Size of DecisionTree.model.3.lzma = 13.223633 Kb
+Load model from DecisionTree.model.4.lzma, Compress = 4
+Done. Cost 4.628420 ms. Size of DecisionTree.model.4.lzma = 13.615234 Kb
+Load model from DecisionTree.model.5.lzma, Compress = 5
+Done. Cost 4.531145 ms. Size of DecisionTree.model.5.lzma = 13.282227 Kb
+Load model from DecisionTree.model.6.lzma, Compress = 6
+Done. Cost 4.689693 ms. Size of DecisionTree.model.6.lzma = 13.043945 Kb
+Load model from DecisionTree.model.7.lzma, Compress = 7
+Done. Cost 4.962921 ms. Size of DecisionTree.model.7.lzma = 13.043945 Kb
+Load model from DecisionTree.model.8.lzma, Compress = 8
+Done. Cost 3.542185 ms. Size of DecisionTree.model.8.lzma = 13.043945 Kb
+Load model from DecisionTree.model.9.lzma, Compress = 9
+Done. Cost 3.539324 ms. Size of DecisionTree.model.9.lzma = 13.043945 Kb
+[log] Function 'test_load_compress_level' Done. Cost 42.415619 ms

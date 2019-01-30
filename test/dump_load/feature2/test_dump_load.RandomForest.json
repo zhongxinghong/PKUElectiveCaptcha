@@ -1,0 +1,760 @@
+[
+    {
+        "fn": "test_dump_ext",
+        "logs": [
+            {
+                "file": "RandomForest.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "69.672823 ms",
+                "size": "275.062500"
+            },
+            {
+                "file": "RandomForest.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "73.548317 ms",
+                "size": "275.074219"
+            },
+            {
+                "file": "RandomForest.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "156.293154 ms",
+                "size": "134.712891"
+            },
+            {
+                "file": "RandomForest.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "253.324032 ms",
+                "size": "158.558594"
+            }
+        ],
+        "cost": "805.994987 ms"
+    },
+    {
+        "fn": "test_load_ext",
+        "logs": [
+            {
+                "file": "RandomForest.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "35.611153 ms",
+                "size": "275.062500"
+            },
+            {
+                "file": "RandomForest.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "31.164408 ms",
+                "size": "275.074219"
+            },
+            {
+                "file": "RandomForest.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "76.448917 ms",
+                "size": "134.712891"
+            },
+            {
+                "file": "RandomForest.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "45.178175 ms",
+                "size": "158.558594"
+            }
+        ],
+        "cost": "222.866297 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "RandomForest.model.0.z",
+                "compress": "0",
+                "ext": ".z",
+                "cost": "46.205044 ms",
+                "size": "275.062500"
+            },
+            {
+                "file": "RandomForest.model.1.z",
+                "compress": "1",
+                "ext": ".z",
+                "cost": "46.323776 ms",
+                "size": "293.416992"
+            },
+            {
+                "file": "RandomForest.model.2.z",
+                "compress": "2",
+                "ext": ".z",
+                "cost": "46.374321 ms",
+                "size": "284.028320"
+            },
+            {
+                "file": "RandomForest.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "48.058271 ms",
+                "size": "275.062500"
+            },
+            {
+                "file": "RandomForest.model.4.z",
+                "compress": "4",
+                "ext": ".z",
+                "cost": "69.192886 ms",
+                "size": "251.065430"
+            },
+            {
+                "file": "RandomForest.model.5.z",
+                "compress": "5",
+                "ext": ".z",
+                "cost": "76.154947 ms",
+                "size": "243.605469"
+            },
+            {
+                "file": "RandomForest.model.6.z",
+                "compress": "6",
+                "ext": ".z",
+                "cost": "98.953485 ms",
+                "size": "236.871094"
+            },
+            {
+                "file": "RandomForest.model.7.z",
+                "compress": "7",
+                "ext": ".z",
+                "cost": "111.280918 ms",
+                "size": "233.832031"
+            },
+            {
+                "file": "RandomForest.model.8.z",
+                "compress": "8",
+                "ext": ".z",
+                "cost": "229.791164 ms",
+                "size": "213.871094"
+            }
+        ],
+        "cost": "1.461921 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "RandomForest.model.0.z",
+                "compress": "0",
+                "ext": ".z",
+                "cost": "23.634672 ms",
+                "size": "275.062500"
+            },
+            {
+                "file": "RandomForest.model.1.z",
+                "compress": "1",
+                "ext": ".z",
+                "cost": "23.692846 ms",
+                "size": "293.416992"
+            },
+            {
+                "file": "RandomForest.model.2.z",
+                "compress": "2",
+                "ext": ".z",
+                "cost": "23.321629 ms",
+                "size": "284.028320"
+            },
+            {
+                "file": "RandomForest.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "23.141861 ms",
+                "size": "275.062500"
+            },
+            {
+                "file": "RandomForest.model.4.z",
+                "compress": "4",
+                "ext": ".z",
+                "cost": "29.200315 ms",
+                "size": "251.065430"
+            },
+            {
+                "file": "RandomForest.model.5.z",
+                "compress": "5",
+                "ext": ".z",
+                "cost": "28.186560 ms",
+                "size": "243.605469"
+            },
+            {
+                "file": "RandomForest.model.6.z",
+                "compress": "6",
+                "ext": ".z",
+                "cost": "26.247978 ms",
+                "size": "236.871094"
+            },
+            {
+                "file": "RandomForest.model.7.z",
+                "compress": "7",
+                "ext": ".z",
+                "cost": "26.072502 ms",
+                "size": "233.832031"
+            },
+            {
+                "file": "RandomForest.model.8.z",
+                "compress": "8",
+                "ext": ".z",
+                "cost": "26.647329 ms",
+                "size": "213.871094"
+            }
+        ],
+        "cost": "258.226871 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "RandomForest.model.0.gz",
+                "compress": "0",
+                "ext": ".gz",
+                "cost": "50.292492 ms",
+                "size": "275.074219"
+            },
+            {
+                "file": "RandomForest.model.1.gz",
+                "compress": "1",
+                "ext": ".gz",
+                "cost": "48.980474 ms",
+                "size": "293.428711"
+            },
+            {
+                "file": "RandomForest.model.2.gz",
+                "compress": "2",
+                "ext": ".gz",
+                "cost": "51.570415 ms",
+                "size": "284.040039"
+            },
+            {
+                "file": "RandomForest.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "52.557230 ms",
+                "size": "275.074219"
+            },
+            {
+                "file": "RandomForest.model.4.gz",
+                "compress": "4",
+                "ext": ".gz",
+                "cost": "75.617313 ms",
+                "size": "251.077148"
+            },
+            {
+                "file": "RandomForest.model.5.gz",
+                "compress": "5",
+                "ext": ".gz",
+                "cost": "78.902006 ms",
+                "size": "243.617188"
+            },
+            {
+                "file": "RandomForest.model.6.gz",
+                "compress": "6",
+                "ext": ".gz",
+                "cost": "105.051756 ms",
+                "size": "236.882812"
+            },
+            {
+                "file": "RandomForest.model.7.gz",
+                "compress": "7",
+                "ext": ".gz",
+                "cost": "119.559765 ms",
+                "size": "233.843750"
+            },
+            {
+                "file": "RandomForest.model.8.gz",
+                "compress": "8",
+                "ext": ".gz",
+                "cost": "233.007193 ms",
+                "size": "213.882812"
+            }
+        ],
+        "cost": "1.511501 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "RandomForest.model.0.gz",
+                "compress": "0",
+                "ext": ".gz",
+                "cost": "27.215719 ms",
+                "size": "275.074219"
+            },
+            {
+                "file": "RandomForest.model.1.gz",
+                "compress": "1",
+                "ext": ".gz",
+                "cost": "27.342081 ms",
+                "size": "293.428711"
+            },
+            {
+                "file": "RandomForest.model.2.gz",
+                "compress": "2",
+                "ext": ".gz",
+                "cost": "26.953220 ms",
+                "size": "284.040039"
+            },
+            {
+                "file": "RandomForest.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "27.428150 ms",
+                "size": "275.074219"
+            },
+            {
+                "file": "RandomForest.model.4.gz",
+                "compress": "4",
+                "ext": ".gz",
+                "cost": "32.211304 ms",
+                "size": "251.077148"
+            },
+            {
+                "file": "RandomForest.model.5.gz",
+                "compress": "5",
+                "ext": ".gz",
+                "cost": "31.231165 ms",
+                "size": "243.617188"
+            },
+            {
+                "file": "RandomForest.model.6.gz",
+                "compress": "6",
+                "ext": ".gz",
+                "cost": "30.015230 ms",
+                "size": "236.882812"
+            },
+            {
+                "file": "RandomForest.model.7.gz",
+                "compress": "7",
+                "ext": ".gz",
+                "cost": "30.853748 ms",
+                "size": "233.843750"
+            },
+            {
+                "file": "RandomForest.model.8.gz",
+                "compress": "8",
+                "ext": ".gz",
+                "cost": "29.025316 ms",
+                "size": "213.882812"
+            }
+        ],
+        "cost": "293.496847 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "RandomForest.model.0.bz2",
+                "compress": "0",
+                "ext": ".bz2",
+                "cost": "107.057095 ms",
+                "size": "134.712891"
+            },
+            {
+                "file": "RandomForest.model.1.bz2",
+                "compress": "1",
+                "ext": ".bz2",
+                "cost": "108.769655 ms",
+                "size": "149.921875"
+            },
+            {
+                "file": "RandomForest.model.2.bz2",
+                "compress": "2",
+                "ext": ".bz2",
+                "cost": "107.546329 ms",
+                "size": "139.686523"
+            },
+            {
+                "file": "RandomForest.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "105.937481 ms",
+                "size": "134.712891"
+            },
+            {
+                "file": "RandomForest.model.4.bz2",
+                "compress": "4",
+                "ext": ".bz2",
+                "cost": "108.228683 ms",
+                "size": "129.208008"
+            },
+            {
+                "file": "RandomForest.model.5.bz2",
+                "compress": "5",
+                "ext": ".bz2",
+                "cost": "107.036114 ms",
+                "size": "128.541992"
+            },
+            {
+                "file": "RandomForest.model.6.bz2",
+                "compress": "6",
+                "ext": ".bz2",
+                "cost": "110.486031 ms",
+                "size": "126.366211"
+            },
+            {
+                "file": "RandomForest.model.7.bz2",
+                "compress": "7",
+                "ext": ".bz2",
+                "cost": "116.504192 ms",
+                "size": "121.280273"
+            },
+            {
+                "file": "RandomForest.model.8.bz2",
+                "compress": "8",
+                "ext": ".bz2",
+                "cost": "115.617514 ms",
+                "size": "119.913086"
+            }
+        ],
+        "cost": "1.101431 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "RandomForest.model.0.bz2",
+                "compress": "0",
+                "ext": ".bz2",
+                "cost": "62.008619 ms",
+                "size": "134.712891"
+            },
+            {
+                "file": "RandomForest.model.1.bz2",
+                "compress": "1",
+                "ext": ".bz2",
+                "cost": "52.887201 ms",
+                "size": "149.921875"
+            },
+            {
+                "file": "RandomForest.model.2.bz2",
+                "compress": "2",
+                "ext": ".bz2",
+                "cost": "57.587624 ms",
+                "size": "139.686523"
+            },
+            {
+                "file": "RandomForest.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "62.969685 ms",
+                "size": "134.712891"
+            },
+            {
+                "file": "RandomForest.model.4.bz2",
+                "compress": "4",
+                "ext": ".bz2",
+                "cost": "64.902782 ms",
+                "size": "129.208008"
+            },
+            {
+                "file": "RandomForest.model.5.bz2",
+                "compress": "5",
+                "ext": ".bz2",
+                "cost": "68.154097 ms",
+                "size": "128.541992"
+            },
+            {
+                "file": "RandomForest.model.6.bz2",
+                "compress": "6",
+                "ext": ".bz2",
+                "cost": "67.029953 ms",
+                "size": "126.366211"
+            },
+            {
+                "file": "RandomForest.model.7.bz2",
+                "compress": "7",
+                "ext": ".bz2",
+                "cost": "76.047182 ms",
+                "size": "121.280273"
+            },
+            {
+                "file": "RandomForest.model.8.bz2",
+                "compress": "8",
+                "ext": ".bz2",
+                "cost": "73.823214 ms",
+                "size": "119.913086"
+            }
+        ],
+        "cost": "664.769411 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "RandomForest.model.0.xz",
+                "compress": "0",
+                "ext": ".xz",
+                "cost": "159.673214 ms",
+                "size": "158.558594"
+            },
+            {
+                "file": "RandomForest.model.1.xz",
+                "compress": "1",
+                "ext": ".xz",
+                "cost": "120.158911 ms",
+                "size": "168.968750"
+            },
+            {
+                "file": "RandomForest.model.2.xz",
+                "compress": "2",
+                "ext": ".xz",
+                "cost": "141.834497 ms",
+                "size": "159.750000"
+            },
+            {
+                "file": "RandomForest.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "155.726671 ms",
+                "size": "158.558594"
+            },
+            {
+                "file": "RandomForest.model.4.xz",
+                "compress": "4",
+                "ext": ".xz",
+                "cost": "348.255396 ms",
+                "size": "166.917969"
+            },
+            {
+                "file": "RandomForest.model.5.xz",
+                "compress": "5",
+                "ext": ".xz",
+                "cost": "561.747789 ms",
+                "size": "158.582031"
+            },
+            {
+                "file": "RandomForest.model.6.xz",
+                "compress": "6",
+                "ext": ".xz",
+                "cost": "961.678267 ms",
+                "size": "153.640625"
+            },
+            {
+                "file": "RandomForest.model.7.xz",
+                "compress": "7",
+                "ext": ".xz",
+                "cost": "966.529131 ms",
+                "size": "153.640625"
+            },
+            {
+                "file": "RandomForest.model.8.xz",
+                "compress": "8",
+                "ext": ".xz",
+                "cost": "1027.982712 ms",
+                "size": "153.640625"
+            }
+        ],
+        "cost": "6.149348 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "RandomForest.model.0.xz",
+                "compress": "0",
+                "ext": ".xz",
+                "cost": "61.779499 ms",
+                "size": "158.558594"
+            },
+            {
+                "file": "RandomForest.model.1.xz",
+                "compress": "1",
+                "ext": ".xz",
+                "cost": "58.284283 ms",
+                "size": "168.968750"
+            },
+            {
+                "file": "RandomForest.model.2.xz",
+                "compress": "2",
+                "ext": ".xz",
+                "cost": "73.300362 ms",
+                "size": "159.750000"
+            },
+            {
+                "file": "RandomForest.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "66.241026 ms",
+                "size": "158.558594"
+            },
+            {
+                "file": "RandomForest.model.4.xz",
+                "compress": "4",
+                "ext": ".xz",
+                "cost": "85.347652 ms",
+                "size": "166.917969"
+            },
+            {
+                "file": "RandomForest.model.5.xz",
+                "compress": "5",
+                "ext": ".xz",
+                "cost": "67.937374 ms",
+                "size": "158.582031"
+            },
+            {
+                "file": "RandomForest.model.6.xz",
+                "compress": "6",
+                "ext": ".xz",
+                "cost": "66.399813 ms",
+                "size": "153.640625"
+            },
+            {
+                "file": "RandomForest.model.7.xz",
+                "compress": "7",
+                "ext": ".xz",
+                "cost": "52.969933 ms",
+                "size": "153.640625"
+            },
+            {
+                "file": "RandomForest.model.8.xz",
+                "compress": "8",
+                "ext": ".xz",
+                "cost": "126.861095 ms",
+                "size": "153.640625"
+            }
+        ],
+        "cost": "731.759071 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "RandomForest.model.0.lzma",
+                "compress": "0",
+                "ext": ".lzma",
+                "cost": "375.438929 ms",
+                "size": "158.490234"
+            },
+            {
+                "file": "RandomForest.model.1.lzma",
+                "compress": "1",
+                "ext": ".lzma",
+                "cost": "364.041328 ms",
+                "size": "168.900391"
+            },
+            {
+                "file": "RandomForest.model.2.lzma",
+                "compress": "2",
+                "ext": ".lzma",
+                "cost": "479.431629 ms",
+                "size": "159.681641"
+            },
+            {
+                "file": "RandomForest.model.3.lzma",
+                "compress": "3",
+                "ext": ".lzma",
+                "cost": "330.188036 ms",
+                "size": "158.490234"
+            },
+            {
+                "file": "RandomForest.model.4.lzma",
+                "compress": "4",
+                "ext": ".lzma",
+                "cost": "397.281647 ms",
+                "size": "166.851562"
+            },
+            {
+                "file": "RandomForest.model.5.lzma",
+                "compress": "5",
+                "ext": ".lzma",
+                "cost": "562.388659 ms",
+                "size": "158.514648"
+            },
+            {
+                "file": "RandomForest.model.6.lzma",
+                "compress": "6",
+                "ext": ".lzma",
+                "cost": "1085.997581 ms",
+                "size": "153.573242"
+            },
+            {
+                "file": "RandomForest.model.7.lzma",
+                "compress": "7",
+                "ext": ".lzma",
+                "cost": "1234.223127 ms",
+                "size": "153.573242"
+            },
+            {
+                "file": "RandomForest.model.8.lzma",
+                "compress": "8",
+                "ext": ".lzma",
+                "cost": "1218.106270 ms",
+                "size": "153.573242"
+            }
+        ],
+        "cost": "7.277993 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "RandomForest.model.0.lzma",
+                "compress": "0",
+                "ext": ".lzma",
+                "cost": "39.641380 ms",
+                "size": "158.490234"
+            },
+            {
+                "file": "RandomForest.model.1.lzma",
+                "compress": "1",
+                "ext": ".lzma",
+                "cost": "32.054424 ms",
+                "size": "168.900391"
+            },
+            {
+                "file": "RandomForest.model.2.lzma",
+                "compress": "2",
+                "ext": ".lzma",
+                "cost": "37.169218 ms",
+                "size": "159.681641"
+            },
+            {
+                "file": "RandomForest.model.3.lzma",
+                "compress": "3",
+                "ext": ".lzma",
+                "cost": "40.528059 ms",
+                "size": "158.490234"
+            },
+            {
+                "file": "RandomForest.model.4.lzma",
+                "compress": "4",
+                "ext": ".lzma",
+                "cost": "40.620327 ms",
+                "size": "166.851562"
+            },
+            {
+                "file": "RandomForest.model.5.lzma",
+                "compress": "5",
+                "ext": ".lzma",
+                "cost": "38.295269 ms",
+                "size": "158.514648"
+            },
+            {
+                "file": "RandomForest.model.6.lzma",
+                "compress": "6",
+                "ext": ".lzma",
+                "cost": "41.754246 ms",
+                "size": "153.573242"
+            },
+            {
+                "file": "RandomForest.model.7.lzma",
+                "compress": "7",
+                "ext": ".lzma",
+                "cost": "40.288210 ms",
+                "size": "153.573242"
+            },
+            {
+                "file": "RandomForest.model.8.lzma",
+                "compress": "8",
+                "ext": ".lzma",
+                "cost": "44.702530 ms",
+                "size": "153.573242"
+            }
+        ],
+        "cost": "394.381285 ms"
+    }
+]

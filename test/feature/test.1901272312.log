@@ -1,0 +1,3250 @@
+<class 'sklearn.neighbors.classification.KNeighborsClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 4.107926 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.443560 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 16.559668 s
+0.9834415584415584 0.9925324675324675
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 7.669813 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 96.267700 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 430.669069 ms
+0.9831168831168832 0.9948051948051948
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 61.693099 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 935.328245 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.369326 s
+0.9831168831168832 0.9944805194805195
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 52.722810 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 308.814287 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.540697 s
+0.9876623376623377 0.9944805194805195
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 60.267409 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 34.539461 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 377.514362 ms
+0.9821428571428571 0.9922077922077922
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.786341 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 33.688784 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 408.865929 ms
+0.9840909090909091 0.9925324675324675
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 89.669401 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 492.083073 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.407549 s
+0.9866883116883117 0.9961038961038962
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 75.783831 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 318.889380 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.968642 s
+0.9818181818181818 0.9964285714285714
+<class 'sklearn.svm.classes.SVC'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 5.341081 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 23.417831 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 14.850402 s
+0.9808441558441559 0.9905844155844156
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 4.482588 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 3.635667 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.205153 s
+0.9863636363636363 0.9954545454545455
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 61.143163 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 12.912215 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.946097 s
+0.9853896103896104 0.9951298701298701
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 47.932436 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 19.993859 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.673918 s
+0.9853896103896104 0.9925324675324675
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 55.750553 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 28.410227 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.235762 s
+0.5844155844155844 0.6019480519480519
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.840259 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 27.063294 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.617056 s
+0.18149350649350648 0.19805194805194806
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 81.373713 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 26.860134 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.618529 s
+0.9808441558441559 0.990909090909091
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 67.620209 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 122.285999 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 16.163733 s
+0.45746753246753247 0.47175324675324676
+<class 'sklearn.ensemble.forest.RandomForestClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.848630 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 347.532511 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 110.681772 ms
+0.9847402597402597 0.9951298701298701
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 4.653845 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 124.522448 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 106.209755 ms
+0.9827922077922078 0.9961038961038962
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 54.319380 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 230.649471 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 112.082481 ms
+0.9814935064935065 0.9944805194805195
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.207308 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 229.925394 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 108.904600 ms
+0.9834415584415584 0.9941558441558441
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 54.109559 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 122.072935 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.598066 ms
+0.9824675324675325 0.9941558441558441
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 46.003345 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.509075 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 104.985476 ms
+0.9782467532467533 0.990909090909091
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 80.271663 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 230.942965 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 110.651970 ms
+0.9795454545454545 0.9922077922077922
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 68.177099 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 228.816748 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.174873 ms
+0.9759740259740259 0.9925324675324675
+<class 'sklearn.ensemble.weight_boosting.AdaBoostClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.838179 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.049593 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 355.500221 ms
+0.07142857142857142 0.10681818181818181
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.082662 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.414708 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 315.959930 ms
+0.07987012987012987 0.10746753246753246
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.720686 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.490735 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 349.849224 ms
+0.07694805194805195 0.11006493506493506
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.755138 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.702430 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 343.052149 ms
+0.07207792207792207 0.08636363636363636
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.488696 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.551398 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 316.399336 ms
+0.058116883116883115 0.08084415584415584
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 46.470549 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.906215 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 343.103886 ms
+0.1172077922077922 0.15811688311688313
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 89.438814 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.537114 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 353.446722 ms
+0.06623376623376623 0.09123376623376624
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 66.465228 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 8.689572 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 349.198818 ms
+0.05097402597402598 0.07694805194805195
+<class 'sklearn.tree.tree.DecisionTreeClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.858150 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 521.572590 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.187201 ms
+0.9675324675324676 0.9853896103896104
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.219739 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 95.685005 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.522396 ms
+0.9701298701298702 0.987987012987013
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 54.443349 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 723.383188 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.522013 ms
+0.9711038961038961 0.986038961038961
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.828127 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.165622 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.086184 ms
+0.9681818181818181 0.986038961038961
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.939327 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 131.441593 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.899170 ms
+0.9636363636363636 0.9824675324675325
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 46.709649 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 144.292593 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.708673 ms
+0.9737012987012987 0.9876623376623377
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 80.762923 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 826.344967 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 7.771492 ms
+0.9662337662337662 0.9834415584415584
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 68.389120 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.245490 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.237103 ms
+0.961038961038961 0.9798701298701299
+<class 'sklearn.neighbors.classification.KNeighborsClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.990084 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.412385 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 18.282342 s
+0.9801948051948052 0.9918831168831169
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 7.244828 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 109.621286 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 541.621923 ms
+0.9772727272727273 0.9896103896103896
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 55.218215 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 654.990673 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.434823 s
+0.9831168831168832 0.9957792207792208
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.165992 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 290.797234 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.232299 s
+0.9847402597402597 0.9928571428571429
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 55.122652 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 50.835609 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 358.557940 ms
+0.9840909090909091 0.9938311688311688
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 47.429146 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 37.593842 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 229.319334 ms
+0.977922077922078 0.9935064935064936
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 81.244021 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 745.491743 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.392802 s
+0.9837662337662337 0.9941558441558441
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 74.461036 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 317.017317 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.922241 s
+0.9844155844155844 0.9948051948051948
+<class 'sklearn.svm.classes.SVC'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 6.184701 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 22.843622 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 14.994563 s
+0.9814935064935065 0.9905844155844156
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.115521 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 3.488081 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.273243 s
+0.9831168831168832 0.9931818181818182
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 57.367461 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 16.572138 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.681611 s
+0.9876623376623377 0.9977272727272727
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 61.925108 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 23.306721 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.884434 s
+0.9811688311688311 0.9938311688311688
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 60.110427 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 28.039949 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.291969 s
+0.615909090909091 0.634090909090909
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.553070 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 26.794570 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.546842 s
+0.17175324675324674 0.18928571428571428
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 80.009418 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 26.703077 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.692639 s
+0.9834415584415584 0.9925324675324675
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 66.570030 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 120.007259 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 15.835951 s
+0.437987012987013 0.45422077922077925
+<class 'sklearn.ensemble.forest.RandomForestClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.825467 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 236.173391 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 108.501673 ms
+0.9814935064935065 0.9931818181818182
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.198827 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 122.011900 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 106.534243 ms
+0.9811688311688311 0.9948051948051948
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.949648 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 231.301546 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.192993 ms
+0.9837662337662337 0.9944805194805195
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 57.920911 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 330.335617 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 112.027645 ms
+0.9769480519480519 0.9928571428571429
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 75.520096 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 133.184910 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 104.328394 ms
+0.9795454545454545 0.9925324675324675
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 63.536158 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 227.334499 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 103.886843 ms
+0.9837662337662337 0.9938311688311688
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 90.042407 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 231.681824 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 108.303547 ms
+0.9814935064935065 0.9935064935064936
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 66.490474 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 329.706669 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 114.434242 ms
+0.9853896103896104 0.9951298701298701
+<class 'sklearn.ensemble.weight_boosting.AdaBoostClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.833724 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.261377 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 369.828939 ms
+0.08636363636363636 0.10487012987012986
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.119768 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.450138 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 324.598312 ms
+0.08246753246753247 0.10811688311688311
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.276292 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.712459 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 365.425825 ms
+0.07402597402597402 0.08798701298701299
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 50.221325 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.823477 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 345.028877 ms
+0.058116883116883115 0.08181818181818182
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 61.696424 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.624466 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 356.927395 ms
+0.09383116883116883 0.12272727272727273
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.924484 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.659272 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 322.646618 ms
+0.1279220779220779 0.1762987012987013
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 88.251184 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.901416 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 359.114170 ms
+0.0698051948051948 0.10032467532467533
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 75.792762 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 8.702295 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 361.407280 ms
+0.0659090909090909 0.08766233766233766
+<class 'sklearn.tree.tree.DecisionTreeClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 5.780294 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 480.764151 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.938053 ms
+0.9642857142857143 0.9840909090909091
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.113942 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 89.754581 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.772093 ms
+0.9665584415584415 0.9863636363636363
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 56.688871 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 744.432926 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.490065 ms
+0.9707792207792207 0.9886363636363636
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 54.045387 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.210910 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.099773 ms
+0.9698051948051948 0.9866883116883117
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 67.656258 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 122.242928 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.759933 ms
+0.9672077922077922 0.9840909090909091
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 57.082655 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 151.051760 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.741337 ms
+0.9701298701298702 0.9876623376623377
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 91.301494 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 833.101511 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.603075 ms
+0.962987012987013 0.9827922077922078
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 81.297264 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.359076 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.684376 ms
+0.9659090909090909 0.9827922077922078
+<class 'sklearn.neighbors.classification.KNeighborsClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 5.679524 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.393342 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 16.684808 s
+0.9834415584415584 0.9941558441558441
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 7.195380 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 122.068405 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 427.966118 ms
+0.9788961038961039 0.9935064935064936
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 56.408963 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 733.757973 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.991779 s
+0.9844155844155844 0.9951298701298701
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.934903 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 298.096657 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.348141 s
+0.9834415584415584 0.9957792207792208
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 57.137836 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 51.578522 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 385.520935 ms
+0.9831168831168832 0.9931818181818182
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 46.986493 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 31.496048 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 297.125340 ms
+0.9762987012987013 0.987987012987013
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 82.072921 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 754.919052 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.137880 s
+0.9824675324675325 0.9935064935064936
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 66.985631 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 327.658415 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.838222 s
+0.9837662337662337 0.9967532467532467
+<class 'sklearn.svm.classes.SVC'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.184341 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 20.964810 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 14.753229 s
+0.9814935064935065 0.9931818181818182
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.166795 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 3.784642 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.368364 s
+0.986038961038961 0.9961038961038962
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 56.279147 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 12.724376 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.072016 s
+0.9866883116883117 0.9967532467532467
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.933081 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 18.904375 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.394576 s
+0.9814935064935065 0.9925324675324675
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 54.877233 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 29.203619 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.431608 s
+0.5756493506493506 0.5925324675324676
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 50.061297 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 28.084050 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.786844 s
+0.18019480519480519 0.19480519480519481
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 91.994581 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 27.842582 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.676955 s
+0.9847402597402597 0.9951298701298701
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 72.619695 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 125.651879 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 16.370404 s
+0.4707792207792208 0.48993506493506495
+<class 'sklearn.ensemble.forest.RandomForestClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 7.371400 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 243.143320 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 109.380960 ms
+0.9840909090909091 0.9948051948051948
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.196267 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.858120 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 105.239868 ms
+0.9831168831168832 0.9944805194805195
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.347491 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 235.945463 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 108.442545 ms
+0.9808441558441559 0.9928571428571429
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 56.454372 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 331.450462 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 106.507063 ms
+0.9795454545454545 0.9941558441558441
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 58.367240 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.723413 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 105.117083 ms
+0.9847402597402597 0.9954545454545455
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 46.808879 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.727705 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 104.356050 ms
+0.9769480519480519 0.9915584415584415
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 81.402221 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 231.539965 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.499361 ms
+0.9827922077922078 0.9944805194805195
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 66.015525 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 330.281496 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 111.764193 ms
+0.9827922077922078 0.9928571428571429
+<class 'sklearn.ensemble.weight_boosting.AdaBoostClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.825814 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.073995 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 364.197493 ms
+0.09318181818181819 0.11948051948051948
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.143046 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.416678 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 320.747852 ms
+0.05357142857142857 0.0672077922077922
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 55.556869 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 9.542415 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 363.500834 ms
+0.09253246753246754 0.12467532467532468
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 47.148754 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.723821 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 340.377808 ms
+0.05616883116883117 0.08051948051948052
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 58.444437 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 3.016177 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 386.152267 ms
+0.07467532467532467 0.11493506493506493
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 55.829528 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.969090 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 376.820564 ms
+0.09837662337662338 0.1422077922077922
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 89.546897 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 8.817359 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 448.616982 ms
+0.08181818181818182 0.11396103896103896
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 81.055357 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 10.257063 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 415.945768 ms
+0.10194805194805195 0.1211038961038961
+<class 'sklearn.tree.tree.DecisionTreeClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 7.934239 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 614.970922 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 7.216692 ms
+0.9694805194805195 0.9844155844155844
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 4.951910 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 91.116905 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.082514 ms
+0.9691558441558441 0.9883116883116884
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 67.001321 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 848.658085 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 7.330894 ms
+0.9701298701298702 0.9866883116883117
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 55.440255 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.347834 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.955385 ms
+0.9652597402597403 0.9840909090909091
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 59.862277 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 136.425018 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.832651 ms
+0.964935064935065 0.9827922077922078
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 50.537821 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 212.548256 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.695011 ms
+0.9672077922077922 0.9866883116883117
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 97.826937 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 948.786736 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 7.909298 ms
+0.9730519480519481 0.9912337662337662
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 80.698468 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.604595 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.754232 ms
+0.9659090909090909 0.9814935064935065
+<class 'sklearn.neighbors.classification.KNeighborsClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.252754 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.343381 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 19.084685 s
+0.9818181818181818 0.9938311688311688
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 5.981017 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 98.163366 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 546.267271 ms
+0.9818181818181818 0.9899350649350649
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 63.037436 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 723.157406 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.654449 s
+0.986038961038961 0.9977272727272727
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 48.550823 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 291.628599 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.260291 s
+0.9863636363636363 0.9964285714285714
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 54.471195 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 104.250908 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 352.870226 ms
+0.9818181818181818 0.9938311688311688
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.645998 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 32.617331 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 232.088089 ms
+0.9814935064935065 0.990909090909091
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 81.121289 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 714.536428 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.055632 s
+0.9889610389610389 0.9967532467532467
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 67.012689 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 317.210913 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.435050 s
+0.9883116883116884 0.9961038961038962
+<class 'sklearn.svm.classes.SVC'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.821519 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 20.894416 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 14.766043 s
+0.9788961038961039 0.9905844155844156
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.136013 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 3.592428 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.203440 s
+0.9792207792207792 0.9925324675324675
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 54.483310 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 13.090672 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.145743 s
+0.9863636363636363 0.9961038961038962
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.248054 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 19.510751 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.465042 s
+0.9821428571428571 0.9922077922077922
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 59.179851 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 28.186361 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.324112 s
+0.6217532467532467 0.6357142857142857
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 46.361544 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 26.811581 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.423084 s
+0.18246753246753247 0.19577922077922078
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 80.872233 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 27.351007 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.540693 s
+0.9805194805194806 0.9948051948051948
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 67.935796 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 138.402165 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 18.807886 s
+0.47954545454545455 0.49512987012987014
+<class 'sklearn.ensemble.forest.RandomForestClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.553468 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 341.126919 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 110.880613 ms
+0.9821428571428571 0.9951298701298701
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 5.624384 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 123.612881 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 106.151581 ms
+0.9844155844155844 0.9967532467532467
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 64.218848 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 239.092350 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.617140 ms
+0.9814935064935065 0.9938311688311688
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 46.506903 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 229.735374 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.815504 ms
+0.9837662337662337 0.9954545454545455
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 56.555917 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.610880 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 105.729103 ms
+0.9795454545454545 0.9938311688311688
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 52.955577 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 339.801550 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 116.156816 ms
+0.9814935064935065 0.9925324675324675
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 109.331682 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 332.336664 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 106.811285 ms
+0.9834415584415584 0.9928571428571429
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 66.100683 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 331.665039 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 109.167576 ms
+0.9844155844155844 0.9964285714285714
+<class 'sklearn.ensemble.weight_boosting.AdaBoostClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.860502 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.160925 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 372.024059 ms
+0.07045454545454545 0.11136363636363636
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.158973 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.503222 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 320.038795 ms
+0.08084415584415584 0.10681818181818181
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 57.780083 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.684812 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 359.003067 ms
+0.09740259740259741 0.11298701298701298
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 50.833434 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.714606 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 348.084927 ms
+0.05584415584415584 0.06948051948051948
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 55.020282 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.607874 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 317.782164 ms
+0.10519480519480519 0.15032467532467533
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 46.773876 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.705302 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 322.556257 ms
+0.10162337662337663 0.15551948051948053
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 85.722762 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.643098 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 356.754541 ms
+0.05389610389610389 0.06915584415584415
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 68.225285 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 8.583565 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 363.563538 ms
+0.05162337662337663 0.06623376623376623
+<class 'sklearn.tree.tree.DecisionTreeClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.886594 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 466.281414 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.033182 ms
+0.9707792207792207 0.9866883116883117
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.226891 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 101.941347 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.345966 ms
+0.9662337662337662 0.9853896103896104
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 55.624110 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 733.105659 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.495071 ms
+0.9668831168831169 0.9840909090909091
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 47.603973 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.165127 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.097866 ms
+0.9672077922077922 0.9857142857142858
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 54.769470 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 111.854553 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.135204 ms
+0.9691558441558441 0.986038961038961
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.190647 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 143.216610 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.156900 ms
+0.9672077922077922 0.9821428571428571
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 79.607129 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 767.334938 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.542040 ms
+0.9636363636363636 0.9824675324675325
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 66.141972 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.498551 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.094217 ms
+0.9675324675324676 0.9866883116883117
+<class 'sklearn.neighbors.classification.KNeighborsClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.053760 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.401447 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 16.298856 s
+0.9844155844155844 0.9944805194805195
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 7.061322 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 101.647854 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 560.649395 ms
+0.9824675324675325 0.9935064935064936
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 57.578442 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 720.598936 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.841044 s
+0.9847402597402597 0.9948051948051948
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 46.643391 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 293.437243 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.393888 s
+0.9883116883116884 0.9964285714285714
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 57.520748 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 58.278799 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 377.519846 ms
+0.9801948051948052 0.9931818181818182
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 46.620128 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 32.195091 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 226.430655 ms
+0.9772727272727273 0.9883116883116884
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 82.779351 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 630.331278 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.644500 s
+0.9883116883116884 0.9957792207792208
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 69.229415 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 294.571877 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.390460 s
+0.987012987012987 0.9951298701298701
+<class 'sklearn.svm.classes.SVC'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.794960 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 21.161551 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 14.749532 s
+0.9805194805194806 0.990909090909091
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.169303 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 3.563999 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.178138 s
+0.9857142857142858 0.9941558441558441
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 58.000387 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 13.058330 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.106134 s
+0.9866883116883117 0.9961038961038962
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 52.027064 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 19.930267 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.368856 s
+0.9814935064935065 0.9925324675324675
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 77.644889 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 30.274640 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.236910 s
+0.6003246753246754 0.612012987012987
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 52.749678 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 26.608822 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.442070 s
+0.19675324675324676 0.21298701298701297
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 82.688351 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 26.851398 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.925103 s
+0.987987012987013 0.9961038961038962
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 67.845423 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 135.373378 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 16.209865 s
+0.45551948051948055 0.4698051948051948
+<class 'sklearn.ensemble.forest.RandomForestClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 6.778117 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 232.756376 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 109.604359 ms
+0.9821428571428571 0.9951298701298701
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.195130 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 122.640610 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.141495 ms
+0.9834415584415584 0.9961038961038962
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 55.759034 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 232.420444 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 106.768608 ms
+0.9834415584415584 0.9941558441558441
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 56.170561 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 343.628168 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 109.066725 ms
+0.9847402597402597 0.9954545454545455
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 64.320147 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.265650 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 106.577635 ms
+0.9801948051948052 0.9951298701298701
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 52.773324 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 122.569799 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 104.468107 ms
+0.9834415584415584 0.9938311688311688
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 91.331182 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 231.943130 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 110.110283 ms
+0.9831168831168832 0.9941558441558441
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 76.272760 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 330.300093 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 108.015060 ms
+0.9798701298701299 0.9931818181818182
+<class 'sklearn.ensemble.weight_boosting.AdaBoostClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.484464 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.542704 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 361.689091 ms
+0.06103896103896104 0.08246753246753247
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.125433 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.466482 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 426.151514 ms
+0.10487012987012986 0.13116883116883116
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 63.681166 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 8.017500 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 356.058359 ms
+0.0633116883116883 0.075
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 46.028669 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 9.410999 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 471.777439 ms
+0.05616883116883117 0.07012987012987013
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.214310 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.766179 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 320.539713 ms
+0.07564935064935065 0.11948051948051948
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.853007 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.783288 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 346.679688 ms
+0.09577922077922078 0.1172077922077922
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 83.785168 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 9.304934 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 405.367136 ms
+0.08409090909090909 0.11688311688311688
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 67.203939 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 8.613418 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 343.943357 ms
+0.06168831168831169 0.08636363636363636
+<class 'sklearn.tree.tree.DecisionTreeClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.812096 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 489.551544 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.014824 ms
+0.9642857142857143 0.9840909090909091
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.200416 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 96.318722 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.900362 ms
+0.9685064935064935 0.9857142857142858
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 54.126110 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 740.697384 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.690813 ms
+0.964935064935065 0.9837662337662337
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.793850 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.143236 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.107164 ms
+0.9600649350649351 0.9814935064935065
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.860281 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 122.013807 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.698183 ms
+0.9685064935064935 0.9857142857142858
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.747205 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 138.763428 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.715111 ms
+0.9633116883116883 0.9811688311688311
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 79.781218 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 791.536570 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.590677 ms
+0.9691558441558441 0.987012987012987
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 66.899602 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.292578 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.754709 ms
+0.9659090909090909 0.9827922077922078
+<class 'sklearn.neighbors.classification.KNeighborsClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.776557 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.331086 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 18.127754 s
+0.9808441558441559 0.9922077922077922
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 7.464530 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 97.112656 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 429.021358 ms
+0.9798701298701299 0.9941558441558441
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 59.007032 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 723.618031 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.866157 s
+0.9866883116883117 0.9961038961038962
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.677607 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 300.005913 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.494411 s
+0.9873376623376623 0.9964285714285714
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 54.585462 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 42.296648 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 342.181444 ms
+0.9831168831168832 0.9944805194805195
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.755288 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 31.999111 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 228.678226 ms
+0.9814935064935065 0.9912337662337662
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 80.005030 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 719.531059 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.301346 s
+0.9873376623376623 0.9961038961038962
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 66.678602 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 293.597460 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.432691 s
+0.9834415584415584 0.9964285714285714
+<class 'sklearn.svm.classes.SVC'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.850115 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 21.556720 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 14.780287 s
+0.9785714285714285 0.990909090909091
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 6.919328 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 3.677242 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.327652 s
+0.9850649350649351 0.9948051948051948
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 60.259269 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 13.525842 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.183639 s
+0.9840909090909091 0.9970779220779221
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 55.129453 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 19.956621 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.790065 s
+0.9847402597402597 0.9941558441558441
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.070628 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 28.700906 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.280759 s
+0.6058441558441559 0.6220779220779221
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 50.474581 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 26.651446 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.444450 s
+0.18766233766233767 0.20974025974025973
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 80.717032 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 27.211766 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.675650 s
+0.9853896103896104 0.9931818181818182
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 73.880385 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.057309 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 15.625548 s
+0.4623376623376623 0.4775974025974026
+<class 'sklearn.ensemble.forest.RandomForestClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 6.697289 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 236.707687 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 109.447241 ms
+0.9844155844155844 0.9944805194805195
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 4.138867 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 129.246712 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 106.399775 ms
+0.9827922077922078 0.9957792207792208
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 56.752730 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 237.300634 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 108.160257 ms
+0.9847402597402597 0.9964285714285714
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.064522 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 329.450607 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 110.010386 ms
+0.9853896103896104 0.9957792207792208
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 55.175023 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.457100 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.592344 ms
+0.9818181818181818 0.9944805194805195
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 48.249443 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 222.967148 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 103.922606 ms
+0.9818181818181818 0.9941558441558441
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 81.208728 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 231.102705 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 110.628366 ms
+0.9818181818181818 0.9944805194805195
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 68.362593 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 330.168486 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 111.538887 ms
+0.9824675324675325 0.9918831168831169
+<class 'sklearn.ensemble.weight_boosting.AdaBoostClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.844806 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.441490 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 360.981703 ms
+0.08993506493506494 0.125
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.115115 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.450783 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 317.423820 ms
+0.08376623376623377 0.10584415584415584
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.380317 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.687620 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 354.607821 ms
+0.09285714285714286 0.125
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.091968 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.736217 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 346.354723 ms
+0.07694805194805195 0.09058441558441559
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 54.838786 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 3.387989 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 367.534876 ms
+0.06136363636363636 0.0801948051948052
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 55.351077 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.685004 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 330.677509 ms
+0.05974025974025974 0.08538961038961039
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 80.195453 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.691525 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 391.560555 ms
+0.08896103896103896 0.10876623376623376
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 68.066498 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 8.545379 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 346.256733 ms
+0.06558441558441558 0.08766233766233766
+<class 'sklearn.tree.tree.DecisionTreeClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.860691 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 507.220745 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.105185 ms
+0.9704545454545455 0.9850649350649351
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.195427 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 99.782705 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.334522 ms
+0.9691558441558441 0.9886363636363636
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 55.018382 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 735.387802 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.540848 ms
+0.9698051948051948 0.986038961038961
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 50.514314 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.155462 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.980419 ms
+0.974025974025974 0.9883116883116884
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.192204 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 150.865078 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.978325 ms
+0.9746753246753247 0.9905844155844156
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 52.970637 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 155.488968 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.805233 ms
+0.9662337662337662 0.9844155844155844
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 91.729655 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 905.873299 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.108284 ms
+0.9694805194805195 0.986038961038961
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 82.772865 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.603877 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.246878 ms
+0.9681818181818181 0.987012987012987
+<class 'sklearn.neighbors.classification.KNeighborsClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 4.703155 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.588399 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 18.614742 s
+0.9847402597402597 0.9957792207792208
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 8.200952 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 61.598778 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 538.522959 ms
+0.9792207792207792 0.990909090909091
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 68.862909 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 946.788073 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.175817 s
+0.9834415584415584 0.9954545454545455
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 54.882357 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 337.965012 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.764434 s
+0.9863636363636363 0.9948051948051948
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 68.936477 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 61.913013 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 359.721661 ms
+0.9792207792207792 0.9912337662337662
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 66.693431 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 34.379482 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 360.738993 ms
+0.9801948051948052 0.9886363636363636
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 104.119421 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 842.654705 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.844482 s
+0.987987012987013 0.9970779220779221
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 77.550345 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 335.875750 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.745157 s
+0.9850649350649351 0.9951298701298701
+<class 'sklearn.svm.classes.SVC'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.777579 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 24.916335 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 15.742000 s
+0.9853896103896104 0.9944805194805195
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.659090 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 3.861650 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.180857 s
+0.9853896103896104 0.9948051948051948
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 57.731126 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 12.780528 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.021838 s
+0.986038961038961 0.9974025974025974
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 47.132881 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 20.422138 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.649827 s
+0.9831168831168832 0.9935064935064936
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 59.614584 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 30.342348 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.586100 s
+0.6035714285714285 0.6139610389610389
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 46.412953 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 28.013599 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.476410 s
+0.18863636363636363 0.2025974025974026
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 81.308448 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 26.396937 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.655247 s
+0.9857142857142858 0.9938311688311688
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.647878 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 118.097374 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 15.393393 s
+0.4831168831168831 0.4987012987012987
+<class 'sklearn.ensemble.forest.RandomForestClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.791584 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 233.152628 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 109.724760 ms
+0.9889610389610389 0.9964285714285714
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.130067 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 122.514009 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 108.474255 ms
+0.9847402597402597 0.9941558441558441
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.520256 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 231.096506 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 110.036612 ms
+0.9853896103896104 0.9957792207792208
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.102265 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 229.340553 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 110.620022 ms
+0.9821428571428571 0.9944805194805195
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.525888 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.715069 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.696533 ms
+0.9840909090909091 0.9951298701298701
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.878136 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.651411 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 104.918718 ms
+0.9805194805194806 0.9935064935064936
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 79.712974 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 233.627558 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.888460 ms
+0.9831168831168832 0.9948051948051948
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.510584 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 329.974890 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 111.430168 ms
+0.9814935064935065 0.9925324675324675
+<class 'sklearn.ensemble.weight_boosting.AdaBoostClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.860154 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 6.804135 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 355.584621 ms
+0.08279220779220779 0.10324675324675325
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.096668 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.425601 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 317.690372 ms
+0.06396103896103895 0.09155844155844156
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 52.689983 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.630079 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 353.698730 ms
+0.03474025974025974 0.04772727272727273
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 48.994119 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.573695 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 345.191240 ms
+0.06298701298701298 0.08993506493506494
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.801404 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.556077 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 320.790052 ms
+0.0801948051948052 0.11006493506493506
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.283083 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.664565 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 323.437452 ms
+0.08474025974025974 0.12305194805194805
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 78.944562 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.574691 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 350.240707 ms
+0.06883116883116883 0.09902597402597403
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.191383 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 8.241628 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 346.981049 ms
+0.06428571428571428 0.09512987012987013
+<class 'sklearn.tree.tree.DecisionTreeClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.763093 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 526.840687 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.899429 ms
+0.9675324675324676 0.9827922077922078
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.070722 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 83.298206 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.816200 ms
+0.9691558441558441 0.9863636363636363
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 52.984282 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 710.308313 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.513430 ms
+0.9701298701298702 0.986038961038961
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 43.963233 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.181603 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.074024 ms
+0.9672077922077922 0.9853896103896104
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.454366 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 104.247332 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.645731 ms
+0.9665584415584415 0.9863636363636363
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.881092 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 165.369511 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.690554 ms
+0.9659090909090909 0.9805194805194806
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 78.273209 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 720.466137 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.442142 ms
+0.9753246753246754 0.9892857142857143
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.528309 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.423582 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.008221 ms
+0.9668831168831169 0.9853896103896104
+<class 'sklearn.neighbors.classification.KNeighborsClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.829186 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.267827 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 14.581087 s
+0.986038961038961 0.9961038961038962
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.465738 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 68.411350 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 598.065853 ms
+0.9827922077922078 0.9915584415584415
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.161413 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 720.126629 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.758948 s
+0.9824675324675325 0.9961038961038962
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 43.931967 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 288.809299 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.403473 s
+0.9808441558441559 0.9964285714285714
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.932488 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 49.087048 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 389.078140 ms
+0.9827922077922078 0.9938311688311688
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.170325 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 32.002449 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 226.911068 ms
+0.9811688311688311 0.9918831168831169
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 78.759839 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 695.386171 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.951989 s
+0.9850649350649351 0.9954545454545455
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.678075 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 299.289942 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.458605 s
+0.9837662337662337 0.9954545454545455
+<class 'sklearn.svm.classes.SVC'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.799224 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 20.313048 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 14.254492 s
+0.977922077922078 0.9902597402597403
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.090927 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 3.468577 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.169531 s
+0.9834415584415584 0.9928571428571429
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.226747 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 12.443115 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.889392 s
+0.9837662337662337 0.9954545454545455
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 43.918633 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 18.359492 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.354677 s
+0.9863636363636363 0.9944805194805195
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.790027 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 27.874596 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.124784 s
+0.5840909090909091 0.5996753246753247
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 52.087748 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 26.217250 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.367095 s
+0.19025974025974027 0.20681818181818182
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 79.984037 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 26.064144 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.479554 s
+0.9840909090909091 0.9948051948051948
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.668012 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 116.382108 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 15.063463 s
+0.4772727272727273 0.4935064935064935
+<class 'sklearn.ensemble.forest.RandomForestClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.786566 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 232.595921 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 110.191822 ms
+0.9834415584415584 0.9948051948051948
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.145908 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.826410 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 106.619596 ms
+0.9850649350649351 0.9964285714285714
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.293540 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 234.920502 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.984066 ms
+0.9821428571428571 0.9948051948051948
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.537511 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 229.025841 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.000113 ms
+0.9850649350649351 0.9941558441558441
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.875765 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.703148 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.841492 ms
+0.9795454545454545 0.9925324675324675
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.350580 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.259212 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 105.090141 ms
+0.9824675324675325 0.9925324675324675
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 79.299663 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 230.957747 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 109.215021 ms
+0.9844155844155844 0.9938311688311688
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.887222 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 329.205990 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.732058 ms
+0.9831168831168832 0.9961038961038962
+<class 'sklearn.ensemble.weight_boosting.AdaBoostClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.825438 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 6.833137 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 357.262373 ms
+0.09512987012987013 0.11363636363636363
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.082343 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.431570 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 317.917824 ms
+0.10746753246753246 0.1301948051948052
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 52.866927 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.403804 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 351.987362 ms
+0.0788961038961039 0.11006493506493506
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 43.784020 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.546456 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 341.326714 ms
+0.06266233766233766 0.07792207792207792
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.642866 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.550650 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 316.284657 ms
+0.08831168831168831 0.14123376623376624
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.661471 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.649962 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 317.837000 ms
+0.09253246753246754 0.1237012987012987
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 78.339343 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.283076 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 343.307018 ms
+0.10746753246753246 0.1340909090909091
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.135054 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 8.210220 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 344.326019 ms
+0.04253246753246753 0.07142857142857142
+<class 'sklearn.tree.tree.DecisionTreeClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.774081 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 454.708576 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.829573 ms
+0.9659090909090909 0.9840909090909091
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.076000 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 95.356226 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.743959 ms
+0.9701298701298702 0.9883116883116884
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 52.736173 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 725.181818 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.632639 ms
+0.9724025974025974 0.9896103896103896
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 43.787842 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.076843 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.965544 ms
+0.9655844155844155 0.9840909090909091
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.257310 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 110.450268 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.651691 ms
+0.9714285714285714 0.9889610389610389
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.742841 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 153.023243 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.861977 ms
+0.961038961038961 0.9801948051948052
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 78.278725 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 721.266508 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.387545 ms
+0.9720779220779221 0.9883116883116884
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.123163 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.173699 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.850388 ms
+0.9662337662337662 0.9821428571428571
+<class 'sklearn.neighbors.classification.KNeighborsClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.890509 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.388484 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 15.230736 s
+0.9827922077922078 0.9935064935064936
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 7.596011 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 97.340584 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 484.589100 ms
+0.9837662337662337 0.9925324675324675
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 52.961479 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 720.568895 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.805119 s
+0.9834415584415584 0.9957792207792208
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 43.682004 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 291.946173 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.136655 s
+0.987987012987013 0.9948051948051948
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.114365 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 51.548481 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 394.137859 ms
+0.9811688311688311 0.9918831168831169
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.959587 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 32.159805 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 233.020544 ms
+0.977922077922078 0.9889610389610389
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 78.782544 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 714.459896 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.135880 s
+0.9840909090909091 0.9948051948051948
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.742165 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 288.752794 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.442290 s
+0.9834415584415584 0.9957792207792208
+<class 'sklearn.svm.classes.SVC'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.766357 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 20.155425 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 14.365075 s
+0.9801948051948052 0.9905844155844156
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.078718 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 3.528037 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.207482 s
+0.9853896103896104 0.9961038961038962
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.121114 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 12.719370 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.890446 s
+0.9883116883116884 0.9977272727272727
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.144448 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 18.334171 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.279728 s
+0.9821428571428571 0.9902597402597403
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.606035 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 27.887143 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.170545 s
+0.6071428571428571 0.6220779220779221
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.805358 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 26.423797 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.354911 s
+0.18571428571428572 0.20487012987012987
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 78.193966 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 25.928577 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.416219 s
+0.9827922077922078 0.9944805194805195
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.196373 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 117.042900 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 15.005450 s
+0.462012987012987 0.48084415584415585
+<class 'sklearn.ensemble.forest.RandomForestClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.773888 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 232.363701 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 109.786510 ms
+0.9850649350649351 0.9951298701298701
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.122551 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.552944 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 104.480505 ms
+0.9831168831168832 0.9967532467532467
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.261505 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 230.758667 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 109.333992 ms
+0.9834415584415584 0.9957792207792208
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 43.872689 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 228.853703 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 106.766701 ms
+0.9873376623376623 0.9970779220779221
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.642714 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.494532 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 105.839252 ms
+0.9798701298701299 0.9918831168831169
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.340435 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.498346 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 105.075598 ms
+0.9798701298701299 0.9899350649350649
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 79.055514 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 230.891466 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 108.902454 ms
+0.9834415584415584 0.9954545454545455
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.894518 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 229.892492 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.577562 ms
+0.9844155844155844 0.9941558441558441
+<class 'sklearn.ensemble.weight_boosting.AdaBoostClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.834384 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.127182 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 355.011463 ms
+0.08311688311688312 0.10974025974025974
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.085712 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.444226 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 318.155289 ms
+0.07662337662337662 0.10811688311688311
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.241767 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.648443 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 349.093914 ms
+0.09350649350649351 0.10941558441558441
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 55.787913 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.614981 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 341.576099 ms
+0.060064935064935064 0.07435064935064935
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 58.002420 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.553641 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 319.846153 ms
+0.0762987012987013 0.12012987012987013
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.923790 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.664113 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 321.691513 ms
+0.09772727272727273 0.11883116883116883
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 78.321321 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.284715 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 352.037907 ms
+0.13474025974025974 0.15324675324675324
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.233621 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 8.218278 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 342.997551 ms
+0.09642857142857143 0.11233766233766233
+<class 'sklearn.tree.tree.DecisionTreeClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.770970 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 472.410202 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.794525 ms
+0.9668831168831169 0.9853896103896104
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.077726 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 85.696697 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.979517 ms
+0.9711038961038961 0.987987012987013
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.050469 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 725.469112 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.572319 ms
+0.9655844155844155 0.9844155844155844
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.167472 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.117115 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.095959 ms
+0.9704545454545455 0.9853896103896104
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.559651 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 112.186909 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.681971 ms
+0.9720779220779221 0.987987012987013
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.836281 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 150.545359 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.639532 ms
+0.9655844155844155 0.9844155844155844
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 78.937925 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 785.862684 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.312204 ms
+0.9678571428571429 0.9844155844155844
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.693830 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.209288 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.075455 ms
+0.9639610389610389 0.9818181818181818
+<class 'sklearn.neighbors.classification.KNeighborsClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.779202 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.272238 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 14.808497 s
+0.9792207792207792 0.9922077922077922
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.087203 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 92.986345 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 425.826550 ms
+0.9831168831168832 0.9948051948051948
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 52.992392 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 697.062254 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.636180 s
+0.9886363636363636 0.9974025974025974
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.149631 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 289.362669 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.230454 s
+0.9827922077922078 0.9957792207792208
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.338347 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 59.502125 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 390.144110 ms
+0.9792207792207792 0.9912337662337662
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.964236 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 31.978846 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 225.194454 ms
+0.9782467532467533 0.9912337662337662
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 78.323554 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 701.863527 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.033084 s
+0.9844155844155844 0.9948051948051948
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.120557 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 296.456099 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.502547 s
+0.9831168831168832 0.9951298701298701
+<class 'sklearn.svm.classes.SVC'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.804170 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 20.198645 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 14.249765 s
+0.9831168831168832 0.9915584415584415
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.082617 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 3.486608 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 1.164377 s
+0.9863636363636363 0.9974025974025974
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 52.782432 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 12.584940 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.870225 s
+0.9866883116883117 0.9970779220779221
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 43.666397 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 18.479569 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 3.312993 s
+0.9827922077922078 0.9928571428571429
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.483855 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 27.832351 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 6.160711 s
+0.6178571428571429 0.6321428571428571
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.232747 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 26.343361 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.390299 s
+0.19350649350649352 0.20974025974025973
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 78.694675 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 26.138459 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.497602 s
+0.987012987012987 0.9957792207792208
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.369756 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 116.461135 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 15.249678 s
+0.47824675324675325 0.4928571428571429
+<class 'sklearn.ensemble.forest.RandomForestClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.779758 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 240.335941 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 116.392136 ms
+0.9853896103896104 0.9948051948051948
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.206653 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 122.522116 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 107.232094 ms
+0.9834415584415584 0.9925324675324675
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.045975 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 233.563185 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 108.522177 ms
+0.977922077922078 0.9951298701298701
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.284269 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 228.713751 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 106.657982 ms
+0.9824675324675325 0.9941558441558441
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.983045 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.331215 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 105.938435 ms
+0.9821428571428571 0.9938311688311688
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.734657 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 121.249199 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 105.534792 ms
+0.9808441558441559 0.9925324675324675
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 78.731589 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 231.166601 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 108.052731 ms
+0.9840909090909091 0.9954545454545455
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.800468 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 329.413176 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 110.692739 ms
+0.9840909090909091 0.9957792207792208
+<class 'sklearn.ensemble.weight_boosting.AdaBoostClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.824294 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 6.796722 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 357.780457 ms
+0.059415584415584415 0.09155844155844156
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.100164 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.434132 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 314.918518 ms
+0.07922077922077922 0.09480519480519481
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.172523 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.214655 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 348.435163 ms
+0.05616883116883117 0.08993506493506494
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 43.807684 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.561498 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 340.922117 ms
+0.06623376623376623 0.08279220779220779
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.455202 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.559815 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 319.604397 ms
+0.10909090909090909 0.13993506493506494
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.692866 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 2.659887 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 322.138548 ms
+0.07727272727272727 0.10616883116883116
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 78.450326 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 7.354383 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 350.135803 ms
+0.11103896103896103 0.14545454545454545
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.310076 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 8.197187 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 344.303608 ms
+0.07012987012987013 0.08831168831168831
+<class 'sklearn.tree.tree.DecisionTreeClassifier'>
+=== feature1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 2.788005 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 483.487844 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.841017 ms
+0.9668831168831169 0.9837662337662337
+=== feature2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 3.105113 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 92.598438 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.804995 ms
+0.9717532467532467 0.987987012987013
+=== feature3 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.093347 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 697.524548 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.605698 ms
+0.9681818181818181 0.9883116883116884
+=== feature3 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 44.308561 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.173190 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.977465 ms
+0.9642857142857143 0.9795454545454545
+=== feature4 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 53.210411 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 122.806311 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.737284 ms
+0.9678571428571429 0.9873376623376623
+=== feature4 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 45.189151 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 154.648066 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 2.702951 ms
+0.9659090909090909 0.9818181818181818
+=== feature5 level=1 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 78.305231 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 827.698231 ms
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 5.487680 ms
+0.9613636363636363 0.9824675324675325
+=== feature5 level=2 ===
+[log] Function 'get_XYlist' Start
+[log] Function 'get_XYlist' Done. Cost 65.099069 s
+[log] Function 'train' Start
+[log] Function 'train' Done. Cost 1.282109 s
+[log] Function 'predict' Start
+[log] Function 'predict' Done. Cost 4.985571 ms
+0.9714285714285714 0.9883116883116884

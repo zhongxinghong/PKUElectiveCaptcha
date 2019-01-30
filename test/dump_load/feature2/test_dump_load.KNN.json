@@ -1,0 +1,760 @@
+[
+    {
+        "fn": "test_dump_ext",
+        "logs": [
+            {
+                "file": "KNN.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "90.902805 ms",
+                "size": "593.979492"
+            },
+            {
+                "file": "KNN.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "105.084896 ms",
+                "size": "593.991211"
+            },
+            {
+                "file": "KNN.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "640.515804 ms",
+                "size": "235.018555"
+            },
+            {
+                "file": "KNN.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "313.192606 ms",
+                "size": "307.789062"
+            }
+        ],
+        "cost": "1.462744 s"
+    },
+    {
+        "fn": "test_load_ext",
+        "logs": [
+            {
+                "file": "KNN.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "37.219524 ms",
+                "size": "593.979492"
+            },
+            {
+                "file": "KNN.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "43.606281 ms",
+                "size": "593.991211"
+            },
+            {
+                "file": "KNN.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "149.747372 ms",
+                "size": "235.018555"
+            },
+            {
+                "file": "KNN.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "57.448149 ms",
+                "size": "307.789062"
+            }
+        ],
+        "cost": "349.399328 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "KNN.model.0.z",
+                "compress": "0",
+                "ext": ".z",
+                "cost": "88.834524 ms",
+                "size": "593.979492"
+            },
+            {
+                "file": "KNN.model.1.z",
+                "compress": "1",
+                "ext": ".z",
+                "cost": "94.838142 ms",
+                "size": "926.428711"
+            },
+            {
+                "file": "KNN.model.2.z",
+                "compress": "2",
+                "ext": ".z",
+                "cost": "87.163448 ms",
+                "size": "738.577148"
+            },
+            {
+                "file": "KNN.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "90.792179 ms",
+                "size": "593.979492"
+            },
+            {
+                "file": "KNN.model.4.z",
+                "compress": "4",
+                "ext": ".z",
+                "cost": "117.739916 ms",
+                "size": "623.690430"
+            },
+            {
+                "file": "KNN.model.5.z",
+                "compress": "5",
+                "ext": ".z",
+                "cost": "137.323380 ms",
+                "size": "537.026367"
+            },
+            {
+                "file": "KNN.model.6.z",
+                "compress": "6",
+                "ext": ".z",
+                "cost": "212.703943 ms",
+                "size": "452.715820"
+            },
+            {
+                "file": "KNN.model.7.z",
+                "compress": "7",
+                "ext": ".z",
+                "cost": "280.593395 ms",
+                "size": "434.459961"
+            },
+            {
+                "file": "KNN.model.8.z",
+                "compress": "8",
+                "ext": ".z",
+                "cost": "599.521160 ms",
+                "size": "410.289062"
+            }
+        ],
+        "cost": "3.097803 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "KNN.model.0.z",
+                "compress": "0",
+                "ext": ".z",
+                "cost": "36.083698 ms",
+                "size": "593.979492"
+            },
+            {
+                "file": "KNN.model.1.z",
+                "compress": "1",
+                "ext": ".z",
+                "cost": "43.095112 ms",
+                "size": "926.428711"
+            },
+            {
+                "file": "KNN.model.2.z",
+                "compress": "2",
+                "ext": ".z",
+                "cost": "40.302753 ms",
+                "size": "738.577148"
+            },
+            {
+                "file": "KNN.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "33.936262 ms",
+                "size": "593.979492"
+            },
+            {
+                "file": "KNN.model.4.z",
+                "compress": "4",
+                "ext": ".z",
+                "cost": "38.923264 ms",
+                "size": "623.690430"
+            },
+            {
+                "file": "KNN.model.5.z",
+                "compress": "5",
+                "ext": ".z",
+                "cost": "37.304401 ms",
+                "size": "537.026367"
+            },
+            {
+                "file": "KNN.model.6.z",
+                "compress": "6",
+                "ext": ".z",
+                "cost": "34.909487 ms",
+                "size": "452.715820"
+            },
+            {
+                "file": "KNN.model.7.z",
+                "compress": "7",
+                "ext": ".z",
+                "cost": "33.857346 ms",
+                "size": "434.459961"
+            },
+            {
+                "file": "KNN.model.8.z",
+                "compress": "8",
+                "ext": ".z",
+                "cost": "33.400536 ms",
+                "size": "410.289062"
+            }
+        ],
+        "cost": "372.040510 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "KNN.model.0.gz",
+                "compress": "0",
+                "ext": ".gz",
+                "cost": "92.079401 ms",
+                "size": "593.991211"
+            },
+            {
+                "file": "KNN.model.1.gz",
+                "compress": "1",
+                "ext": ".gz",
+                "cost": "97.517967 ms",
+                "size": "926.440430"
+            },
+            {
+                "file": "KNN.model.2.gz",
+                "compress": "2",
+                "ext": ".gz",
+                "cost": "89.694977 ms",
+                "size": "738.588867"
+            },
+            {
+                "file": "KNN.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "96.973658 ms",
+                "size": "593.991211"
+            },
+            {
+                "file": "KNN.model.4.gz",
+                "compress": "4",
+                "ext": ".gz",
+                "cost": "130.699396 ms",
+                "size": "623.702148"
+            },
+            {
+                "file": "KNN.model.5.gz",
+                "compress": "5",
+                "ext": ".gz",
+                "cost": "145.455599 ms",
+                "size": "537.038086"
+            },
+            {
+                "file": "KNN.model.6.gz",
+                "compress": "6",
+                "ext": ".gz",
+                "cost": "218.388081 ms",
+                "size": "452.727539"
+            },
+            {
+                "file": "KNN.model.7.gz",
+                "compress": "7",
+                "ext": ".gz",
+                "cost": "291.308165 ms",
+                "size": "434.471680"
+            },
+            {
+                "file": "KNN.model.8.gz",
+                "compress": "8",
+                "ext": ".gz",
+                "cost": "602.733612 ms",
+                "size": "410.300781"
+            }
+        ],
+        "cost": "3.175282 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "KNN.model.0.gz",
+                "compress": "0",
+                "ext": ".gz",
+                "cost": "41.471243 ms",
+                "size": "593.991211"
+            },
+            {
+                "file": "KNN.model.1.gz",
+                "compress": "1",
+                "ext": ".gz",
+                "cost": "47.395229 ms",
+                "size": "926.440430"
+            },
+            {
+                "file": "KNN.model.2.gz",
+                "compress": "2",
+                "ext": ".gz",
+                "cost": "46.913147 ms",
+                "size": "738.588867"
+            },
+            {
+                "file": "KNN.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "40.982485 ms",
+                "size": "593.991211"
+            },
+            {
+                "file": "KNN.model.4.gz",
+                "compress": "4",
+                "ext": ".gz",
+                "cost": "45.718908 ms",
+                "size": "623.702148"
+            },
+            {
+                "file": "KNN.model.5.gz",
+                "compress": "5",
+                "ext": ".gz",
+                "cost": "44.166088 ms",
+                "size": "537.038086"
+            },
+            {
+                "file": "KNN.model.6.gz",
+                "compress": "6",
+                "ext": ".gz",
+                "cost": "41.651487 ms",
+                "size": "452.727539"
+            },
+            {
+                "file": "KNN.model.7.gz",
+                "compress": "7",
+                "ext": ".gz",
+                "cost": "40.564060 ms",
+                "size": "434.471680"
+            },
+            {
+                "file": "KNN.model.8.gz",
+                "compress": "8",
+                "ext": ".gz",
+                "cost": "45.276165 ms",
+                "size": "410.300781"
+            }
+        ],
+        "cost": "436.044216 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "KNN.model.0.bz2",
+                "compress": "0",
+                "ext": ".bz2",
+                "cost": "623.465776 ms",
+                "size": "235.018555"
+            },
+            {
+                "file": "KNN.model.1.bz2",
+                "compress": "1",
+                "ext": ".bz2",
+                "cost": "523.186684 ms",
+                "size": "231.629883"
+            },
+            {
+                "file": "KNN.model.2.bz2",
+                "compress": "2",
+                "ext": ".bz2",
+                "cost": "593.605280 ms",
+                "size": "231.860352"
+            },
+            {
+                "file": "KNN.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "643.862247 ms",
+                "size": "235.018555"
+            },
+            {
+                "file": "KNN.model.4.bz2",
+                "compress": "4",
+                "ext": ".bz2",
+                "cost": "690.389872 ms",
+                "size": "235.626953"
+            },
+            {
+                "file": "KNN.model.5.bz2",
+                "compress": "5",
+                "ext": ".bz2",
+                "cost": "684.425831 ms",
+                "size": "238.501953"
+            },
+            {
+                "file": "KNN.model.6.bz2",
+                "compress": "6",
+                "ext": ".bz2",
+                "cost": "803.295612 ms",
+                "size": "239.246094"
+            },
+            {
+                "file": "KNN.model.7.bz2",
+                "compress": "7",
+                "ext": ".bz2",
+                "cost": "822.362661 ms",
+                "size": "241.252930"
+            },
+            {
+                "file": "KNN.model.8.bz2",
+                "compress": "8",
+                "ext": ".bz2",
+                "cost": "696.404934 ms",
+                "size": "241.210938"
+            }
+        ],
+        "cost": "6.825812 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "KNN.model.0.bz2",
+                "compress": "0",
+                "ext": ".bz2",
+                "cost": "149.524450 ms",
+                "size": "235.018555"
+            },
+            {
+                "file": "KNN.model.1.bz2",
+                "compress": "1",
+                "ext": ".bz2",
+                "cost": "124.142885 ms",
+                "size": "231.629883"
+            },
+            {
+                "file": "KNN.model.2.bz2",
+                "compress": "2",
+                "ext": ".bz2",
+                "cost": "138.013124 ms",
+                "size": "231.860352"
+            },
+            {
+                "file": "KNN.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "149.657488 ms",
+                "size": "235.018555"
+            },
+            {
+                "file": "KNN.model.4.bz2",
+                "compress": "4",
+                "ext": ".bz2",
+                "cost": "170.441151 ms",
+                "size": "235.626953"
+            },
+            {
+                "file": "KNN.model.5.bz2",
+                "compress": "5",
+                "ext": ".bz2",
+                "cost": "162.486076 ms",
+                "size": "238.501953"
+            },
+            {
+                "file": "KNN.model.6.bz2",
+                "compress": "6",
+                "ext": ".bz2",
+                "cost": "170.908928 ms",
+                "size": "239.246094"
+            },
+            {
+                "file": "KNN.model.7.bz2",
+                "compress": "7",
+                "ext": ".bz2",
+                "cost": "182.749748 ms",
+                "size": "241.252930"
+            },
+            {
+                "file": "KNN.model.8.bz2",
+                "compress": "8",
+                "ext": ".bz2",
+                "cost": "190.589190 ms",
+                "size": "241.210938"
+            }
+        ],
+        "cost": "1.625232 s"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "KNN.model.0.xz",
+                "compress": "0",
+                "ext": ".xz",
+                "cost": "305.622578 ms",
+                "size": "307.789062"
+            },
+            {
+                "file": "KNN.model.1.xz",
+                "compress": "1",
+                "ext": ".xz",
+                "cost": "235.256910 ms",
+                "size": "330.156250"
+            },
+            {
+                "file": "KNN.model.2.xz",
+                "compress": "2",
+                "ext": ".xz",
+                "cost": "274.853468 ms",
+                "size": "315.851562"
+            },
+            {
+                "file": "KNN.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "312.177658 ms",
+                "size": "307.789062"
+            },
+            {
+                "file": "KNN.model.4.xz",
+                "compress": "4",
+                "ext": ".xz",
+                "cost": "950.224161 ms",
+                "size": "370.628906"
+            },
+            {
+                "file": "KNN.model.5.xz",
+                "compress": "5",
+                "ext": ".xz",
+                "cost": "1656.663179 ms",
+                "size": "326.273438"
+            },
+            {
+                "file": "KNN.model.6.xz",
+                "compress": "6",
+                "ext": ".xz",
+                "cost": "3755.563259 ms",
+                "size": "298.097656"
+            },
+            {
+                "file": "KNN.model.7.xz",
+                "compress": "7",
+                "ext": ".xz",
+                "cost": "3607.324600 ms",
+                "size": "298.097656"
+            },
+            {
+                "file": "KNN.model.8.xz",
+                "compress": "8",
+                "ext": ".xz",
+                "cost": "3694.441557 ms",
+                "size": "298.097656"
+            }
+        ],
+        "cost": "18.682042 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "KNN.model.0.xz",
+                "compress": "0",
+                "ext": ".xz",
+                "cost": "72.057247 ms",
+                "size": "307.789062"
+            },
+            {
+                "file": "KNN.model.1.xz",
+                "compress": "1",
+                "ext": ".xz",
+                "cost": "76.908827 ms",
+                "size": "330.156250"
+            },
+            {
+                "file": "KNN.model.2.xz",
+                "compress": "2",
+                "ext": ".xz",
+                "cost": "59.775829 ms",
+                "size": "315.851562"
+            },
+            {
+                "file": "KNN.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "64.359665 ms",
+                "size": "307.789062"
+            },
+            {
+                "file": "KNN.model.4.xz",
+                "compress": "4",
+                "ext": ".xz",
+                "cost": "70.631027 ms",
+                "size": "370.628906"
+            },
+            {
+                "file": "KNN.model.5.xz",
+                "compress": "5",
+                "ext": ".xz",
+                "cost": "64.547539 ms",
+                "size": "326.273438"
+            },
+            {
+                "file": "KNN.model.6.xz",
+                "compress": "6",
+                "ext": ".xz",
+                "cost": "63.701391 ms",
+                "size": "298.097656"
+            },
+            {
+                "file": "KNN.model.7.xz",
+                "compress": "7",
+                "ext": ".xz",
+                "cost": "59.078217 ms",
+                "size": "298.097656"
+            },
+            {
+                "file": "KNN.model.8.xz",
+                "compress": "8",
+                "ext": ".xz",
+                "cost": "58.190107 ms",
+                "size": "298.097656"
+            }
+        ],
+        "cost": "653.047323 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "KNN.model.0.lzma",
+                "compress": "0",
+                "ext": ".lzma",
+                "cost": "335.779905 ms",
+                "size": "307.690430"
+            },
+            {
+                "file": "KNN.model.1.lzma",
+                "compress": "1",
+                "ext": ".lzma",
+                "cost": "250.622749 ms",
+                "size": "330.058594"
+            },
+            {
+                "file": "KNN.model.2.lzma",
+                "compress": "2",
+                "ext": ".lzma",
+                "cost": "267.187119 ms",
+                "size": "315.754883"
+            },
+            {
+                "file": "KNN.model.3.lzma",
+                "compress": "3",
+                "ext": ".lzma",
+                "cost": "324.835300 ms",
+                "size": "307.690430"
+            },
+            {
+                "file": "KNN.model.4.lzma",
+                "compress": "4",
+                "ext": ".lzma",
+                "cost": "880.280972 ms",
+                "size": "370.531250"
+            },
+            {
+                "file": "KNN.model.5.lzma",
+                "compress": "5",
+                "ext": ".lzma",
+                "cost": "1591.653109 ms",
+                "size": "326.188477"
+            },
+            {
+                "file": "KNN.model.6.lzma",
+                "compress": "6",
+                "ext": ".lzma",
+                "cost": "3629.448414 ms",
+                "size": "298.010742"
+            },
+            {
+                "file": "KNN.model.7.lzma",
+                "compress": "7",
+                "ext": ".lzma",
+                "cost": "3832.274437 ms",
+                "size": "298.012695"
+            },
+            {
+                "file": "KNN.model.8.lzma",
+                "compress": "8",
+                "ext": ".lzma",
+                "cost": "3959.565401 ms",
+                "size": "298.012695"
+            }
+        ],
+        "cost": "18.950513 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "KNN.model.0.lzma",
+                "compress": "0",
+                "ext": ".lzma",
+                "cost": "67.116261 ms",
+                "size": "307.690430"
+            },
+            {
+                "file": "KNN.model.1.lzma",
+                "compress": "1",
+                "ext": ".lzma",
+                "cost": "66.722155 ms",
+                "size": "330.058594"
+            },
+            {
+                "file": "KNN.model.2.lzma",
+                "compress": "2",
+                "ext": ".lzma",
+                "cost": "59.968472 ms",
+                "size": "315.754883"
+            },
+            {
+                "file": "KNN.model.3.lzma",
+                "compress": "3",
+                "ext": ".lzma",
+                "cost": "66.670895 ms",
+                "size": "307.690430"
+            },
+            {
+                "file": "KNN.model.4.lzma",
+                "compress": "4",
+                "ext": ".lzma",
+                "cost": "61.902285 ms",
+                "size": "370.531250"
+            },
+            {
+                "file": "KNN.model.5.lzma",
+                "compress": "5",
+                "ext": ".lzma",
+                "cost": "61.110735 ms",
+                "size": "326.188477"
+            },
+            {
+                "file": "KNN.model.6.lzma",
+                "compress": "6",
+                "ext": ".lzma",
+                "cost": "57.989359 ms",
+                "size": "298.010742"
+            },
+            {
+                "file": "KNN.model.7.lzma",
+                "compress": "7",
+                "ext": ".lzma",
+                "cost": "61.677456 ms",
+                "size": "298.012695"
+            },
+            {
+                "file": "KNN.model.8.lzma",
+                "compress": "8",
+                "ext": ".lzma",
+                "cost": "58.794260 ms",
+                "size": "298.012695"
+            }
+        ],
+        "cost": "633.778095 ms"
+    }
+]

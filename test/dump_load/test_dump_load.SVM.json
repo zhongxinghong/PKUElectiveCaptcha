@@ -1,0 +1,760 @@
+[
+    {
+        "fn": "test_dump_ext",
+        "logs": [
+            {
+                "file": "SVM.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "92.199802 ms",
+                "size": "1181.643555"
+            },
+            {
+                "file": "SVM.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "98.970175 ms",
+                "size": "1181.655273"
+            },
+            {
+                "file": "SVM.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "493.262529 ms",
+                "size": "926.679688"
+            },
+            {
+                "file": "SVM.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "307.538509 ms",
+                "size": "558.593750"
+            }
+        ],
+        "cost": "1.307381 s"
+    },
+    {
+        "fn": "test_load_ext",
+        "logs": [
+            {
+                "file": "SVM.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "37.421703 ms",
+                "size": "1181.643555"
+            },
+            {
+                "file": "SVM.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "39.139271 ms",
+                "size": "1181.655273"
+            },
+            {
+                "file": "SVM.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "183.492184 ms",
+                "size": "926.679688"
+            },
+            {
+                "file": "SVM.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "73.297739 ms",
+                "size": "558.593750"
+            }
+        ],
+        "cost": "412.869453 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "SVM.model.0.z",
+                "compress": "0",
+                "ext": ".z",
+                "cost": "95.966816 ms",
+                "size": "1181.643555"
+            },
+            {
+                "file": "SVM.model.1.z",
+                "compress": "1",
+                "ext": ".z",
+                "cost": "83.382368 ms",
+                "size": "1420.465820"
+            },
+            {
+                "file": "SVM.model.2.z",
+                "compress": "2",
+                "ext": ".z",
+                "cost": "79.792023 ms",
+                "size": "1292.292969"
+            },
+            {
+                "file": "SVM.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "100.032330 ms",
+                "size": "1181.643555"
+            },
+            {
+                "file": "SVM.model.4.z",
+                "compress": "4",
+                "ext": ".z",
+                "cost": "119.812727 ms",
+                "size": "1205.756836"
+            },
+            {
+                "file": "SVM.model.5.z",
+                "compress": "5",
+                "ext": ".z",
+                "cost": "126.475573 ms",
+                "size": "1136.573242"
+            },
+            {
+                "file": "SVM.model.6.z",
+                "compress": "6",
+                "ext": ".z",
+                "cost": "151.910543 ms",
+                "size": "1076.820312"
+            },
+            {
+                "file": "SVM.model.7.z",
+                "compress": "7",
+                "ext": ".z",
+                "cost": "178.566933 ms",
+                "size": "1064.890625"
+            },
+            {
+                "file": "SVM.model.8.z",
+                "compress": "8",
+                "ext": ".z",
+                "cost": "469.615221 ms",
+                "size": "1052.142578"
+            }
+        ],
+        "cost": "2.276586 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "SVM.model.0.z",
+                "compress": "0",
+                "ext": ".z",
+                "cost": "30.766726 ms",
+                "size": "1181.643555"
+            },
+            {
+                "file": "SVM.model.1.z",
+                "compress": "1",
+                "ext": ".z",
+                "cost": "36.708355 ms",
+                "size": "1420.465820"
+            },
+            {
+                "file": "SVM.model.2.z",
+                "compress": "2",
+                "ext": ".z",
+                "cost": "33.182383 ms",
+                "size": "1292.292969"
+            },
+            {
+                "file": "SVM.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "32.595158 ms",
+                "size": "1181.643555"
+            },
+            {
+                "file": "SVM.model.4.z",
+                "compress": "4",
+                "ext": ".z",
+                "cost": "35.897493 ms",
+                "size": "1205.756836"
+            },
+            {
+                "file": "SVM.model.5.z",
+                "compress": "5",
+                "ext": ".z",
+                "cost": "34.923077 ms",
+                "size": "1136.573242"
+            },
+            {
+                "file": "SVM.model.6.z",
+                "compress": "6",
+                "ext": ".z",
+                "cost": "35.324812 ms",
+                "size": "1076.820312"
+            },
+            {
+                "file": "SVM.model.7.z",
+                "compress": "7",
+                "ext": ".z",
+                "cost": "33.187151 ms",
+                "size": "1064.890625"
+            },
+            {
+                "file": "SVM.model.8.z",
+                "compress": "8",
+                "ext": ".z",
+                "cost": "33.866167 ms",
+                "size": "1052.142578"
+            }
+        ],
+        "cost": "343.911648 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "SVM.model.0.gz",
+                "compress": "0",
+                "ext": ".gz",
+                "cost": "95.440865 ms",
+                "size": "1181.655273"
+            },
+            {
+                "file": "SVM.model.1.gz",
+                "compress": "1",
+                "ext": ".gz",
+                "cost": "89.809656 ms",
+                "size": "1420.477539"
+            },
+            {
+                "file": "SVM.model.2.gz",
+                "compress": "2",
+                "ext": ".gz",
+                "cost": "86.582422 ms",
+                "size": "1292.304688"
+            },
+            {
+                "file": "SVM.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "94.363451 ms",
+                "size": "1181.655273"
+            },
+            {
+                "file": "SVM.model.4.gz",
+                "compress": "4",
+                "ext": ".gz",
+                "cost": "123.820066 ms",
+                "size": "1205.768555"
+            },
+            {
+                "file": "SVM.model.5.gz",
+                "compress": "5",
+                "ext": ".gz",
+                "cost": "130.870819 ms",
+                "size": "1136.584961"
+            },
+            {
+                "file": "SVM.model.6.gz",
+                "compress": "6",
+                "ext": ".gz",
+                "cost": "165.522575 ms",
+                "size": "1076.832031"
+            },
+            {
+                "file": "SVM.model.7.gz",
+                "compress": "7",
+                "ext": ".gz",
+                "cost": "189.755917 ms",
+                "size": "1064.902344"
+            },
+            {
+                "file": "SVM.model.8.gz",
+                "compress": "8",
+                "ext": ".gz",
+                "cost": "482.747793 ms",
+                "size": "1052.154297"
+            }
+        ],
+        "cost": "2.335115 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "SVM.model.0.gz",
+                "compress": "0",
+                "ext": ".gz",
+                "cost": "35.983562 ms",
+                "size": "1181.655273"
+            },
+            {
+                "file": "SVM.model.1.gz",
+                "compress": "1",
+                "ext": ".gz",
+                "cost": "39.020538 ms",
+                "size": "1420.477539"
+            },
+            {
+                "file": "SVM.model.2.gz",
+                "compress": "2",
+                "ext": ".gz",
+                "cost": "38.164139 ms",
+                "size": "1292.304688"
+            },
+            {
+                "file": "SVM.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "36.741734 ms",
+                "size": "1181.655273"
+            },
+            {
+                "file": "SVM.model.4.gz",
+                "compress": "4",
+                "ext": ".gz",
+                "cost": "40.356398 ms",
+                "size": "1205.768555"
+            },
+            {
+                "file": "SVM.model.5.gz",
+                "compress": "5",
+                "ext": ".gz",
+                "cost": "41.824102 ms",
+                "size": "1136.584961"
+            },
+            {
+                "file": "SVM.model.6.gz",
+                "compress": "6",
+                "ext": ".gz",
+                "cost": "39.262056 ms",
+                "size": "1076.832031"
+            },
+            {
+                "file": "SVM.model.7.gz",
+                "compress": "7",
+                "ext": ".gz",
+                "cost": "38.315058 ms",
+                "size": "1064.902344"
+            },
+            {
+                "file": "SVM.model.8.gz",
+                "compress": "8",
+                "ext": ".gz",
+                "cost": "39.870739 ms",
+                "size": "1052.154297"
+            }
+        ],
+        "cost": "391.365767 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "SVM.model.0.bz2",
+                "compress": "0",
+                "ext": ".bz2",
+                "cost": "484.509230 ms",
+                "size": "926.679688"
+            },
+            {
+                "file": "SVM.model.1.bz2",
+                "compress": "1",
+                "ext": ".bz2",
+                "cost": "441.864014 ms",
+                "size": "935.512695"
+            },
+            {
+                "file": "SVM.model.2.bz2",
+                "compress": "2",
+                "ext": ".bz2",
+                "cost": "454.229832 ms",
+                "size": "927.819336"
+            },
+            {
+                "file": "SVM.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "495.691538 ms",
+                "size": "926.679688"
+            },
+            {
+                "file": "SVM.model.4.bz2",
+                "compress": "4",
+                "ext": ".bz2",
+                "cost": "491.706371 ms",
+                "size": "926.947266"
+            },
+            {
+                "file": "SVM.model.5.bz2",
+                "compress": "5",
+                "ext": ".bz2",
+                "cost": "510.692835 ms",
+                "size": "924.906250"
+            },
+            {
+                "file": "SVM.model.6.bz2",
+                "compress": "6",
+                "ext": ".bz2",
+                "cost": "585.744858 ms",
+                "size": "924.458984"
+            },
+            {
+                "file": "SVM.model.7.bz2",
+                "compress": "7",
+                "ext": ".bz2",
+                "cost": "537.306547 ms",
+                "size": "925.445312"
+            },
+            {
+                "file": "SVM.model.8.bz2",
+                "compress": "8",
+                "ext": ".bz2",
+                "cost": "596.924543 ms",
+                "size": "922.725586"
+            }
+        ],
+        "cost": "5.161608 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "SVM.model.0.bz2",
+                "compress": "0",
+                "ext": ".bz2",
+                "cost": "160.465002 ms",
+                "size": "926.679688"
+            },
+            {
+                "file": "SVM.model.1.bz2",
+                "compress": "1",
+                "ext": ".bz2",
+                "cost": "136.250973 ms",
+                "size": "935.512695"
+            },
+            {
+                "file": "SVM.model.2.bz2",
+                "compress": "2",
+                "ext": ".bz2",
+                "cost": "153.212547 ms",
+                "size": "927.819336"
+            },
+            {
+                "file": "SVM.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "167.771101 ms",
+                "size": "926.679688"
+            },
+            {
+                "file": "SVM.model.4.bz2",
+                "compress": "4",
+                "ext": ".bz2",
+                "cost": "178.675890 ms",
+                "size": "926.947266"
+            },
+            {
+                "file": "SVM.model.5.bz2",
+                "compress": "5",
+                "ext": ".bz2",
+                "cost": "193.880796 ms",
+                "size": "924.906250"
+            },
+            {
+                "file": "SVM.model.6.bz2",
+                "compress": "6",
+                "ext": ".bz2",
+                "cost": "209.966183 ms",
+                "size": "924.458984"
+            },
+            {
+                "file": "SVM.model.7.bz2",
+                "compress": "7",
+                "ext": ".bz2",
+                "cost": "210.391998 ms",
+                "size": "925.445312"
+            },
+            {
+                "file": "SVM.model.8.bz2",
+                "compress": "8",
+                "ext": ".bz2",
+                "cost": "221.288919 ms",
+                "size": "922.725586"
+            }
+        ],
+        "cost": "1.893426 s"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "SVM.model.0.xz",
+                "compress": "0",
+                "ext": ".xz",
+                "cost": "334.428549 ms",
+                "size": "558.593750"
+            },
+            {
+                "file": "SVM.model.1.xz",
+                "compress": "1",
+                "ext": ".xz",
+                "cost": "398.982286 ms",
+                "size": "1050.015625"
+            },
+            {
+                "file": "SVM.model.2.xz",
+                "compress": "2",
+                "ext": ".xz",
+                "cost": "296.861410 ms",
+                "size": "575.531250"
+            },
+            {
+                "file": "SVM.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "309.872150 ms",
+                "size": "558.593750"
+            },
+            {
+                "file": "SVM.model.4.xz",
+                "compress": "4",
+                "ext": ".xz",
+                "cost": "807.643652 ms",
+                "size": "608.218750"
+            },
+            {
+                "file": "SVM.model.5.xz",
+                "compress": "5",
+                "ext": ".xz",
+                "cost": "1272.053003 ms",
+                "size": "550.324219"
+            },
+            {
+                "file": "SVM.model.6.xz",
+                "compress": "6",
+                "ext": ".xz",
+                "cost": "2059.056520 ms",
+                "size": "529.199219"
+            },
+            {
+                "file": "SVM.model.7.xz",
+                "compress": "7",
+                "ext": ".xz",
+                "cost": "2052.300930 ms",
+                "size": "529.300781"
+            },
+            {
+                "file": "SVM.model.8.xz",
+                "compress": "8",
+                "ext": ".xz",
+                "cost": "2056.275606 ms",
+                "size": "529.300781"
+            }
+        ],
+        "cost": "11.648151 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "SVM.model.0.xz",
+                "compress": "0",
+                "ext": ".xz",
+                "cost": "63.929319 ms",
+                "size": "558.593750"
+            },
+            {
+                "file": "SVM.model.1.xz",
+                "compress": "1",
+                "ext": ".xz",
+                "cost": "107.721090 ms",
+                "size": "1050.015625"
+            },
+            {
+                "file": "SVM.model.2.xz",
+                "compress": "2",
+                "ext": ".xz",
+                "cost": "68.978310 ms",
+                "size": "575.531250"
+            },
+            {
+                "file": "SVM.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "66.703796 ms",
+                "size": "558.593750"
+            },
+            {
+                "file": "SVM.model.4.xz",
+                "compress": "4",
+                "ext": ".xz",
+                "cost": "69.086075 ms",
+                "size": "608.218750"
+            },
+            {
+                "file": "SVM.model.5.xz",
+                "compress": "5",
+                "ext": ".xz",
+                "cost": "69.585323 ms",
+                "size": "550.324219"
+            },
+            {
+                "file": "SVM.model.6.xz",
+                "compress": "6",
+                "ext": ".xz",
+                "cost": "65.018892 ms",
+                "size": "529.199219"
+            },
+            {
+                "file": "SVM.model.7.xz",
+                "compress": "7",
+                "ext": ".xz",
+                "cost": "66.749096 ms",
+                "size": "529.300781"
+            },
+            {
+                "file": "SVM.model.8.xz",
+                "compress": "8",
+                "ext": ".xz",
+                "cost": "73.103905 ms",
+                "size": "529.300781"
+            }
+        ],
+        "cost": "730.453730 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "SVM.model.0.lzma",
+                "compress": "0",
+                "ext": ".lzma",
+                "cost": "323.415756 ms",
+                "size": "558.459961"
+            },
+            {
+                "file": "SVM.model.1.lzma",
+                "compress": "1",
+                "ext": ".lzma",
+                "cost": "382.724524 ms",
+                "size": "1049.805664"
+            },
+            {
+                "file": "SVM.model.2.lzma",
+                "compress": "2",
+                "ext": ".lzma",
+                "cost": "274.298429 ms",
+                "size": "575.397461"
+            },
+            {
+                "file": "SVM.model.3.lzma",
+                "compress": "3",
+                "ext": ".lzma",
+                "cost": "323.335409 ms",
+                "size": "558.459961"
+            },
+            {
+                "file": "SVM.model.4.lzma",
+                "compress": "4",
+                "ext": ".lzma",
+                "cost": "799.577713 ms",
+                "size": "608.086914"
+            },
+            {
+                "file": "SVM.model.5.lzma",
+                "compress": "5",
+                "ext": ".lzma",
+                "cost": "1226.326466 ms",
+                "size": "550.189453"
+            },
+            {
+                "file": "SVM.model.6.lzma",
+                "compress": "6",
+                "ext": ".lzma",
+                "cost": "2079.574585 ms",
+                "size": "529.067383"
+            },
+            {
+                "file": "SVM.model.7.lzma",
+                "compress": "7",
+                "ext": ".lzma",
+                "cost": "2115.262270 ms",
+                "size": "529.171875"
+            },
+            {
+                "file": "SVM.model.8.lzma",
+                "compress": "8",
+                "ext": ".lzma",
+                "cost": "2078.213692 ms",
+                "size": "529.171875"
+            }
+        ],
+        "cost": "11.673157 s"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "SVM.model.0.lzma",
+                "compress": "0",
+                "ext": ".lzma",
+                "cost": "65.535307 ms",
+                "size": "558.459961"
+            },
+            {
+                "file": "SVM.model.1.lzma",
+                "compress": "1",
+                "ext": ".lzma",
+                "cost": "105.858564 ms",
+                "size": "1049.805664"
+            },
+            {
+                "file": "SVM.model.2.lzma",
+                "compress": "2",
+                "ext": ".lzma",
+                "cost": "66.226721 ms",
+                "size": "575.397461"
+            },
+            {
+                "file": "SVM.model.3.lzma",
+                "compress": "3",
+                "ext": ".lzma",
+                "cost": "66.076040 ms",
+                "size": "558.459961"
+            },
+            {
+                "file": "SVM.model.4.lzma",
+                "compress": "4",
+                "ext": ".lzma",
+                "cost": "68.207979 ms",
+                "size": "608.086914"
+            },
+            {
+                "file": "SVM.model.5.lzma",
+                "compress": "5",
+                "ext": ".lzma",
+                "cost": "64.453840 ms",
+                "size": "550.189453"
+            },
+            {
+                "file": "SVM.model.6.lzma",
+                "compress": "6",
+                "ext": ".lzma",
+                "cost": "64.232826 ms",
+                "size": "529.067383"
+            },
+            {
+                "file": "SVM.model.7.lzma",
+                "compress": "7",
+                "ext": ".lzma",
+                "cost": "65.016031 ms",
+                "size": "529.171875"
+            },
+            {
+                "file": "SVM.model.8.lzma",
+                "compress": "8",
+                "ext": ".lzma",
+                "cost": "67.356110 ms",
+                "size": "529.171875"
+            }
+        ],
+        "cost": "704.779625 ms"
+    }
+]

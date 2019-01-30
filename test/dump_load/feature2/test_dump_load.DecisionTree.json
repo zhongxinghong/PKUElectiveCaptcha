@@ -1,0 +1,760 @@
+[
+    {
+        "fn": "test_dump_ext",
+        "logs": [
+            {
+                "file": "DecisionTree.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "6.959438 ms",
+                "size": "21.882812"
+            },
+            {
+                "file": "DecisionTree.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "6.947517 ms",
+                "size": "21.894531"
+            },
+            {
+                "file": "DecisionTree.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "15.018225 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "21.916866 ms",
+                "size": "13.261719"
+            }
+        ],
+        "cost": "71.855307 ms"
+    },
+    {
+        "fn": "test_load_ext",
+        "logs": [
+            {
+                "file": "DecisionTree.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "3.830910 ms",
+                "size": "21.882812"
+            },
+            {
+                "file": "DecisionTree.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "3.819704 ms",
+                "size": "21.894531"
+            },
+            {
+                "file": "DecisionTree.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "6.236553 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "4.963875 ms",
+                "size": "13.261719"
+            }
+        ],
+        "cost": "24.303436 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "DecisionTree.model.0.z",
+                "compress": "0",
+                "ext": ".z",
+                "cost": "6.591320 ms",
+                "size": "21.882812"
+            },
+            {
+                "file": "DecisionTree.model.1.z",
+                "compress": "1",
+                "ext": ".z",
+                "cost": "6.612778 ms",
+                "size": "23.240234"
+            },
+            {
+                "file": "DecisionTree.model.2.z",
+                "compress": "2",
+                "ext": ".z",
+                "cost": "6.744862 ms",
+                "size": "22.560547"
+            },
+            {
+                "file": "DecisionTree.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "6.868362 ms",
+                "size": "21.882812"
+            },
+            {
+                "file": "DecisionTree.model.4.z",
+                "compress": "4",
+                "ext": ".z",
+                "cost": "9.425163 ms",
+                "size": "20.080078"
+            },
+            {
+                "file": "DecisionTree.model.5.z",
+                "compress": "5",
+                "ext": ".z",
+                "cost": "9.859562 ms",
+                "size": "19.158203"
+            },
+            {
+                "file": "DecisionTree.model.6.z",
+                "compress": "6",
+                "ext": ".z",
+                "cost": "12.340784 ms",
+                "size": "18.582031"
+            },
+            {
+                "file": "DecisionTree.model.7.z",
+                "compress": "7",
+                "ext": ".z",
+                "cost": "13.176203 ms",
+                "size": "18.289062"
+            },
+            {
+                "file": "DecisionTree.model.8.z",
+                "compress": "8",
+                "ext": ".z",
+                "cost": "23.300886 ms",
+                "size": "16.777344"
+            }
+        ],
+        "cost": "155.871391 ms"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "DecisionTree.model.0.z",
+                "compress": "0",
+                "ext": ".z",
+                "cost": "3.511429 ms",
+                "size": "21.882812"
+            },
+            {
+                "file": "DecisionTree.model.1.z",
+                "compress": "1",
+                "ext": ".z",
+                "cost": "3.549576 ms",
+                "size": "23.240234"
+            },
+            {
+                "file": "DecisionTree.model.2.z",
+                "compress": "2",
+                "ext": ".z",
+                "cost": "3.640413 ms",
+                "size": "22.560547"
+            },
+            {
+                "file": "DecisionTree.model.3.z",
+                "compress": "3",
+                "ext": ".z",
+                "cost": "3.721952 ms",
+                "size": "21.882812"
+            },
+            {
+                "file": "DecisionTree.model.4.z",
+                "compress": "4",
+                "ext": ".z",
+                "cost": "3.764868 ms",
+                "size": "20.080078"
+            },
+            {
+                "file": "DecisionTree.model.5.z",
+                "compress": "5",
+                "ext": ".z",
+                "cost": "3.704786 ms",
+                "size": "19.158203"
+            },
+            {
+                "file": "DecisionTree.model.6.z",
+                "compress": "6",
+                "ext": ".z",
+                "cost": "3.620863 ms",
+                "size": "18.582031"
+            },
+            {
+                "file": "DecisionTree.model.7.z",
+                "compress": "7",
+                "ext": ".z",
+                "cost": "3.755093 ms",
+                "size": "18.289062"
+            },
+            {
+                "file": "DecisionTree.model.8.z",
+                "compress": "8",
+                "ext": ".z",
+                "cost": "3.667593 ms",
+                "size": "16.777344"
+            }
+        ],
+        "cost": "38.219929 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "DecisionTree.model.0.gz",
+                "compress": "0",
+                "ext": ".gz",
+                "cost": "6.804705 ms",
+                "size": "21.894531"
+            },
+            {
+                "file": "DecisionTree.model.1.gz",
+                "compress": "1",
+                "ext": ".gz",
+                "cost": "6.721497 ms",
+                "size": "23.251953"
+            },
+            {
+                "file": "DecisionTree.model.2.gz",
+                "compress": "2",
+                "ext": ".gz",
+                "cost": "6.700993 ms",
+                "size": "22.572266"
+            },
+            {
+                "file": "DecisionTree.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "7.185459 ms",
+                "size": "21.894531"
+            },
+            {
+                "file": "DecisionTree.model.4.gz",
+                "compress": "4",
+                "ext": ".gz",
+                "cost": "9.803057 ms",
+                "size": "20.091797"
+            },
+            {
+                "file": "DecisionTree.model.5.gz",
+                "compress": "5",
+                "ext": ".gz",
+                "cost": "10.292292 ms",
+                "size": "19.169922"
+            },
+            {
+                "file": "DecisionTree.model.6.gz",
+                "compress": "6",
+                "ext": ".gz",
+                "cost": "12.504578 ms",
+                "size": "18.593750"
+            },
+            {
+                "file": "DecisionTree.model.7.gz",
+                "compress": "7",
+                "ext": ".gz",
+                "cost": "13.311148 ms",
+                "size": "18.300781"
+            },
+            {
+                "file": "DecisionTree.model.8.gz",
+                "compress": "8",
+                "ext": ".gz",
+                "cost": "23.217678 ms",
+                "size": "16.789062"
+            }
+        ],
+        "cost": "156.385660 ms"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "DecisionTree.model.0.gz",
+                "compress": "0",
+                "ext": ".gz",
+                "cost": "3.737211 ms",
+                "size": "21.894531"
+            },
+            {
+                "file": "DecisionTree.model.1.gz",
+                "compress": "1",
+                "ext": ".gz",
+                "cost": "3.779650 ms",
+                "size": "23.251953"
+            },
+            {
+                "file": "DecisionTree.model.2.gz",
+                "compress": "2",
+                "ext": ".gz",
+                "cost": "3.799915 ms",
+                "size": "22.572266"
+            },
+            {
+                "file": "DecisionTree.model.3.gz",
+                "compress": "3",
+                "ext": ".gz",
+                "cost": "3.665447 ms",
+                "size": "21.894531"
+            },
+            {
+                "file": "DecisionTree.model.4.gz",
+                "compress": "4",
+                "ext": ".gz",
+                "cost": "3.818274 ms",
+                "size": "20.091797"
+            },
+            {
+                "file": "DecisionTree.model.5.gz",
+                "compress": "5",
+                "ext": ".gz",
+                "cost": "4.148722 ms",
+                "size": "19.169922"
+            },
+            {
+                "file": "DecisionTree.model.6.gz",
+                "compress": "6",
+                "ext": ".gz",
+                "cost": "3.957987 ms",
+                "size": "18.593750"
+            },
+            {
+                "file": "DecisionTree.model.7.gz",
+                "compress": "7",
+                "ext": ".gz",
+                "cost": "3.996372 ms",
+                "size": "18.300781"
+            },
+            {
+                "file": "DecisionTree.model.8.gz",
+                "compress": "8",
+                "ext": ".gz",
+                "cost": "3.745556 ms",
+                "size": "16.789062"
+            }
+        ],
+        "cost": "40.259600 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "DecisionTree.model.0.bz2",
+                "compress": "0",
+                "ext": ".bz2",
+                "cost": "14.198780 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.1.bz2",
+                "compress": "1",
+                "ext": ".bz2",
+                "cost": "14.364719 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.2.bz2",
+                "compress": "2",
+                "ext": ".bz2",
+                "cost": "14.294386 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "14.398813 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.4.bz2",
+                "compress": "4",
+                "ext": ".bz2",
+                "cost": "14.746428 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.5.bz2",
+                "compress": "5",
+                "ext": ".bz2",
+                "cost": "14.710426 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.6.bz2",
+                "compress": "6",
+                "ext": ".bz2",
+                "cost": "14.793158 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.7.bz2",
+                "compress": "7",
+                "ext": ".bz2",
+                "cost": "14.714241 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.8.bz2",
+                "compress": "8",
+                "ext": ".bz2",
+                "cost": "14.632702 ms",
+                "size": "12.653320"
+            }
+        ],
+        "cost": "145.848036 ms"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "DecisionTree.model.0.bz2",
+                "compress": "0",
+                "ext": ".bz2",
+                "cost": "6.361485 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.1.bz2",
+                "compress": "1",
+                "ext": ".bz2",
+                "cost": "6.181479 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.2.bz2",
+                "compress": "2",
+                "ext": ".bz2",
+                "cost": "6.192207 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.3.bz2",
+                "compress": "3",
+                "ext": ".bz2",
+                "cost": "6.285667 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.4.bz2",
+                "compress": "4",
+                "ext": ".bz2",
+                "cost": "6.129980 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.5.bz2",
+                "compress": "5",
+                "ext": ".bz2",
+                "cost": "6.430149 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.6.bz2",
+                "compress": "6",
+                "ext": ".bz2",
+                "cost": "6.117344 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.7.bz2",
+                "compress": "7",
+                "ext": ".bz2",
+                "cost": "6.247044 ms",
+                "size": "12.653320"
+            },
+            {
+                "file": "DecisionTree.model.8.bz2",
+                "compress": "8",
+                "ext": ".bz2",
+                "cost": "6.371498 ms",
+                "size": "12.653320"
+            }
+        ],
+        "cost": "64.332724 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "DecisionTree.model.0.xz",
+                "compress": "0",
+                "ext": ".xz",
+                "cost": "17.089605 ms",
+                "size": "13.261719"
+            },
+            {
+                "file": "DecisionTree.model.1.xz",
+                "compress": "1",
+                "ext": ".xz",
+                "cost": "14.791012 ms",
+                "size": "13.867188"
+            },
+            {
+                "file": "DecisionTree.model.2.xz",
+                "compress": "2",
+                "ext": ".xz",
+                "cost": "15.767336 ms",
+                "size": "13.277344"
+            },
+            {
+                "file": "DecisionTree.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "16.792774 ms",
+                "size": "13.261719"
+            },
+            {
+                "file": "DecisionTree.model.4.xz",
+                "compress": "4",
+                "ext": ".xz",
+                "cost": "40.861368 ms",
+                "size": "13.652344"
+            },
+            {
+                "file": "DecisionTree.model.5.xz",
+                "compress": "5",
+                "ext": ".xz",
+                "cost": "67.153215 ms",
+                "size": "13.320312"
+            },
+            {
+                "file": "DecisionTree.model.6.xz",
+                "compress": "6",
+                "ext": ".xz",
+                "cost": "103.013515 ms",
+                "size": "13.082031"
+            },
+            {
+                "file": "DecisionTree.model.7.xz",
+                "compress": "7",
+                "ext": ".xz",
+                "cost": "117.352486 ms",
+                "size": "13.082031"
+            },
+            {
+                "file": "DecisionTree.model.8.xz",
+                "compress": "8",
+                "ext": ".xz",
+                "cost": "145.732880 ms",
+                "size": "13.082031"
+            }
+        ],
+        "cost": "671.579361 ms"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "DecisionTree.model.0.xz",
+                "compress": "0",
+                "ext": ".xz",
+                "cost": "4.519701 ms",
+                "size": "13.261719"
+            },
+            {
+                "file": "DecisionTree.model.1.xz",
+                "compress": "1",
+                "ext": ".xz",
+                "cost": "4.708767 ms",
+                "size": "13.867188"
+            },
+            {
+                "file": "DecisionTree.model.2.xz",
+                "compress": "2",
+                "ext": ".xz",
+                "cost": "4.587889 ms",
+                "size": "13.277344"
+            },
+            {
+                "file": "DecisionTree.model.3.xz",
+                "compress": "3",
+                "ext": ".xz",
+                "cost": "4.518032 ms",
+                "size": "13.261719"
+            },
+            {
+                "file": "DecisionTree.model.4.xz",
+                "compress": "4",
+                "ext": ".xz",
+                "cost": "4.974842 ms",
+                "size": "13.652344"
+            },
+            {
+                "file": "DecisionTree.model.5.xz",
+                "compress": "5",
+                "ext": ".xz",
+                "cost": "5.061388 ms",
+                "size": "13.320312"
+            },
+            {
+                "file": "DecisionTree.model.6.xz",
+                "compress": "6",
+                "ext": ".xz",
+                "cost": "4.517317 ms",
+                "size": "13.082031"
+            },
+            {
+                "file": "DecisionTree.model.7.xz",
+                "compress": "7",
+                "ext": ".xz",
+                "cost": "4.481554 ms",
+                "size": "13.082031"
+            },
+            {
+                "file": "DecisionTree.model.8.xz",
+                "compress": "8",
+                "ext": ".xz",
+                "cost": "5.348206 ms",
+                "size": "13.082031"
+            }
+        ],
+        "cost": "49.998283 ms"
+    },
+    {
+        "fn": "test_dump_compress_level",
+        "logs": [
+            {
+                "file": "DecisionTree.model.0.lzma",
+                "compress": "0",
+                "ext": ".lzma",
+                "cost": "19.698620 ms",
+                "size": "13.223633"
+            },
+            {
+                "file": "DecisionTree.model.1.lzma",
+                "compress": "1",
+                "ext": ".lzma",
+                "cost": "18.614769 ms",
+                "size": "13.831055"
+            },
+            {
+                "file": "DecisionTree.model.2.lzma",
+                "compress": "2",
+                "ext": ".lzma",
+                "cost": "17.439604 ms",
+                "size": "13.239258"
+            },
+            {
+                "file": "DecisionTree.model.3.lzma",
+                "compress": "3",
+                "ext": ".lzma",
+                "cost": "22.698879 ms",
+                "size": "13.223633"
+            },
+            {
+                "file": "DecisionTree.model.4.lzma",
+                "compress": "4",
+                "ext": ".lzma",
+                "cost": "40.916920 ms",
+                "size": "13.615234"
+            },
+            {
+                "file": "DecisionTree.model.5.lzma",
+                "compress": "5",
+                "ext": ".lzma",
+                "cost": "64.377546 ms",
+                "size": "13.282227"
+            },
+            {
+                "file": "DecisionTree.model.6.lzma",
+                "compress": "6",
+                "ext": ".lzma",
+                "cost": "100.179195 ms",
+                "size": "13.043945"
+            },
+            {
+                "file": "DecisionTree.model.7.lzma",
+                "compress": "7",
+                "ext": ".lzma",
+                "cost": "97.504377 ms",
+                "size": "13.043945"
+            },
+            {
+                "file": "DecisionTree.model.8.lzma",
+                "compress": "8",
+                "ext": ".lzma",
+                "cost": "102.965355 ms",
+                "size": "13.043945"
+            }
+        ],
+        "cost": "588.156223 ms"
+    },
+    {
+        "fn": "test_load_compress_level",
+        "logs": [
+            {
+                "file": "DecisionTree.model.0.lzma",
+                "compress": "0",
+                "ext": ".lzma",
+                "cost": "4.439116 ms",
+                "size": "13.223633"
+            },
+            {
+                "file": "DecisionTree.model.1.lzma",
+                "compress": "1",
+                "ext": ".lzma",
+                "cost": "3.578901 ms",
+                "size": "13.831055"
+            },
+            {
+                "file": "DecisionTree.model.2.lzma",
+                "compress": "2",
+                "ext": ".lzma",
+                "cost": "3.303528 ms",
+                "size": "13.239258"
+            },
+            {
+                "file": "DecisionTree.model.3.lzma",
+                "compress": "3",
+                "ext": ".lzma",
+                "cost": "3.571987 ms",
+                "size": "13.223633"
+            },
+            {
+                "file": "DecisionTree.model.4.lzma",
+                "compress": "4",
+                "ext": ".lzma",
+                "cost": "4.628420 ms",
+                "size": "13.615234"
+            },
+            {
+                "file": "DecisionTree.model.5.lzma",
+                "compress": "5",
+                "ext": ".lzma",
+                "cost": "4.531145 ms",
+                "size": "13.282227"
+            },
+            {
+                "file": "DecisionTree.model.6.lzma",
+                "compress": "6",
+                "ext": ".lzma",
+                "cost": "4.689693 ms",
+                "size": "13.043945"
+            },
+            {
+                "file": "DecisionTree.model.7.lzma",
+                "compress": "7",
+                "ext": ".lzma",
+                "cost": "4.962921 ms",
+                "size": "13.043945"
+            },
+            {
+                "file": "DecisionTree.model.8.lzma",
+                "compress": "8",
+                "ext": ".lzma",
+                "cost": "3.542185 ms",
+                "size": "13.043945"
+            }
+        ],
+        "cost": "42.415619 ms"
+    }
+]
