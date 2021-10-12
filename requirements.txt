@@ -1,6 +1,6 @@
 joblib==0.14.1
 numpy==1.18.1
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 pandas==0.25.3
 Pillow==6.1.0
 requests==2.22.0
